@@ -39,6 +39,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: 日本語フォント（明朝体）を入れる
+        run: sudo apt-get update -q && sudo apt-get install -y -q fonts-noto-cjk
+
       - name: 文章と画像を生成
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

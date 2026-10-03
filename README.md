@@ -6,7 +6,8 @@ GitHub Actions（クラウド）で動くので、パソコンの電源が切れ
 ```
 GitHub Actions（毎日3回起動）
   ├─ Claude が「テーマ・キャプション・画像の指示文」を作る（brand.md と過去の投稿履歴を参照）
-  ├─ OpenAI の画像生成AIが画像を作る（1080×1350 の縦長に整える）
+  ├─ OpenAI の画像生成AIが背景画像を作る（1080×1350 の縦長に整える）
+  ├─ 背景の上に、日本語の見出しとサロン名を明朝体で重ねる
   ├─ 画像をリポジトリに保存（Instagram が読める公開URLにするため）
   └─ Instagram API で投稿し、履歴を history.json に記録
 ```
@@ -108,6 +109,8 @@ git push -u origin main
 
 - **投稿内容の方向性を変えたい** → `brand.md` を書き換えて push
 - **投稿時刻を変えたい** → `.github/workflows/autopost.yml` の `cron`（UTC表記。日本時間から9時間引く）
+- **画像の見出しの色を変えたい** → `autopost.py` の `COLOR_TEXT`（文字）・`COLOR_ACCENT`（強調のピンク）・`COLOR_GOLD`（金の飾り）
+- **画像下のサロン名を変えたい** → workflow の生成ステップの `env` に `IMAGE_SIGNATURE` / `IMAGE_SIGNATURE_SUB` を追加
 - **画像の品質・料金を変えたい** → workflow の生成ステップの `env` に `IMAGE_QUALITY: low` などを追加
 - **一時停止したい** →「Actions」→「Instagram 自動投稿」→ 右上「…」→「Disable workflow」
 
