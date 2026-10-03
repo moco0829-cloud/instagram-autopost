@@ -1,0 +1,28 @@
+name: Instagram トークン延長
+
+# Instagram の長期アクセストークンは60日で切れるため、週1回延長して Secret を上書きする
+on:
+  schedule:
+    - cron: "0 0 * * 1"  # 毎週月曜 9:00 JST
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: トークンを延長して Secret を更新
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          NEW_TOKEN=$(python autopost.py refresh-token)
+          echo "::add-mask::$NEW_TOKEN"
+          gh secret set IG_ACCESS_TOKEN --body "$NEW_TOKEN" --repo "$GITHUB_REPOSITORY"
