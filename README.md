@@ -101,7 +101,14 @@ git push -u origin main
 2. まずは **「dry_run」にチェック** して実行 → `posts/` に画像、`posts/latest.json` に文章ができるので確認
 3. 内容に問題なければ、チェックを外して実行 → Instagram に実際に投稿されます
 
-以降は毎日 7:00 / 12:00 / 19:00 に自動で投稿されます。
+### 7. 自動投稿を始める
+
+試し投稿の内容に問題がなければ、定期実行をオンにします。
+
+1. リポジトリの「Settings」→「Secrets and variables」→「Actions」→「**Variables**」タブ
+2. 「New repository variable」で、名前 `AUTOPOST_ENABLED`、値 `true` を登録
+
+以降は毎日 7:00 / 12:00 / 19:00 に自動で投稿されます。止めたいときは、この値を `false` にします。
 
 ---
 
@@ -112,7 +119,7 @@ git push -u origin main
 - **画像の見出しの色を変えたい** → `autopost.py` の `COLOR_TEXT`（文字）・`COLOR_ACCENT`（強調のピンク）・`COLOR_GOLD`（金の飾り）
 - **画像下のサロン名を変えたい** → workflow の生成ステップの `env` に `IMAGE_SIGNATURE` / `IMAGE_SIGNATURE_SUB` を追加
 - **画像の品質・料金を変えたい** → workflow の生成ステップの `env` に `IMAGE_QUALITY: low` などを追加
-- **一時停止したい** →「Actions」→「Instagram 自動投稿」→ 右上「…」→「Disable workflow」
+- **一時停止したい** → Variables の `AUTOPOST_ENABLED` を `false` にする
 
 ## 注意点
 

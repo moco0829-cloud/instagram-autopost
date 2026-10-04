@@ -27,6 +27,9 @@ concurrency:
 
 jobs:
   post:
+    # 定期実行は、Settings → Variables で AUTOPOST_ENABLED を true にするまで動かない
+    # （試し実行で内容を確認してから、自動投稿を始めるため）。手動実行はいつでも動く
+    if: github.event_name == 'workflow_dispatch' || vars.AUTOPOST_ENABLED == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
