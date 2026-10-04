@@ -25,4 +25,11 @@ jobs:
         run: |
           NEW_TOKEN=$(python autopost.py refresh-token)
           echo "::add-mask::$NEW_TOKEN"
-          gh secret set IG_ACCESS_TOKEN --body "$NEW_TOKEN" --repo "$GITHUB_REPOSITORY"
+          OLD_TOKEN=$(printf %s "$IG_ACCESS_TOKEN" | tr -d '[:space:]')
+          # 延長しても文字列が変わらなければ、有効期限が延びただけなので Secret の更新は要らない
+          if [ "$NEW_TOKEN" = "$OLD_TOKEN" ]; then
+            echo "トークンの有効期限を延長しました（文字列は変わらないので Secret の更新は不要）"
+          else
+            gh secret set IG_ACCESS_TOKEN --body "$NEW_TOKEN" --repo "$GITHUB_REPOSITORY"
+            echo "新しいトークンで Secret を更新しました"
+          fi
