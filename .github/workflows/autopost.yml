@@ -72,6 +72,16 @@ jobs:
           IMAGE_COMMIT_SHA: ${{ steps.push.outputs.sha }}
         run: python autopost.py publish
 
+      - name: Facebook ページにも投稿
+        if: ${{ !inputs.dry_run }}
+        # Facebook 側で失敗しても、Instagram の投稿と履歴の保存は止めない
+        continue-on-error: true
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          IMAGE_COMMIT_SHA: ${{ steps.push.outputs.sha }}
+        run: python autopost.py publish-facebook
+
       - name: 投稿履歴を保存
         if: ${{ !inputs.dry_run }}
         run: |

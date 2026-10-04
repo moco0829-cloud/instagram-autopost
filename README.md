@@ -10,7 +10,9 @@ GitHub Actions（毎日19時に起動）
   ├─ OpenAI の画像生成AIが背景画像を作る（1080×1350 の縦長に整える）
   ├─ 同じ背景の上に、表紙・中身（番号付きの手順やチェックリスト）・締めの文字を明朝体で重ねる
   ├─ 画像をリポジトリに保存（Instagram が読める公開URLにするため）
-  └─ Instagram API で投稿し、履歴を history.json に記録
+  ├─ Instagram API で投稿
+  ├─ 同じ画像と文章を Facebook ページにも投稿（Secrets に FB_PAGE_ID と FB_PAGE_TOKEN があるときだけ）
+  └─ 履歴を history.json に記録
 ```
 
 ## ファイル
@@ -91,6 +93,8 @@ git push -u origin main
 | `IG_ACCESS_TOKEN` | 手順2-5 のアクセストークン |
 | `IG_USER_ID` | 手順2-6 の `user_id` |
 | `GH_PAT` | トークン自動延長用。下記参照 |
+| `FB_PAGE_ID` | （任意）Facebook ページのID。登録すると Facebook にも同時投稿 |
+| `FB_PAGE_TOKEN` | （任意）Facebook ページのアクセストークン（期限なしのもの） |
 
 **`GH_PAT` の作り方**: [新しいトークンの作成画面（classic）](https://github.com/settings/tokens/new) を開き、
 Note に `instagram-autopost-secrets`、Expiration に「No expiration」、Select scopes で「**repo**」にチェックを入れて作成します。

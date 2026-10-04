@@ -3,6 +3,7 @@
 使い方:
     python autopost.py generate [--slot morning|noon|night]   # 文章と画像を作って posts/ に保存
     python autopost.py publish                                # posts/latest.json の投稿を Instagram に公開
+    python autopost.py publish-facebook                       # 同じ投稿を Facebook ページにも公開
     python autopost.py refresh-token                          # 長期アクセストークンを延長して標準出力に出す
 
 generate と publish を分けているのは、Instagram API が「インターネット上で公開されている画像URL」
@@ -36,6 +37,7 @@ BRAND_FILE = ROOT / "brand.md"
 
 JST = timezone(timedelta(hours=9), "JST")
 IG_API = "https://graph.instagram.com/v23.0"
+FB_API = "https://graph.facebook.com/v23.0"
 
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 IMAGE_MODEL = os.environ.get("IMAGE_MODEL", "gpt-image-1")
@@ -460,16 +462,19 @@ def wait_until_ready(container_id: str) -> None:
     sys.exit("Instagram 側の画像処理が時間内に終わりませんでした")
 
 
+def image_urls(latest: dict) -> list[str]:
+    """GitHub Actions が push した直後のコミットを指す URL。コミットSHAで固定するので内容が確実に一致する。"""
+    repo = env("GITHUB_REPOSITORY")
+    sha = env("IMAGE_COMMIT_SHA")
+    return [f"https://raw.githubusercontent.com/{repo}/{sha}/{path}" for path in latest["images"]]
+
+
 def cmd_publish() -> None:
     latest = json.loads(LATEST_FILE.read_text(encoding="utf-8"))
     if latest["published"]:
         sys.exit("この投稿はすでに公開済みです")
 
-    # GitHub Actions が push した直後のコミットを指す URL。コミットSHAで固定するので内容が確実に一致する。
-    repo = env("GITHUB_REPOSITORY")
-    sha = env("IMAGE_COMMIT_SHA")
-    urls = [f"https://raw.githubusercontent.com/{repo}/{sha}/{path}" for path in latest["images"]]
-
+    urls = image_urls(latest)
     user_id = env("IG_USER_ID")
     if len(urls) == 1:
         container = ig_request("POST", f"{user_id}/media", image_url=urls[0], caption=latest["caption"])
@@ -495,6 +500,41 @@ def cmd_publish() -> None:
     HISTORY_FILE.write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def fb_request(path: str, **data) -> dict:
+    data["access_token"] = env("FB_PAGE_TOKEN")
+    response = requests.post(f"{FB_API}/{path}", data=data, timeout=120)
+    if not response.ok:
+        sys.exit(f"Facebook API エラー ({response.status_code}): {response.text}")
+    return response.json()
+
+
+def cmd_publish_facebook() -> None:
+    """Instagram に出した投稿と同じ画像・文章を、Facebook ページにも投稿する。"""
+    if not os.environ.get("FB_PAGE_ID", "").strip():
+        print("FB_PAGE_ID が未設定なので、Facebook への投稿は行いません")
+        return
+
+    latest = json.loads(LATEST_FILE.read_text(encoding="utf-8"))
+    if not latest.get("published"):
+        sys.exit("Instagram に投稿されていないので、Facebook への投稿は行いません")
+    if latest.get("fb_post_id"):
+        sys.exit("この投稿はすでに Facebook にも公開済みです")
+
+    page_id = env("FB_PAGE_ID")
+    # 画像をいったん非公開で登録し、まとめて1つの投稿にする
+    photo_ids = [fb_request(f"{page_id}/photos", url=url, published="false")["id"] for url in image_urls(latest)]
+    attached = {f"attached_media[{i}]": json.dumps({"media_fbid": pid}) for i, pid in enumerate(photo_ids)}
+    post = fb_request(f"{page_id}/feed", message=latest["caption"], **attached)
+    print(f"Facebook に投稿しました: post_id={post['id']}")
+
+    latest["fb_post_id"] = post["id"]
+    LATEST_FILE.write_text(json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8")
+    history = load_history()
+    if history and history[-1].get("media_id") == latest.get("media_id"):
+        history[-1]["fb_post_id"] = post["id"]
+        HISTORY_FILE.write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def cmd_refresh_token() -> None:
     response = requests.get(
         "https://graph.instagram.com/refresh_access_token",
@@ -512,6 +552,7 @@ def main() -> None:
     gen = sub.add_parser("generate")
     gen.add_argument("--slot", choices=SLOTS.keys())
     sub.add_parser("publish")
+    sub.add_parser("publish-facebook")
     sub.add_parser("refresh-token")
     args = parser.parse_args()
 
@@ -519,6 +560,8 @@ def main() -> None:
         cmd_generate(args.slot)
     elif args.command == "publish":
         cmd_publish()
+    elif args.command == "publish-facebook":
+        cmd_publish_facebook()
     else:
         cmd_refresh_token()
 
