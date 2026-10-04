@@ -1,11 +1,11 @@
 # Instagram 自動投稿
 
-毎日 **朝7時・昼12時・夜19時** に、AIが作った画像と文章を Instagram に自動投稿する仕組みです。
+毎日 **夜19時** に、AIが作った画像と文章を Instagram に自動投稿する仕組みです。
 投稿は、横にスワイプして見るカルーセル形式（表紙・中身1〜3枚・締めの3〜5枚）です。
 GitHub Actions（クラウド）で動くので、パソコンの電源が切れていても投稿されます。
 
 ```
-GitHub Actions（毎日3回起動）
+GitHub Actions（毎日19時に起動）
   ├─ Claude が「テーマ・キャプション・各画像の文字・画像の指示文」を作る（brand.md と過去の投稿履歴を参照）
   ├─ OpenAI の画像生成AIが背景画像を作る（1080×1350 の縦長に整える）
   ├─ 同じ背景の上に、表紙・中身（番号付きの手順やチェックリスト）・締めの文字を明朝体で重ねる
@@ -24,12 +24,12 @@ GitHub Actions（毎日3回起動）
 | `.github/workflows/autopost.yml` | 毎日3回の自動実行 |
 | `.github/workflows/refresh-token.yml` | Instagram トークンの自動延長（週1回） |
 
-## 費用の目安（1日3投稿・月90投稿）
+## 費用の目安（1日1投稿・月30投稿）
 
 | 項目 | 目安 |
 | --- | --- |
-| Claude API（文章） | 月 数十円〜100円程度 |
-| OpenAI 画像生成（medium 品質） | 月 500〜1,000円程度 |
+| Claude API（文章） | 月 数十円程度 |
+| OpenAI 画像生成（medium 品質） | 月 200〜300円程度 |
 | GitHub Actions | 公開リポジトリなら無料 |
 | Instagram API | 無料 |
 
@@ -110,7 +110,7 @@ Note に `instagram-autopost-secrets`、Expiration に「No expiration」、Sele
 1. リポジトリの「Settings」→「Secrets and variables」→「Actions」→「**Variables**」タブ
 2. 「New repository variable」で、名前 `AUTOPOST_ENABLED`、値 `true` を登録
 
-以降は毎日 7:00 / 12:00 / 19:00 に自動で投稿されます。止めたいときは、この値を `false` にします。
+以降は毎日 19:00 に自動で投稿されます。止めたいときは、この値を `false` にします。
 
 ---
 
@@ -129,4 +129,4 @@ Note に `instagram-autopost-secrets`、Expiration に「No expiration」、Sele
 - 60日以上リポジトリに変更がないと定期実行が自動停止されますが、この仕組みは毎回画像をコミットするので通常は止まりません。
 - 投稿は API 経由で毎回自動公開されます。AIが作った内容がそのまま出るため、最初の数日は投稿をチェックし、
   気になる点があれば `brand.md` の「投稿しないこと」に追記してください。
-- Instagram API の投稿上限は 24時間で100件なので、1日3件は問題ありません。
+- Instagram API の投稿上限は 24時間で100件なので、1日1件は問題ありません。

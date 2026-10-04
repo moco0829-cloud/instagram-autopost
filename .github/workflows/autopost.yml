@@ -3,9 +3,7 @@ name: Instagram 自動投稿
 on:
   schedule:
     # GitHub Actions の cron は UTC。日本時間 = UTC + 9 時間
-    - cron: "0 22 * * *"  # 毎日 7:00 JST（朝）
-    - cron: "0 3 * * *"   # 毎日 12:00 JST（昼）
-    - cron: "0 10 * * *"  # 毎日 19:00 JST（晩）
+    - cron: "0 10 * * *"  # 毎日 19:00 JST
   workflow_dispatch:
     inputs:
       slot:
