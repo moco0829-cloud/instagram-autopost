@@ -1,12 +1,55 @@
 {
   "date": "2026-10-04",
   "slot": "noon",
-  "theme": "座ったままできる骨盤底筋ケア",
-  "caption": "ランチのあと、椅子に座ったままできる「ひそかなケア」があるんです。\n\nそれは「骨盤底筋」のケア。\n骨盤の底でハンモックのように内側を支えている筋肉で、くしゃみのときのヒヤッとした感覚や、腰まわりの重さとも関わりがあるといわれています。\n\n【座ったままできる簡単ケア】\n1. 椅子に浅めに座り、背すじをすっと伸ばします\n2. 息を吐きながら、おなかの奥をやさしく引き上げるイメージで5秒キープ\n3. 息を吸いながら、ゆっくりゆるめます\nこれを5回ほど、気づいたときに。\n\nポイントは、お尻や肩に力を入れすぎないこと。\n「内側がふんわり持ち上がるかな？」くらいの感覚で大丈夫ですよ。\n周りの人には気づかれないので、デスクでもカフェでも気軽にできます。\n\n骨盤底筋のゆるみは、出産や年齢を重ねる中で多くの女性が感じること。\n決して恥ずかしいことではありません🌸\n気になる症状が続くときは、婦人科などの医療機関にも相談してみてくださいね。\n\nサロンでは、骨盤まわりのケアについても一緒にお話ししています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #骨盤底筋 #骨盤底筋トレーニング #セルフケア #尿もれ対策 #更年期 #大人女子 #女性の健康 #ボディケア #千葉サロン",
-  "lead": "休憩中にこっそりできる",
-  "headline": "座ったまま\n【骨盤底筋】\nケアしませんか？",
-  "image_prompt": "Elegant feminine background design for adult women, bright cream to soft blush pink gradient, delicate watercolor pink peonies and roses arranged only in the corners and along the left and right edges, a soft draped beige linen fabric and a small white teacup with gentle afternoon sunlight hinting at a calm lunch break, thin fine gold lines and subtle sparkles as accents, the center left wide open, very light and airy with plenty of empty space for a headline overlay, soft, clean, calm and refined mood, dusty pink and baby pink palette with white and beige, no people, no body parts, no text, no letters, no numbers, no logos, no watermark",
-  "image": "posts/20261004-noon.jpg",
-  "published": true,
-  "media_id": "18108077183266134"
+  "theme": "秋のデリケートゾーン乾燥ケア",
+  "caption": "秋になって、なんだか「ムズムズ」が気になりませんか？\n\n空気が乾燥しはじめるこの季節。\nお顔や手と同じように、デリケートゾーンも乾燥しやすくなるんです。\n\n「こんなこと、人に言えない…」と思われる方も多いのですが、\n実はとてもよくあるお悩み。\nあなただけではないので、大丈夫ですよ。\n\n今回は、お昼休みにさっと読める\n・乾燥サインのチェック\n・やさしい洗い方\n・うるおいを守る毎日の習慣\nをまとめました。\n\nポイントは「洗いすぎない」「こすらない」こと。\nキレイにしようと頑張りすぎるほど、うるおいまで落としてしまうことがあります。\n\n画像をスワイプしてご覧くださいね。\n保存しておくと、ふとしたときに見返せます🌸\n\nなお、かゆみや違和感が続くときは、無理せず婦人科などの医療機関へご相談くださいね。\n\n「恥ずかしい」と感じるお悩みも、ケアしていいこと。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #デリケートゾーンケア #デリケートゾーン #乾燥対策 #秋のセルフケア #女性の悩み #ゆらぎ世代 #大人女子 #千葉サロン #SalondeMoco",
+  "cover": {
+    "lead": "乾燥が気になる季節に",
+    "headline": "秋の【ムズムズ】、\nひとりで\n悩んでいませんか？"
+  },
+  "slides": [
+    {
+      "title": "乾燥しやすい【秋】の\nサインをチェック",
+      "numbered": false,
+      "items": [
+        "下着がこすれると気になる",
+        "夕方になるとムズムズしやすい",
+        "洗ったあと、つっぱる感じがする",
+        "顔や手の乾燥も気になり始めた"
+      ]
+    },
+    {
+      "title": "今日からできる\n【やさしい洗い方】",
+      "numbered": true,
+      "items": [
+        "ぬるめのお湯で、こすらずやさしく",
+        "専用ソープをよく泡立てて包むように",
+        "洗いすぎず、1日1回を目安に",
+        "タオルでそっと押さえて水気をとる"
+      ]
+    },
+    {
+      "title": "うるおいを守る\n【毎日の習慣】",
+      "numbered": false,
+      "items": [
+        "専用の保湿アイテムでやさしくケア",
+        "通気性のよいコットンの下着を選ぶ",
+        "こまめな水分補給で内側からもうるおいを",
+        "かゆみが続くときは婦人科へ相談を"
+      ]
+    }
+  ],
+  "closing": {
+    "lead": "話していいことですよ",
+    "headline": "ひとりで抱えず\n【お気軽に】\nご相談くださいね"
+  },
+  "image_prompt": "Elegant feminine background design for an adult women's self-care salon, bright cream to pale blush pink backdrop with soft autumn feeling, delicate watercolor pink peonies and roses with a few dewdrops symbolizing moisture and hydration, soft white silk fabric draped gently, placed only in the corners and along the left and right edges, thin gold lines and subtle sparkles, the center left bright, soft and mostly empty with generous negative space for overlaying text, calm, clean, gentle and refined atmosphere, no people, no body parts, no text, no letters, no numbers, no logos",
+  "images": [
+    "posts/20261004-noon-1.jpg",
+    "posts/20261004-noon-2.jpg",
+    "posts/20261004-noon-3.jpg",
+    "posts/20261004-noon-4.jpg",
+    "posts/20261004-noon-5.jpg"
+  ],
+  "published": false
 }
