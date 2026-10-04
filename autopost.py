@@ -63,16 +63,40 @@ SLOTS = {
     "night": "夜（19時ごろ）。1日の終わりにゆっくり読まれる。悩みに深く寄り添う内容や、自分をいたわる時間の提案。",
 }
 
+TEXT_PAIR = {
+    "type": "object",
+    "properties": {
+        "lead": {"type": "string", "description": "画像の上部に小さく入れる一言。15字以内"},
+        "headline": {"type": "string", "description": "画像の中央に大きく入れる見出し。1行9字以内で2〜3行、改行は\\n。ピンクで強調する言葉は【】で囲む"},
+    },
+    "required": ["lead", "headline"],
+    "additionalProperties": False,
+}
+
 POST_SCHEMA = {
     "type": "object",
     "properties": {
         "theme": {"type": "string", "description": "投稿テーマを20字以内で。履歴との重複チェックに使う"},
         "caption": {"type": "string", "description": "Instagramのキャプション本文。末尾にハッシュタグを含める"},
-        "lead": {"type": "string", "description": "画像の上部に小さく入れる一言。15字以内"},
-        "headline": {"type": "string", "description": "画像の中央に大きく入れる見出し。1行9字以内で2〜3行、改行は\\n。ピンクで強調する言葉は【】で囲む"},
+        "cover": {**TEXT_PAIR, "description": "1枚目（表紙）の文字"},
+        "slides": {
+            "type": "array",
+            "description": "2枚目以降の中身の画像。1〜3枚",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {"type": "string", "description": "画像の見出し。1行12字以内で1〜2行、改行は\\n。強調は【】"},
+                    "numbered": {"type": "boolean", "description": "手順など順番のある内容なら true（番号付き）、チェックリストやポイントなら false"},
+                    "items": {"type": "array", "items": {"type": "string"}, "description": "箇条書きの中身。3〜5個、各40字以内"},
+                },
+                "required": ["title", "numbered", "items"],
+                "additionalProperties": False,
+            },
+        },
+        "closing": {**TEXT_PAIR, "description": "最後の画像の文字。DMでの相談をやさしく促す"},
         "image_prompt": {"type": "string", "description": "画像生成AIに渡す英語のプロンプト"},
     },
-    "required": ["theme", "caption", "lead", "headline", "image_prompt"],
+    "required": ["theme", "caption", "cover", "slides", "closing", "image_prompt"],
     "additionalProperties": False,
 }
 
@@ -110,12 +134,19 @@ def write_post(slot: str, now: datetime, history: list[dict]) -> dict:
         "あなたはInstagram運用の担当者です。以下のアカウント設定に沿って、1件分の投稿を作ります。\n\n"
         f"{brand}\n\n"
         "## 出力のルール\n"
+        "- 投稿は、横にスワイプして見るカルーセル形式。1枚目が表紙（cover）、2枚目以降が中身（slides）、"
+        "最後が締め（closing）。読んだ人が保存したくなる、役立つ内容を画像にまとめる。\n"
         "- caption: 日本語。1行目は思わず続きを読みたくなるフック。本文は改行と空行で読みやすく、"
-        "全体で300〜600字。最後に関連ハッシュタグを8〜15個。\n"
-        "- lead と headline: 画像に重ねる日本語の文字。フィードで目に留まり、続きを読みたくなる言葉にする。"
+        "全体で300〜500字。画像の内容をなぞりつつ、共感や補足を加え、"
+        "「画像をスワイプしてご覧くださいね」のように画像へ誘導する。最後に関連ハッシュタグを8〜15個。\n"
+        "- cover の lead と headline: フィードで目に留まり、続きを見たくなる言葉にする。"
         "headline は問いかけや共感の一言が効果的。いちばん伝えたい言葉を1〜2か所だけ【】で囲むと、"
         "画像ではそこがピンクの少し大きな文字になる（例: 'その【生理痛】、\\nがまんして\\nいませんか？'）。"
         "改行位置は意味の切れ目にする。\n"
+        "- slides: 1〜3枚。1枚に1つのまとまり（手順、チェックリスト、ポイントなど）。"
+        "items は画像に入れるので、短く言い切る（各40字以内、3〜5個）。\n"
+        "- closing: サロンの想いを感じる、やさしい締め。DMでの相談をさりげなく促す"
+        "（例: lead 'ひとりで抱えないで' headline 'お気軽に\\n【ご相談】\\nくださいね'）。\n"
         "- image_prompt: 英語。投稿内容を象徴する背景画像を説明する。"
         "雰囲気は、クリーム色〜淡いピンクの明るい背景に、ピンクの芍薬やバラの花を水彩画風にあしらい、"
         "細い金色のラインやきらめきを添えた、上品でフェミニンな大人の女性向けのデザイン。"
@@ -218,54 +249,43 @@ def draw_sparkle(draw: ImageDraw.ImageDraw, cx: float, cy: float, r: float, fill
                   (cx, cy + r), (cx - w, cy + w), (cx - r, cy), (cx - w, cy - w)], fill=fill)
 
 
-def overlay_text(image: Image.Image, lead: str, headline: str) -> Image.Image:
-    """背景画像の中央に、今のフィードと同じ雰囲気の見出しを重ねる。"""
-    lines = [parse_emphasis(line.strip()) for line in headline.replace("\\n", "\n").splitlines() if line.strip()]
+def split_lines(text: str) -> list[list[tuple[str, bool]]]:
+    return [parse_emphasis(line.strip()) for line in text.replace("\\n", "\n").splitlines() if line.strip()]
 
-    # 一番長い行が幅 820px に収まるまで文字を小さくする（強調部分は 1.15 倍）
-    size = 100
+
+def fit_heading(lines, max_size: int, min_size: int) -> tuple[int, dict]:
+    """一番長い行が幅 820px に収まるまで文字を小さくする（強調部分は 1.15 倍）。"""
+    size = max_size
     while True:
         fonts = {False: load_font(size), True: load_font(int(size * 1.15))}
         widest = max(sum(fonts[e].getlength(t) for t, e in line) for line in lines)
-        if widest <= 820 or size <= 52:
-            break
+        if widest <= 820 or size <= min_size:
+            return size, fonts
         size -= 4
-    lead_font = load_font(38)
-    sign_font = load_font(46)
-    sub_font = load_font(22)
 
-    line_height = int(size * 1.5)
 
-    # まず文字だけを透明なレイヤーに描き、その大きさに合わせてパネルを作る
-    text_layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
-    draw = ImageDraw.Draw(text_layer)
-
-    # 上の小さな一言（両脇にきらめき）
-    y = 200
-    draw.text((540, y), lead, font=lead_font, fill=COLOR_ACCENT, anchor="ms")
-    half = draw.textlength(lead, font=lead_font) / 2
+def draw_lead(draw: ImageDraw.ImageDraw, y: int, lead: str) -> None:
+    """ピンクの小さな一言と、両脇の金のきらめき。"""
+    font = load_font(38)
+    draw.text((540, y), lead, font=font, fill=COLOR_ACCENT, anchor="ms")
+    half = draw.textlength(lead, font=font) / 2
     for cx in (540 - half - 40, 540 + half + 40):
         draw_sparkle(draw, cx, y - 14, 14, COLOR_GOLD)
 
-    # 見出し
-    y += 40 + int(size * 1.15)
-    for segments in lines:
-        draw_line(draw, y, segments, fonts)
-        y += line_height
 
-    # 金のハートの区切り線
-    y += 70 - line_height
+def draw_divider(draw: ImageDraw.ImageDraw, y: int) -> None:
     draw.line((340, y, 520, y), fill=COLOR_GOLD, width=2)
     draw.line((560, y, 740, y), fill=COLOR_GOLD, width=2)
     draw_heart(draw, 540, y, 12, COLOR_GOLD)
 
-    # サロン名
-    y += 30 + 46
-    draw.text((540, y), SIGNATURE, font=sign_font, fill=COLOR_TEXT, anchor="ms")
-    y += 34
-    draw.text((540, y), SIGNATURE_SUB, font=sub_font, fill=COLOR_TEXT, anchor="ms")
 
-    # 文字のまとまりを画像の上下中央へ移し、まわりに余白をとってパネルを敷く
+def draw_signature(draw: ImageDraw.ImageDraw, y: int, size: int = 46) -> None:
+    draw.text((540, y), SIGNATURE, font=load_font(size), fill=COLOR_TEXT, anchor="ms")
+    draw.text((540, y + int(size * 0.74)), SIGNATURE_SUB, font=load_font(size * 22 // 46), fill=COLOR_TEXT, anchor="ms")
+
+
+def with_panel(image: Image.Image, text_layer: Image.Image) -> Image.Image:
+    """文字のまとまりを画像の上下中央へ移し、まわりに余白をとって半透明のパネルを敷く。"""
     _, top, _, bottom = text_layer.getbbox()
     shift = (1350 - (bottom - top)) // 2 - top
     text_layer = text_layer.transform(image.size, Image.AFFINE, (1, 0, 0, 0, 1, -shift))
@@ -281,6 +301,105 @@ def overlay_text(image: Image.Image, lead: str, headline: str) -> Image.Image:
     return Image.alpha_composite(canvas, text_layer).convert("RGB")
 
 
+def render_cover(image: Image.Image, lead: str, headline: str, note: str = "") -> Image.Image:
+    """表紙・締めの画像。小さな一言、大きな見出し、（あれば）補足、サロン名。"""
+    lines = split_lines(headline)
+    size, fonts = fit_heading(lines, 100, 52)
+    line_height = int(size * 1.5)
+
+    layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(layer)
+    y = 200
+    draw_lead(draw, y, lead)
+
+    y += 40 + int(size * 1.15)
+    for segments in lines:
+        draw_line(draw, y, segments, fonts)
+        y += line_height
+    y -= line_height
+
+    if note:
+        y += 90
+        draw.text((540, y), note, font=load_font(36), fill=COLOR_TEXT, anchor="ms")
+
+    y += 70
+    draw_divider(draw, y)
+    draw_signature(draw, y + 76)
+    return with_panel(image, layer)
+
+
+NO_LINE_START = "、。，．・：；？！ー」』）】ぁぃぅぇぉっゃゅょァィゥェォッャュョ"
+
+
+def wrap_text(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
+    """日本語を折り返す。行の長さをそろえて、最後の行に1〜2文字だけ残らないようにする。"""
+    lines = wrap_greedy(text, font, width)
+    if len(lines) > 1:
+        balanced = wrap_greedy(text, font, font.getlength(text) / len(lines) * 1.08)
+        if len(balanced) == len(lines):
+            return balanced
+    return lines
+
+
+def wrap_greedy(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
+    """1文字ずつ詰めて折り返す。句読点などが行頭に来ないようにする。"""
+    lines, current = [], ""
+    for char in text:
+        if current and font.getlength(current + char) > width and char not in NO_LINE_START:
+            lines.append(current)
+            current = ""
+        current += char
+    if current:
+        lines.append(current)
+    return lines
+
+
+def render_list(image: Image.Image, title: str, items: list[str], numbered: bool) -> Image.Image:
+    """中身の画像。見出しの下に、番号付き（またはハート付き）の箇条書きを並べる。"""
+    title_lines = split_lines(title)
+    title_size, title_fonts = fit_heading(title_lines, 68, 44)
+    items = [re.sub(r"[【】]", "", item).strip() for item in items[:6]]
+
+    # 本文が画像に収まるまで文字を小さくする
+    text_x, text_width = 230, 720
+    for size in range(42, 27, -2):
+        font = load_font(size)
+        wrapped = [wrap_text(item, font, text_width) for item in items]
+        height = sum(len(lines) * size * 1.55 + size * 0.7 for lines in wrapped)
+        if height <= 760:
+            break
+
+    layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(layer)
+
+    y = 200 + int(title_size * 1.15)
+    for segments in title_lines:
+        draw_line(draw, y, segments, title_fonts)
+        y += int(title_size * 1.45)
+    y += 10 - int(title_size * 0.45)
+    draw_divider(draw, y)
+
+    y += 50
+    number_font = load_font(int(size * 0.75))
+    for index, lines in enumerate(wrapped, start=1):
+        center_y = y + size - size * 0.36
+        if numbered:
+            r = size * 0.62
+            draw.ellipse((170 - r, center_y - r, 170 + r, center_y + r), fill=COLOR_ACCENT)
+            draw.text((170, center_y), str(index), font=number_font, fill=(255, 255, 255), anchor="mm")
+        else:
+            draw_heart(draw, 170, center_y, size * 0.36, COLOR_ACCENT)
+        for line in lines:
+            draw.text((text_x, y + size), line, font=font, fill=COLOR_TEXT, anchor="ls")
+            y += int(size * 1.55)
+        y += int(size * 0.7)
+
+    y += 20
+    draw_divider(draw, y)
+    draw_signature(draw, y + 56, size=32)
+    return with_panel(image, layer)
+
+
 def cmd_generate(slot: str | None) -> None:
     now = datetime.now(JST)
     slot = slot or detect_slot(now)
@@ -290,23 +409,33 @@ def cmd_generate(slot: str | None) -> None:
     print(f"テーマ: {post['theme']}\n\n{post['caption']}\n")
 
     POSTS_DIR.mkdir(exist_ok=True)
-    image_name = f"{now:%Y%m%d}-{slot}.jpg"
-    image = overlay_text(make_background(post["image_prompt"]), post["lead"], post["headline"])
-    image.save(POSTS_DIR / image_name, "JPEG", quality=92)
+    background = make_background(post["image_prompt"])
+    pages = [render_cover(background, post["cover"]["lead"], post["cover"]["headline"])]
+    pages += [render_list(background, slide["title"], slide["items"], slide["numbered"])
+              for slide in post["slides"][:3]]
+    pages.append(render_cover(background, post["closing"]["lead"], post["closing"]["headline"],
+                              note="ご予約・ご相談は DM から"))
+
+    images = []
+    for number, page in enumerate(pages, start=1):
+        name = f"posts/{now:%Y%m%d}-{slot}-{number}.jpg"
+        page.save(ROOT / name, "JPEG", quality=92)
+        images.append(name)
 
     latest = {
         "date": now.strftime("%Y-%m-%d"),
         "slot": slot,
         "theme": post["theme"],
         "caption": post["caption"],
-        "lead": post["lead"],
-        "headline": post["headline"],
+        "cover": post["cover"],
+        "slides": post["slides"],
+        "closing": post["closing"],
         "image_prompt": post["image_prompt"],
-        "image": f"posts/{image_name}",
+        "images": images,
         "published": False,
     }
     LATEST_FILE.write_text(json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"保存しました: {latest['image']}")
+    print("保存しました:", ", ".join(images))
 
 
 # ---------------------------------------------------------------- publish
@@ -338,10 +467,20 @@ def cmd_publish() -> None:
     # GitHub Actions が push した直後のコミットを指す URL。コミットSHAで固定するので内容が確実に一致する。
     repo = env("GITHUB_REPOSITORY")
     sha = env("IMAGE_COMMIT_SHA")
-    image_url = f"https://raw.githubusercontent.com/{repo}/{sha}/{latest['image']}"
+    urls = [f"https://raw.githubusercontent.com/{repo}/{sha}/{path}" for path in latest["images"]]
 
     user_id = env("IG_USER_ID")
-    container = ig_request("POST", f"{user_id}/media", image_url=image_url, caption=latest["caption"])
+    if len(urls) == 1:
+        container = ig_request("POST", f"{user_id}/media", image_url=urls[0], caption=latest["caption"])
+    else:
+        # カルーセル: 1枚ずつ登録してから、まとめて1つの投稿にする
+        children = []
+        for url in urls:
+            child = ig_request("POST", f"{user_id}/media", image_url=url, is_carousel_item="true")
+            wait_until_ready(child["id"])
+            children.append(child["id"])
+        container = ig_request("POST", f"{user_id}/media", media_type="CAROUSEL",
+                               children=",".join(children), caption=latest["caption"])
     wait_until_ready(container["id"])
     media = ig_request("POST", f"{user_id}/media_publish", creation_id=container["id"])
     print(f"投稿しました: media_id={media['id']}")
@@ -351,7 +490,7 @@ def cmd_publish() -> None:
     LATEST_FILE.write_text(json.dumps(latest, ensure_ascii=False, indent=2), encoding="utf-8")
 
     history = load_history()
-    history.append({k: latest[k] for k in ("date", "slot", "theme", "image", "media_id")})
+    history.append({k: latest[k] for k in ("date", "slot", "theme", "images", "media_id")})
     HISTORY_FILE.write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
