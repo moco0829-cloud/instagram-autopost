@@ -21,7 +21,7 @@ GitHub Actions（毎日19時に起動）
 | `autopost.py` | 文章・画像の生成と Instagram への投稿 |
 | `history.json` | 投稿履歴（テーマの重複を避けるのに使う） |
 | `posts/` | 生成した画像の保存先 |
-| `.github/workflows/autopost.yml` | 毎日3回の自動実行 |
+| `.github/workflows/autopost.yml` | 毎日19時の自動実行 |
 | `.github/workflows/refresh-token.yml` | Instagram トークンの自動延長（週1回） |
 
 ## 費用の目安（1日1投稿・月30投稿）
