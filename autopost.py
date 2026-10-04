@@ -78,7 +78,8 @@ POST_SCHEMA = {
 
 
 def env(name: str) -> str:
-    value = os.environ.get(name)
+    # Secrets に貼り付けたときの前後の空白・改行は取り除く
+    value = os.environ.get(name, "").strip()
     if not value:
         sys.exit(f"環境変数 {name} が設定されていません")
     return value
@@ -130,7 +131,7 @@ def write_post(slot: str, now: datetime, history: list[dict]) -> dict:
         f"過去の投稿テーマ:\n{recent}"
     )
 
-    client = anthropic.Anthropic()
+    client = anthropic.Anthropic(api_key=env("ANTHROPIC_API_KEY"))
     response = client.beta.messages.create(
         model=CLAUDE_MODEL,
         max_tokens=16000,
@@ -151,7 +152,7 @@ def write_post(slot: str, now: datetime, history: list[dict]) -> dict:
 
 def make_background(prompt: str) -> Image.Image:
     """OpenAI で背景画像を作り、Instagram フィード向けの 1080x1350（4:5）にする。"""
-    client = OpenAI()
+    client = OpenAI(api_key=env("OPENAI_API_KEY"))
     result = client.images.generate(
         model=IMAGE_MODEL,
         prompt=prompt,
