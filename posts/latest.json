@@ -1,58 +1,56 @@
 {
-  "date": "2026-10-04",
-  "slot": "noon",
-  "theme": "デリケートゾーンのやさしい洗い方",
-  "caption": "毎日の「洗い方」、なんとなく自己流になっていませんか？\n\nデリケートゾーンは、顔よりも皮膚がうすく、とても繊細な場所。\nそれなのに、洗い方を誰かに教わる機会はほとんどありませんよね。\n\n「しっかり洗ったほうが清潔そう」と、ついゴシゴシしてしまう方も多いのですが、実は“やさしく、洗いすぎない”ことが大切なんです。\n\n今日は、今夜のお風呂からすぐ試せる\n・やさしい洗い方の4ステップ\n・ついやりがちな見直しポイント\n・洗ったあとのひと手間\nをまとめました。画像をスワイプしてご覧くださいね🌸\n\nすこし丁寧にケアするだけで、「なんだか心地いい」と感じる方も多いですよ。\n\nもし、かゆみや違和感が続くときは、無理をせず婦人科などの医療機関へご相談くださいね。\n\n「こんなこと聞いてもいいのかな」と思うことも、大丈夫です。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #デリケートゾーンケア #デリケートゾーン #セルフケア #女性の悩み #大人女子 #美意識 #保湿ケア #千葉サロン #SalondeMoco",
+  "date": "2026-10-05",
+  "slot": "morning",
+  "theme": "更年期のゆらぎに寄り添う朝習慣",
+  "caption": "朝、目が覚めてもなんだかからだが重い…そんな日はありませんか？\n\n季節の変わり目の10月。\n朝晩の冷え込みとともに、ほてりや冷え、気分の落ち込みなど、ゆらぎを感じやすい方も多い時期です。\n\n「年齢のせいだから仕方ない」\n「こんなこと、人に話すのは恥ずかしい」\nそう思って、ひとりでがまんしていませんか？\n\nゆらぎは、多くの女性が通る自然な変化。\n話していいこと、ケアしていいことなんですよ。\n\n今日は、朝の5分でできる小さな習慣をまとめました。\n白湯を一杯、深呼吸をひとつ。\nそれだけでも、1日の始まりが少しやさしく感じられるはずです🌸\n\n画像をスワイプしてご覧くださいね。\n保存して、明日の朝に見返すのもおすすめです。\n\nつらさが続くときは、婦人科などの医療機関へのご相談も大切にしてください。\n\nSalon de mocoでは、メディセルの筋膜ケアで、めぐりを整えるお手伝いをしています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #更年期 #ゆらぎ世代 #更年期ケア #朝習慣 #白湯 #冷え対策 #大人の女性 #メディセル #Medicell #筋膜ケア #SalondeMoco",
   "cover": {
-    "lead": "毎日のお風呂で見直したい",
-    "headline": "その洗い方、\n【やさしく】\nできていますか？"
+    "lead": "今日からできる小さな習慣",
+    "headline": "朝の【ゆらぎ】、\nひとりで\n抱えていませんか？"
   },
   "slides": [
     {
-      "title": "やさしい洗い方の\n【4ステップ】",
+      "title": "朝の【ゆらぎサイン】\nチェック",
+      "numbered": false,
+      "items": [
+        "目覚めてもからだが重く、すっきりしない",
+        "急にほてったり、手足が冷えたりする",
+        "理由もなく気持ちが沈みやすい",
+        "首や肩まわりがこわばっている"
+      ]
+    },
+    {
+      "title": "朝5分の\n【やさしい習慣】",
       "numbered": true,
       "items": [
-        "ぬるめのお湯で、まずはさっと流す",
-        "専用ソープをたっぷり泡立てる",
-        "泡をのせて、指の腹でなでるように洗う",
-        "泡が残らないよう、ぬるま湯で流す",
-        "やわらかいタオルで押さえるように拭く"
+        "布団の中で、ゆっくり深呼吸を3回",
+        "白湯を一杯、内側からじんわり温める",
+        "首と肩をゆっくり回してほぐす",
+        "カーテンを開けて朝の光をあびる",
+        "「今日もよくがんばってる」と声をかける"
       ]
     },
     {
-      "title": "ついやりがち？\n【見直しポイント】",
+      "title": "がんばりすぎない\n【ゆらぎとの付き合い方】",
       "numbered": false,
       "items": [
-        "ボディタオルでゴシゴシこする",
-        "熱いシャワーを長く当てる",
-        "洗浄力の強いソープで何度も洗う",
-        "デリケートな部分まで洗いすぎる"
-      ]
-    },
-    {
-      "title": "洗ったあとの\n【ひと手間】",
-      "numbered": false,
-      "items": [
-        "専用の保湿アイテムで乾燥対策を",
-        "通気性のよいコットンの下着を選ぶ",
-        "締めつけの少ない服でゆったり過ごす",
-        "かゆみや違和感が続くときは婦人科へ"
+        "できない日があっても大丈夫",
+        "首元・足首を冷やさない服選びを",
+        "つらさが続くときは婦人科へ相談を",
+        "話すだけで、気持ちが軽くなることも"
       ]
     }
   ],
   "closing": {
-    "lead": "話していいことなんです",
-    "headline": "気になることは\n【お気軽に】\nご相談くださいね"
+    "lead": "ゆらぐ日も、あなたらしく",
+    "headline": "お気軽に\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft cream to pale blush pink gradient, delicate watercolor pink peonies and roses gently arranged in the corners and along the left and right edges, soft white bubbles and a folded fluffy white towel motif near the bottom corner, subtle thin gold lines and tiny sparkles, gentle natural light, clean and calm atmosphere, large bright empty space in the center for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine background design for adult women, bright cream to soft pale pink background, watercolor-style pink peonies and roses arranged in the corners and along the left and right edges, delicate thin gold lines and subtle sparkles, soft morning sunlight glow, a hint of a steaming white cup of warm water and sheer soft fabric near the edge, calm and clean atmosphere, center area bright, light and mostly empty with plenty of soft negative space for overlaid text, no people's bodies shown, no text, no letters, no numbers, no logos",
   "images": [
-    "posts/20261004-noon-1.jpg",
-    "posts/20261004-noon-2.jpg",
-    "posts/20261004-noon-3.jpg",
-    "posts/20261004-noon-4.jpg",
-    "posts/20261004-noon-5.jpg"
+    "posts/20261005-morning-1.jpg",
+    "posts/20261005-morning-2.jpg",
+    "posts/20261005-morning-3.jpg",
+    "posts/20261005-morning-4.jpg",
+    "posts/20261005-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18220887739341068",
-  "fb_post_id": "1411087672077869_122094985083506532"
+  "published": false
 }
