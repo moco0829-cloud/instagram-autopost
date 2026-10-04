@@ -18,21 +18,6 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: 確認（一時的）
-        continue-on-error: true
-        env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          GH_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          OLD_TOKEN=$(printf %s "$IG_ACCESS_TOKEN" | tr -d '[:space:]')
-          if curl -sf "https://graph.instagram.com/v23.0/me?fields=user_id&access_token=$OLD_TOKEN" > /dev/null; then
-            echo "Instagram: 登録中のトークンは有効です"
-          else
-            echo "Instagram: 登録中のトークンが使えません"
-          fi
-          echo "GH_PAT の種類: ${GH_TOKEN:0:4}… 長さ ${#GH_TOKEN} 文字"
-          gh api -i "repos/$GITHUB_REPOSITORY/actions/secrets/public-key" 2>&1             | grep -i -E '^HTTP|x-accepted-github-permissions|"message"' || true
-
       - name: トークンを延長して Secret を更新
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}

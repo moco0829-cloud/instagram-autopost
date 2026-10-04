@@ -92,9 +92,10 @@ git push -u origin main
 | `IG_USER_ID` | 手順2-6 の `user_id` |
 | `GH_PAT` | トークン自動延長用。下記参照 |
 
-**`GH_PAT` の作り方**: GitHub 右上のアイコン →「Settings」→「Developer settings」→「Fine-grained tokens」→「Generate new token」。
-対象リポジトリをこのリポジトリだけに絞り、「Repository permissions」の **Secrets** を「Read and write」にして作成します。
+**`GH_PAT` の作り方**: [新しいトークンの作成画面（classic）](https://github.com/settings/tokens/new) を開き、
+Note に `instagram-autopost-secrets`、Expiration に「No expiration」、Select scopes で「**repo**」にチェックを入れて作成します。
 これがないと、Instagram のトークンが60日で切れて投稿が止まります。
+（Fine-grained token では Secrets の許可を付けても書き込めないことがあったため、classic を使います。）
 
 ### 6. 試しに動かす
 
