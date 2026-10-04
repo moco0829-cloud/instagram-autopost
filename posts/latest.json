@@ -1,49 +1,50 @@
 {
   "date": "2026-10-04",
   "slot": "noon",
-  "theme": "秋のデリケートゾーン乾燥ケア",
-  "caption": "秋になって、なんだか「ムズムズ」が気になりませんか？\n\n空気が乾燥しはじめるこの季節。\nお顔や手と同じように、デリケートゾーンも乾燥しやすくなるんです。\n\n「こんなこと、人に言えない…」と思われる方も多いのですが、\n実はとてもよくあるお悩み。\nあなただけではないので、大丈夫ですよ。\n\n今回は、お昼休みにさっと読める\n・乾燥サインのチェック\n・やさしい洗い方\n・うるおいを守る毎日の習慣\nをまとめました。\n\nポイントは「洗いすぎない」「こすらない」こと。\nキレイにしようと頑張りすぎるほど、うるおいまで落としてしまうことがあります。\n\n画像をスワイプしてご覧くださいね。\n保存しておくと、ふとしたときに見返せます🌸\n\nなお、かゆみや違和感が続くときは、無理せず婦人科などの医療機関へご相談くださいね。\n\n「恥ずかしい」と感じるお悩みも、ケアしていいこと。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #デリケートゾーンケア #デリケートゾーン #乾燥対策 #秋のセルフケア #女性の悩み #ゆらぎ世代 #大人女子 #千葉サロン #SalondeMoco",
+  "theme": "デリケートゾーンのやさしい洗い方",
+  "caption": "毎日の「洗い方」、なんとなく自己流になっていませんか？\n\nデリケートゾーンは、顔よりも皮膚がうすく、とても繊細な場所。\nそれなのに、洗い方を誰かに教わる機会はほとんどありませんよね。\n\n「しっかり洗ったほうが清潔そう」と、ついゴシゴシしてしまう方も多いのですが、実は“やさしく、洗いすぎない”ことが大切なんです。\n\n今日は、今夜のお風呂からすぐ試せる\n・やさしい洗い方の4ステップ\n・ついやりがちな見直しポイント\n・洗ったあとのひと手間\nをまとめました。画像をスワイプしてご覧くださいね🌸\n\nすこし丁寧にケアするだけで、「なんだか心地いい」と感じる方も多いですよ。\n\nもし、かゆみや違和感が続くときは、無理をせず婦人科などの医療機関へご相談くださいね。\n\n「こんなこと聞いてもいいのかな」と思うことも、大丈夫です。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #デリケートゾーンケア #デリケートゾーン #セルフケア #女性の悩み #大人女子 #美意識 #保湿ケア #千葉サロン #SalondeMoco",
   "cover": {
-    "lead": "乾燥が気になる季節に",
-    "headline": "秋の【ムズムズ】、\nひとりで\n悩んでいませんか？"
+    "lead": "毎日のお風呂で見直したい",
+    "headline": "その洗い方、\n【やさしく】\nできていますか？"
   },
   "slides": [
     {
-      "title": "乾燥しやすい【秋】の\nサインをチェック",
-      "numbered": false,
-      "items": [
-        "下着がこすれると気になる",
-        "夕方になるとムズムズしやすい",
-        "洗ったあと、つっぱる感じがする",
-        "顔や手の乾燥も気になり始めた"
-      ]
-    },
-    {
-      "title": "今日からできる\n【やさしい洗い方】",
+      "title": "やさしい洗い方の\n【4ステップ】",
       "numbered": true,
       "items": [
-        "ぬるめのお湯で、こすらずやさしく",
-        "専用ソープをよく泡立てて包むように",
-        "洗いすぎず、1日1回を目安に",
-        "タオルでそっと押さえて水気をとる"
+        "ぬるめのお湯で、まずはさっと流す",
+        "専用ソープをたっぷり泡立てる",
+        "泡をのせて、指の腹でなでるように洗う",
+        "泡が残らないよう、ぬるま湯で流す",
+        "やわらかいタオルで押さえるように拭く"
       ]
     },
     {
-      "title": "うるおいを守る\n【毎日の習慣】",
+      "title": "ついやりがち？\n【見直しポイント】",
       "numbered": false,
       "items": [
-        "専用の保湿アイテムでやさしくケア",
+        "ボディタオルでゴシゴシこする",
+        "熱いシャワーを長く当てる",
+        "洗浄力の強いソープで何度も洗う",
+        "デリケートな部分まで洗いすぎる"
+      ]
+    },
+    {
+      "title": "洗ったあとの\n【ひと手間】",
+      "numbered": false,
+      "items": [
+        "専用の保湿アイテムで乾燥対策を",
         "通気性のよいコットンの下着を選ぶ",
-        "こまめな水分補給で内側からもうるおいを",
-        "かゆみが続くときは婦人科へ相談を"
+        "締めつけの少ない服でゆったり過ごす",
+        "かゆみや違和感が続くときは婦人科へ"
       ]
     }
   ],
   "closing": {
-    "lead": "話していいことですよ",
-    "headline": "ひとりで抱えず\n【お気軽に】\nご相談くださいね"
+    "lead": "話していいことなんです",
+    "headline": "気になることは\n【お気軽に】\nご相談くださいね"
   },
-  "image_prompt": "Elegant feminine background design for an adult women's self-care salon, bright cream to pale blush pink backdrop with soft autumn feeling, delicate watercolor pink peonies and roses with a few dewdrops symbolizing moisture and hydration, soft white silk fabric draped gently, placed only in the corners and along the left and right edges, thin gold lines and subtle sparkles, the center left bright, soft and mostly empty with generous negative space for overlaying text, calm, clean, gentle and refined atmosphere, no people, no body parts, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine background design for adult women, soft cream to pale blush pink gradient, delicate watercolor pink peonies and roses gently arranged in the corners and along the left and right edges, soft white bubbles and a folded fluffy white towel motif near the bottom corner, subtle thin gold lines and tiny sparkles, gentle natural light, clean and calm atmosphere, large bright empty space in the center for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
   "images": [
     "posts/20261004-noon-1.jpg",
     "posts/20261004-noon-2.jpg",
