@@ -41,7 +41,7 @@ CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 IMAGE_MODEL = os.environ.get("IMAGE_MODEL", "gpt-image-1")
 IMAGE_QUALITY = os.environ.get("IMAGE_QUALITY", "medium")
 SIGNATURE = os.environ.get("IMAGE_SIGNATURE", "Salon de moco")
-SIGNATURE_SUB = os.environ.get("IMAGE_SIGNATURE_SUB", "FemCare by Mediser")
+SIGNATURE_SUB = os.environ.get("IMAGE_SIGNATURE_SUB", "FemCare by Medicell")
 
 # 画像に重ねる文字の色（今のフィードに合わせた、こげ茶・ローズピンク・ゴールド）
 COLOR_TEXT = (92, 62, 54)
