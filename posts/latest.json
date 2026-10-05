@@ -1,58 +1,55 @@
 {
   "date": "2026-10-05",
-  "slot": "morning",
-  "theme": "更年期のゆらぎに寄り添う朝習慣",
-  "caption": "朝、目が覚めてもなんだかからだが重い…そんな日はありませんか？\n\n季節の変わり目の10月。\n朝晩の冷え込みとともに、ほてりや冷え、気分の落ち込みなど、ゆらぎを感じやすい方も多い時期です。\n\n「年齢のせいだから仕方ない」\n「こんなこと、人に話すのは恥ずかしい」\nそう思って、ひとりでがまんしていませんか？\n\nゆらぎは、多くの女性が通る自然な変化。\n話していいこと、ケアしていいことなんですよ。\n\n今日は、朝の5分でできる小さな習慣をまとめました。\n白湯を一杯、深呼吸をひとつ。\nそれだけでも、1日の始まりが少しやさしく感じられるはずです🌸\n\n画像をスワイプしてご覧くださいね。\n保存して、明日の朝に見返すのもおすすめです。\n\nつらさが続くときは、婦人科などの医療機関へのご相談も大切にしてください。\n\nSalon de mocoでは、メディセルの筋膜ケアで、めぐりを整えるお手伝いをしています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #更年期 #ゆらぎ世代 #更年期ケア #朝習慣 #白湯 #冷え対策 #大人の女性 #メディセル #Medicell #筋膜ケア #SalondeMoco",
+  "slot": "night",
+  "theme": "生理痛の夜をやさしく過ごす工夫",
+  "caption": "「生理痛くらいで…」と、今夜もひとりでがまんしていませんか？\n\n1日の終わり、横になってもおなかや腰が重くて眠れない。\nそんな夜を過ごしている女性は、実はとても多いんです。\nつらいと感じるのは、決して大げさなことではありませんよ。\n\n今日は、生理痛の夜を少しでもやさしく過ごすための工夫をまとめました。\n・からだを内と外からあたためるポイント\n・寝る前にできるゆるストレッチ\n・婦人科に相談したいサイン\n\n画像をスワイプしてご覧くださいね。\n保存しておくと、つらい夜にすぐ見返せます🌸\n\n症状が続くときや、年々つらくなっていると感じるときは、ぜひ婦人科などの医療機関へ。\n専門家を頼ることも、立派なセルフケアのひとつです。\n\nSalon de mocoでは、メディセル（Medicell）の筋膜ケアで、めぐりを整え、腰まわりの重さがふっと軽くなるのを感じる方も多くいらっしゃいます。\n\n「こんなこと相談していいのかな」と思わなくて大丈夫。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #生理痛 #生理痛ケア #PMS #温活 #骨盤ケア #セルフケア #筋膜ケア #メディセル #Medicell #女性の悩み #千葉サロン #SalondeMoco",
   "cover": {
-    "lead": "今日からできる小さな習慣",
-    "headline": "朝の【ゆらぎ】、\nひとりで\n抱えていませんか？"
+    "lead": "1日の終わりに読んでほしい",
+    "headline": "つらい【生理痛】の\n夜、がまんして\nいませんか？"
   },
   "slides": [
     {
-      "title": "朝の【ゆらぎサイン】\nチェック",
+      "title": "生理痛の夜の\n【あたため】ポイント",
       "numbered": false,
       "items": [
-        "目覚めてもからだが重く、すっきりしない",
-        "急にほてったり、手足が冷えたりする",
-        "理由もなく気持ちが沈みやすい",
-        "首や肩まわりがこわばっている"
+        "下腹と腰まわりを湯たんぽでやさしく温める",
+        "体調に合わせ、ぬるめのお湯にゆっくり浸かる",
+        "白湯や温かいハーブティーで内側からぽかぽかに",
+        "足首を冷やさないよう、レッグウォーマーを"
       ]
     },
     {
-      "title": "朝5分の\n【やさしい習慣】",
+      "title": "寝る前にできる\n【ゆるストレッチ】",
       "numbered": true,
       "items": [
-        "布団の中で、ゆっくり深呼吸を3回",
-        "白湯を一杯、内側からじんわり温める",
-        "首と肩をゆっくり回してほぐす",
-        "カーテンを開けて朝の光をあびる",
-        "「今日もよくがんばってる」と声をかける"
+        "仰向けで両ひざを抱え、左右にゆらゆらとゆらす",
+        "ひざを立てて左右にゆっくり倒し、腰をゆるめる",
+        "おなかに手を当て、深くゆったり呼吸する",
+        "痛みを感じたら無理せず、そのままお休みを"
       ]
     },
     {
-      "title": "がんばりすぎない\n【ゆらぎとの付き合い方】",
+      "title": "こんなときは\n【婦人科】へ相談を",
       "numbered": false,
       "items": [
-        "できない日があっても大丈夫",
-        "首元・足首を冷やさない服選びを",
-        "つらさが続くときは婦人科へ相談を",
-        "話すだけで、気持ちが軽くなることも"
+        "市販薬を飲んでも日常生活がつらい",
+        "年々、痛みが強くなっている気がする",
+        "経血量が多い、生理以外の出血がある",
+        "専門家を頼るのも、大切なケアのひとつです"
       ]
     }
   ],
   "closing": {
-    "lead": "ゆらぐ日も、あなたらしく",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "あなたの\n【つらさ】も\n話してくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, bright cream to soft pale pink background, watercolor-style pink peonies and roses arranged in the corners and along the left and right edges, delicate thin gold lines and subtle sparkles, soft morning sunlight glow, a hint of a steaming white cup of warm water and sheer soft fabric near the edge, calm and clean atmosphere, center area bright, light and mostly empty with plenty of soft negative space for overlaid text, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine background design for adult women, soft cream to pale blush pink gradient, delicate watercolor pink peonies and roses gently placed in the corners and along the left and right edges, a soft folded knit blanket and a warm cup of herbal tea subtly at the bottom corner suggesting a cozy calm evening, thin gold lines and faint sparkles, warm gentle lamplight glow, calm and clean atmosphere, the center is bright, airy and mostly empty pale color space for text overlay, no people's body parts, no text, no letters, no numbers, no logos",
   "images": [
-    "posts/20261005-morning-1.jpg",
-    "posts/20261005-morning-2.jpg",
-    "posts/20261005-morning-3.jpg",
-    "posts/20261005-morning-4.jpg",
-    "posts/20261005-morning-5.jpg"
+    "posts/20261005-night-1.jpg",
+    "posts/20261005-night-2.jpg",
+    "posts/20261005-night-3.jpg",
+    "posts/20261005-night-4.jpg",
+    "posts/20261005-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18371729533210767",
-  "fb_post_id": "1411087672077869_122095175349506532"
+  "published": false
 }
