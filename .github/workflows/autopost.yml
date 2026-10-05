@@ -2,12 +2,16 @@ name: Instagram 自動投稿
 
 on:
   schedule:
-    # GitHub Actions の cron は UTC。日本時間 = UTC + 9 時間
-    - cron: "0 10 * * *"  # 毎日 19:00 JST
+    # GitHub Actions の cron は UTC（日本時間 = UTC + 9 時間）で、混雑すると数時間遅れることがある。
+    # そこで 19 時より前に3回仕掛け、最初に動いた回が画像と文章を作って 19:00 まで待ってから投稿する。
+    # 区切りのいい時刻（毎時0分）は混みやすいので避ける。
+    - cron: "23 7 * * *"  # 16:23 JST
+    - cron: "23 8 * * *"  # 17:23 JST
+    - cron: "7 9 * * *"   # 18:07 JST
   workflow_dispatch:
     inputs:
       slot:
-        description: "投稿枠（空欄なら現在時刻から自動判定）"
+        description: "投稿枠（空欄なら夜）"
         type: choice
         options: ["", morning, noon, night]
         default: ""
@@ -24,12 +28,45 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  post:
+  check:
     # 定期実行は、Settings → Variables で AUTOPOST_ENABLED を true にするまで動かない
     # （試し実行で内容を確認してから、自動投稿を始めるため）。手動実行はいつでも動く
     if: github.event_name == 'workflow_dispatch' || vars.AUTOPOST_ENABLED == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 今日の投稿が必要か確認
+        id: check
+        env:
+          EVENT: ${{ github.event_name }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from datetime import datetime, timedelta, timezone
+          now = datetime.now(timezone(timedelta(hours=9)))
+          today = now.strftime("%Y-%m-%d")
+          skip, reason = False, ""
+          if os.environ["EVENT"] == "schedule":
+              history = json.load(open("history.json", encoding="utf-8"))
+              if any(h["date"] == today and h["slot"] == "night" for h in history):
+                  skip, reason = True, "今日の夜の投稿はもう済んでいます"
+              elif now.hour >= 21:
+                  # 実行が大きく遅れた日は、深夜に投稿しないよう見送る
+                  skip, reason = True, f"開始が {now:%H:%M} と遅すぎるので、今日の投稿は見送ります"
+          print(reason or f"{now:%H:%M} 開始。投稿を作ります")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"skip={'true' if skip else 'false'}\n")
+          PY
+
+  post:
+    needs: check
+    if: needs.check.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    # 19:00 まで待つことがあるので長めにとる
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
 
@@ -47,12 +84,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          if [ -n "${{ inputs.slot }}" ]; then
-            python autopost.py generate --slot "${{ inputs.slot }}"
-          else
-            python autopost.py generate
-          fi
+        run: python autopost.py generate --slot "${{ inputs.slot || 'night' }}"
 
       - name: 画像をリポジトリに保存（Instagram が読める公開URLにするため）
         id: push
@@ -63,6 +95,18 @@ jobs:
           git commit -m "post: $(jq -r '.date + " " + .slot + " " + .theme' posts/latest.json)"
           git push
           echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: 19:00 まで待つ
+        if: github.event_name == 'schedule'
+        run: |
+          now=$(date +%s)
+          target=$(TZ=JST-9 date -d "today 19:00" +%s)
+          if [ "$now" -lt "$target" ]; then
+            echo "$(( (target - now) / 60 )) 分待ってから投稿します"
+            sleep $(( target - now ))
+          else
+            echo "19:00 を過ぎているので、すぐに投稿します"
+          fi
 
       - name: Instagram に投稿
         if: ${{ !inputs.dry_run }}
