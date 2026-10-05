@@ -1,7 +1,7 @@
 """Instagram 自動投稿スクリプト。
 
 使い方:
-    python autopost.py generate [--slot morning|noon|night]   # 文章と画像を作って posts/ に保存
+    python autopost.py generate [--slot morning|night]      # 文章と画像を作って posts/ に保存
     python autopost.py publish                                # posts/latest.json の投稿を Instagram に公開
     python autopost.py publish-facebook                       # 同じ投稿を Facebook ページにも公開
     python autopost.py refresh-token                          # 長期アクセストークンを延長して標準出力に出す
@@ -60,10 +60,10 @@ FONT_CANDIDATES = [
 ]
 
 SLOTS = {
-    "morning": "朝（7時ごろ）。1日の始まりに読まれる。前向きで軽く、今日から意識できる小さな習慣。",
-    "noon": "昼（12時ごろ）。休憩中にさっと読まれる。すぐ試せる具体的なセルフケアや豆知識。",
-    "night": "夜（19時ごろ）。1日の終わりにゆっくり読まれる。1日1回の投稿なので、すぐ試せる具体的なセルフケア、"
-             "悩みに深く寄り添う内容、フェムケアの基礎知識などを、日によって偏らないように扱う。",
+    "morning": "朝（8時ごろ）。1日の始まりに読まれる。前向きで軽く、今日から意識できる小さな習慣やセルフケア、"
+               "通勤や家事の合間にさっと読める豆知識。",
+    "night": "夜（19時ごろ）。1日の終わりにゆっくり読まれる。悩みに深く寄り添う内容、フェムケアの基礎知識、"
+             "自分をいたわる時間の提案など、じっくり読める内容。",
 }
 
 TEXT_PAIR = {
@@ -113,11 +113,7 @@ def env(name: str) -> str:
 
 
 def detect_slot(now: datetime) -> str:
-    if now.hour < 10:
-        return "morning"
-    if now.hour < 16:
-        return "noon"
-    return "night"
+    return "morning" if now.hour < 12 else "night"
 
 
 def load_history() -> list[dict]:

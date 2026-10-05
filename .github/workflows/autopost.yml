@@ -2,18 +2,22 @@ name: Instagram 自動投稿
 
 on:
   schedule:
+    # 投稿は1日2回（朝 8:00・夜 19:00）。
     # GitHub Actions の cron は UTC（日本時間 = UTC + 9 時間）で、混雑すると数時間遅れることがある。
-    # そこで 19 時より前に3回仕掛け、最初に動いた回が画像と文章を作って 19:00 まで待ってから投稿する。
+    # そこで投稿時刻より前に3回ずつ仕掛け、最初に動いた回が画像と文章を作り、投稿時刻まで待ってから投稿する。
     # 区切りのいい時刻（毎時0分）は混みやすいので避ける。
-    - cron: "23 7 * * *"  # 16:23 JST
-    - cron: "23 8 * * *"  # 17:23 JST
-    - cron: "7 9 * * *"   # 18:07 JST
+    - cron: "23 20 * * *"  # 朝の枠 05:23 JST
+    - cron: "23 21 * * *"  # 朝の枠 06:23 JST
+    - cron: "7 22 * * *"   # 朝の枠 07:07 JST
+    - cron: "23 7 * * *"   # 夜の枠 16:23 JST
+    - cron: "23 8 * * *"   # 夜の枠 17:23 JST
+    - cron: "7 9 * * *"    # 夜の枠 18:07 JST
   workflow_dispatch:
     inputs:
       slot:
         description: "投稿枠（空欄なら夜）"
         type: choice
-        options: ["", morning, noon, night]
+        options: ["", morning, night]
         default: ""
       dry_run:
         description: "画像と文章を作るだけで、Instagram には投稿しない"
@@ -35,6 +39,8 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       skip: ${{ steps.check.outputs.skip }}
+      slot: ${{ steps.check.outputs.slot }}
+      post_at: ${{ steps.check.outputs.post_at }}
     steps:
       - uses: actions/checkout@v4
 
@@ -42,30 +48,38 @@ jobs:
         id: check
         env:
           EVENT: ${{ github.event_name }}
+          INPUT_SLOT: ${{ inputs.slot }}
         run: |
           python3 - <<'PY'
           import json, os
           from datetime import datetime, timedelta, timezone
           now = datetime.now(timezone(timedelta(hours=9)))
           today = now.strftime("%Y-%m-%d")
+          # 午前に動いた回は朝 8:00 の枠、午後に動いた回は夜 19:00 の枠
+          if os.environ["EVENT"] == "schedule":
+              slot = "morning" if now.hour < 12 else "night"
+          else:
+              slot = os.environ.get("INPUT_SLOT") or "night"
+          post_at, give_up = {"morning": ("08:00", 10), "night": ("19:00", 21)}[slot]
+          name = {"morning": "朝", "night": "夜"}[slot]
           skip, reason = False, ""
           if os.environ["EVENT"] == "schedule":
               history = json.load(open("history.json", encoding="utf-8"))
-              if any(h["date"] == today and h["slot"] == "night" for h in history):
-                  skip, reason = True, "今日の夜の投稿はもう済んでいます"
-              elif now.hour >= 21:
-                  # 実行が大きく遅れた日は、深夜に投稿しないよう見送る
-                  skip, reason = True, f"開始が {now:%H:%M} と遅すぎるので、今日の投稿は見送ります"
-          print(reason or f"{now:%H:%M} 開始。投稿を作ります")
+              if any(h["date"] == today and h["slot"] == slot for h in history):
+                  skip, reason = True, f"今日の{name}の投稿はもう済んでいます"
+              elif now.hour >= give_up:
+                  # 実行が大きく遅れたときは、時間外に投稿しないよう見送る
+                  skip, reason = True, f"開始が {now:%H:%M} と遅すぎるので、今日の{name}の投稿は見送ります"
+          print(reason or f"{now:%H:%M} 開始。{name}（{post_at}）の投稿を作ります")
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
-              f.write(f"skip={'true' if skip else 'false'}\n")
+              f.write(f"skip={'true' if skip else 'false'}\nslot={slot}\npost_at={post_at}\n")
           PY
 
   post:
     needs: check
     if: needs.check.outputs.skip != 'true'
     runs-on: ubuntu-latest
-    # 19:00 まで待つことがあるので長めにとる
+    # 投稿時刻まで待つことがあるので長めにとる
     timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
@@ -84,7 +98,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python autopost.py generate --slot "${{ inputs.slot || 'night' }}"
+        run: python autopost.py generate --slot "${{ needs.check.outputs.slot }}"
 
       - name: 画像をリポジトリに保存（Instagram が読める公開URLにするため）
         id: push
@@ -96,16 +110,18 @@ jobs:
           git push
           echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
-      - name: 19:00 まで待つ
+      - name: 投稿時刻まで待つ
         if: github.event_name == 'schedule'
+        env:
+          POST_AT: ${{ needs.check.outputs.post_at }}
         run: |
           now=$(date +%s)
-          target=$(TZ=JST-9 date -d "today 19:00" +%s)
+          target=$(TZ=JST-9 date -d "today $POST_AT" +%s)
           if [ "$now" -lt "$target" ]; then
-            echo "$(( (target - now) / 60 )) 分待ってから投稿します"
+            echo "$(( (target - now) / 60 )) 分待って、$POST_AT に投稿します"
             sleep $(( target - now ))
           else
-            echo "19:00 を過ぎているので、すぐに投稿します"
+            echo "$POST_AT を過ぎているので、すぐに投稿します"
           fi
 
       - name: Instagram に投稿
