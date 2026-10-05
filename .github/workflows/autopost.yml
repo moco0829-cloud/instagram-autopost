@@ -42,7 +42,10 @@ jobs:
       slot: ${{ steps.check.outputs.slot }}
       post_at: ${{ steps.check.outputs.post_at }}
     steps:
+      # 順番待ちのあいだに前の回が投稿していることがあるので、起動時点ではなく今の main を見る
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: 今日の投稿が必要か確認
         id: check
@@ -82,7 +85,10 @@ jobs:
     # 投稿時刻まで待つことがあるので長めにとる
     timeout-minutes: 240
     steps:
+      # 順番待ちのあいだに前の回が投稿していることがあるので、起動時点ではなく今の main を見る
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
