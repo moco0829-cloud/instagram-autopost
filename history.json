@@ -75,5 +75,19 @@
     ],
     "media_id": "18095900594551020",
     "fb_post_id": "1411087672077869_122096296209506532"
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "morning",
+    "theme": "起き上がる前の布団で腰ほぐし",
+    "images": [
+      "posts/20261007-morning-1.jpg",
+      "posts/20261007-morning-2.jpg",
+      "posts/20261007-morning-3.jpg",
+      "posts/20261007-morning-4.jpg",
+      "posts/20261007-morning-5.jpg"
+    ],
+    "media_id": "18092051360670211",
+    "fb_post_id": "1411087672077869_122096659845506532"
   }
 ]
