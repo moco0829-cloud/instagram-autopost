@@ -45,11 +45,38 @@ IMAGE_QUALITY = os.environ.get("IMAGE_QUALITY", "medium")
 SIGNATURE = os.environ.get("IMAGE_SIGNATURE", "Salon de moco")
 SIGNATURE_SUB = os.environ.get("IMAGE_SIGNATURE_SUB", "FemCare by Medicell")
 
-# 画像に重ねる文字の色（今のフィードに合わせた、こげ茶・ローズピンク・ゴールド）
-COLOR_TEXT = (92, 62, 54)
-COLOR_ACCENT = (214, 106, 138)
-COLOR_GOLD = (201, 164, 98)
-COLOR_PANEL = (255, 249, 246, 215)
+# 朝と夜で色合いを変える。text=文字、accent=強調・番号、gold=飾り、panel=文字の後ろの半透明パネル、scene=背景画像の雰囲気
+PALETTES = {
+    # 朝：今のフィードに合わせた、こげ茶・ローズピンク・ゴールド
+    "morning": {
+        "text": (92, 62, 54),
+        "accent": (214, 106, 138),
+        "gold": (201, 164, 98),
+        "panel": (255, 249, 246, 215),
+        "scene": "クリーム色〜淡いピンクの明るい背景に、ピンクの芍薬やバラの花を水彩画風にあしらい、"
+                 "細い金色のラインやきらめきを添えた、上品でフェミニンな大人の女性向けのデザイン。",
+    },
+    # 夜：落ち着いたラベンダー
+    "night": {
+        "text": (74, 58, 92),
+        "accent": (142, 108, 184),
+        "gold": (196, 168, 112),
+        "panel": (250, 247, 253, 215),
+        "scene": "淡いラベンダー〜ライラック色のやわらかい背景に、ラベンダーや藤、ライラックなど薄紫の花を水彩画風にあしらい、"
+                 "細い金色のラインとやさしいきらめきを添えた、夜のくつろぎを感じる上品でフェミニンな大人の女性向けのデザイン。",
+    },
+}
+
+
+def use_palette(slot: str) -> None:
+    """描画に使う色を、投稿枠に合わせて切り替える。"""
+    global COLOR_TEXT, COLOR_ACCENT, COLOR_GOLD, COLOR_PANEL
+    palette = PALETTES.get(slot, PALETTES["morning"])
+    COLOR_TEXT, COLOR_ACCENT, COLOR_GOLD, COLOR_PANEL = (
+        palette["text"], palette["accent"], palette["gold"], palette["panel"])
+
+
+use_palette("morning")
 
 # 日本語の明朝体。上から順に見つかったものを使う（GitHub Actions では fonts-noto-cjk を入れる）
 FONT_CANDIDATES = [
@@ -147,8 +174,7 @@ def write_post(slot: str, now: datetime, history: list[dict]) -> dict:
         "- closing: サロンの想いを感じる、やさしい締め。DMでの相談をさりげなく促す"
         "（例: lead 'ひとりで抱えないで' headline 'お気軽に\\n【ご相談】\\nくださいね'）。\n"
         "- image_prompt: 英語。投稿内容を象徴する背景画像を説明する。"
-        "雰囲気は、クリーム色〜淡いピンクの明るい背景に、ピンクの芍薬やバラの花を水彩画風にあしらい、"
-        "細い金色のラインやきらめきを添えた、上品でフェミニンな大人の女性向けのデザイン。"
+        f"雰囲気は、{PALETTES[slot]['scene']}"
         "あとから中央に日本語の見出しを重ねるので、中央は明るく余白の多い淡い色にし、"
         "花や人物などのモチーフは四隅や左右の端に寄せる。"
         "画像生成AIは日本語の文字をうまく描けないので、画像内に文字・ロゴ・数字を入れないよう"
@@ -408,6 +434,7 @@ def cmd_generate(slot: str | None) -> None:
     print(f"テーマ: {post['theme']}\n\n{post['caption']}\n")
 
     POSTS_DIR.mkdir(exist_ok=True)
+    use_palette(slot)
     background = make_background(post["image_prompt"])
     pages = [render_cover(background, post["cover"]["lead"], post["cover"]["headline"])]
     pages += [render_list(background, slide["title"], slide["items"], slide["numbered"])
