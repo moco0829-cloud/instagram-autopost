@@ -1,59 +1,54 @@
 {
-  "date": "2026-10-06",
-  "slot": "night",
-  "theme": "PMSの心のゆらぎをいたわる夜",
-  "caption": "生理前、ささいなことでイライラして、あとから自分を責めてしまう夜はありませんか？\n\nそれは、あなたの性格のせいではありません。\n生理前はホルモンのバランスがゆらぎやすく、心もからだも敏感になりやすい時期なんです。\n\n「こんなことで落ち込むなんて」\n「誰にも言えない」\nそう感じている方も、実はとても多いんですよ。\n\n今日は、PMSのサインと、1日の終わりに自分をいたわる夜のルーティンをまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、つらい日に見返せます🌸\n\nからだが冷えてこわばっていると、気持ちまで張りつめやすくなります。\nサロンでは、Medicell（メディセル）による筋膜ケアで、めぐりを整え、ほっとゆるむ時間をお届けしています。「気持ちまで軽く感じる」とおっしゃる方も多いです。\n\nなお、つらさが日常に響くほど続くときは、婦人科への相談もひとつの選択肢です。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #PMS #生理前 #女性の悩み #自分をいたわる #セルフケア #夜のルーティン #メディセル #Medicell #筋膜ケア #千葉サロン #SalondeMoco",
+  "date": "2026-10-07",
+  "slot": "morning",
+  "theme": "起き上がる前の布団で腰ほぐし",
+  "caption": "朝、起き上がるときに「よいしょ」と腰が重く感じること、ありませんか？\n\n季節の変わり目で朝晩が冷えてくると、眠っている間に固まったからだが、なかなか目覚めてくれない日もありますよね。\nそんな朝は、お布団から出る前に、ほんの少しだけからだをほぐしてあげるのがおすすめです。\n\n今日は、寝たままできるやさしい腰ほぐしと、続けるためのコツ、腰をいたわる朝のひと工夫をまとめました。\n画像をスワイプしてご覧くださいね。\n\nポイントは、反動をつけず、呼吸に合わせてゆっくり動かすこと。\n「気持ちいい」と感じる範囲で十分ですよ。\n\n腰の重さは、がまんするものではなく、ケアしていいもの。\nサロンでは、メディセル（Medicell）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアをしています。すっきり軽く感じる方も多いですよ🌸\n\nなお、強い痛みやしびれが続くときは、無理をせず医療機関にご相談くださいね。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #腰の重さ #朝のセルフケア #ストレッチ習慣 #骨盤ケア #冷え対策 #メディセル #Medicell #筋膜ケア #ボディケア #大人女子のセルフケア #SalondeMoco",
   "cover": {
-    "lead": "がんばるあなたへ",
-    "headline": "PMSの【イライラ】、\n自分を責めて\nいませんか？"
+    "lead": "起き上がる前の1分ケア",
+    "headline": "朝の【腰の重さ】、\nお布団の中で\nほぐしませんか？"
   },
   "slides": [
     {
-      "title": "それ、【PMS】の\nサインかもしれません",
-      "numbered": false,
-      "items": [
-        "生理前に理由もなくイライラする",
-        "涙もろく、気分が沈みやすい",
-        "眠気やだるさが抜けにくい",
-        "むくみや胸の張りを感じる",
-        "甘いものが無性に欲しくなる"
-      ]
-    },
-    {
-      "title": "夜の【いたわり】\nルーティン",
+      "title": "お布団の中で【腰ほぐし】",
       "numbered": true,
       "items": [
-        "湯船に浸かってからだを温める",
-        "ノンカフェインの温かい飲み物を",
-        "スマホを置いて、照明を落とす",
-        "今日「できたこと」を書き出す",
-        "深い呼吸で、ゆっくり眠りにつく"
+        "仰向けのまま、ゆっくり深呼吸を3回",
+        "両ひざを立て、左右にゆっくり倒す",
+        "両ひざを胸に抱えて、腰をやさしく丸める",
+        "足首をくるくる回して、めぐりを促す"
       ]
     },
     {
-      "title": "心が軽くなる\n【考え方】",
+      "title": "続けるための\n【やさしいコツ】",
       "numbered": false,
       "items": [
-        "ゆらぎは、あなたのせいではありません",
-        "生理前は予定を詰め込まなくて大丈夫",
-        "身近な人に「今つらい」と伝えてOK",
-        "つらさが続くときは婦人科へ相談を"
+        "反動をつけず、ゆっくり動かす",
+        "呼吸は止めずに、自然に続ける",
+        "痛みを感じたら、無理せずお休み",
+        "起き上がるときは、横向きからそっと"
+      ]
+    },
+    {
+      "title": "腰をいたわる\n【朝のひと工夫】",
+      "numbered": false,
+      "items": [
+        "白湯をひと口飲んで、内側から温める",
+        "腹巻きやレッグウォーマーで冷え対策",
+        "洗面のときは、ひざを軽く曲げて立つ"
       ]
     }
   ],
   "closing": {
     "lead": "ひとりで抱えないで",
-    "headline": "話すことから\n【ケア】は\n始まります"
+    "headline": "からだの声、\n【いつでも】\nご相談くださいね"
   },
-  "image_prompt": "Elegant feminine background for an evening self-care post, soft cream to pale blush pink gradient, watercolor-style pink peonies and dusty pink roses gently arranged in the corners and along the left and right edges, a few delicate petals, soft warm candlelight glow suggesting a calm night, thin fine gold lines and subtle sparkles, airy and serene mood for adult women, the center left bright, clean and mostly empty with pale soft color for overlaying a headline later, no people's bodies, no text, no letters, no numbers, no logos, no watermark",
+  "image_prompt": "Elegant feminine background for a morning Instagram post, soft cream to pale baby pink and dusty pink gradient, delicate watercolor pink peonies and roses gathered in the corners and along the left and right edges, a soft white linen blanket texture with gentle morning sunlight streaming in, thin gold lines and subtle sparkles, calm, clean and refined mood for adult women, the center left bright, airy and mostly empty with plenty of light negative space for overlaying text, no people's bodies shown, no text, no letters, no numbers, no logos",
   "images": [
-    "posts/20261006-night-1.jpg",
-    "posts/20261006-night-2.jpg",
-    "posts/20261006-night-3.jpg",
-    "posts/20261006-night-4.jpg",
-    "posts/20261006-night-5.jpg"
+    "posts/20261007-morning-1.jpg",
+    "posts/20261007-morning-2.jpg",
+    "posts/20261007-morning-3.jpg",
+    "posts/20261007-morning-4.jpg",
+    "posts/20261007-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18095900594551020",
-  "fb_post_id": "1411087672077869_122096296209506532"
+  "published": false
 }
