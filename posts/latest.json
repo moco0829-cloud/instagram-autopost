@@ -1,60 +1,55 @@
 {
-  "date": "2026-10-07",
-  "slot": "night",
-  "theme": "デリケートゾーンの夜の保湿ケア",
-  "caption": "お顔の保湿は毎晩しているのに、デリケートゾーンは何もしていない…そんな方も多いのではないでしょうか。\n\n実はデリケートゾーンの肌は、とても薄くて繊細。\n年齢やホルモンのゆらぎ、季節の乾燥、下着のこすれなどで、うるおいが不足しやすい場所なんです。\n\n「なんだかつっぱる」「ムズムズする」と感じても、人には言いにくいですよね。\nでも大丈夫ですよ。それは恥ずかしいことではなく、からだからの小さなサイン。\nお顔と同じように、やさしく保湿してあげていい場所です。\n\n今夜は、お風呂上がりにできるやさしい保湿ケアをまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、続けやすいですよ。\n\n1日の終わりに自分をいたわる時間は、明日の自信や笑顔にもつながっていきます🌙\n\nかゆみや違和感が続くときは、無理せず婦人科などの医療機関へご相談ください。\n\nからだのことで気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムケアサロン #デリケートゾーンケア #デリケートゾーン保湿 #セルフケア #夜のセルフケア #自分をいたわる時間 #女性の悩み #更年期 #大人女子 #Medicell #メディセル",
+  "date": "2026-10-08",
+  "slot": "morning",
+  "theme": "朝の下着選びで蒸れ・かゆみ対策",
+  "caption": "なんとなくムズムズする…その日の「下着」が関係しているかもしれません。\n\nおはようございます。Salon de mocoです🌸\n\nデリケートゾーンの蒸れやかゆみは、なかなか人に言いにくいお悩みですよね。\nでも実は、多くの女性が一度は感じたことのある、ごく身近なことなんです。\n\n毎朝なにげなく選んでいる下着や服。\n素材やサイズを少し見直すだけで、1日の過ごしやすさが変わったと感じる方も多いんですよ。\n\n今日の投稿では\n・朝の下着選びのポイント\n・日中にできるちょっとした工夫\n・婦人科に相談したいサイン\nをまとめました。\n\n画像をスワイプしてご覧くださいね。保存しておくと、明日の朝にも見返せます。\n\nかゆみや違和感が続くときは、がまんせず婦人科などの医療機関へ。\n「こんなこと聞いていいのかな」と思うことも、話していいことですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #デリケートゾーンケア #デリケートゾーン #下着選び #女性の悩み #セルフケア #朝習慣 #大人女子 #メディセル #Medicell #SalondeMoco",
   "cover": {
-    "lead": "今夜からはじめるケア",
-    "headline": "デリケートゾーンも\n【保湿】して\nいますか？"
+    "lead": "今日の下着、どう選びましたか？",
+    "headline": "ムズムズは\n【下着選び】で\nやさしくケア"
   },
   "slides": [
     {
-      "title": "こんな感覚は\n【乾燥のサイン】かも",
+      "title": "朝の【下着選び】\n4つのポイント",
       "numbered": false,
       "items": [
-        "なんとなくつっぱる感じがする",
-        "下着のこすれが気になる",
-        "ムズムズすることが増えた",
-        "季節の変わり目に違和感がある",
-        "年齢とともに変化を感じる"
+        "肌あたりのやさしい綿やシルク素材を",
+        "締めつけすぎない、ゆとりあるサイズに",
+        "縫い目やレースが当たりにくい形を選ぶ",
+        "季節に合わせて通気性も意識して"
       ]
     },
     {
-      "title": "お風呂上がりの\n【やさしい保湿】",
-      "numbered": true,
+      "title": "日中にできる\n【ちょっとした工夫】",
+      "numbered": false,
       "items": [
-        "タオルで押さえるように水気をとる",
-        "乾ききる前、10分以内を目安に",
-        "専用の保湿アイテムを手にとる",
-        "手のひらで温めてからなじませる",
-        "こすらず、そっと包むように"
+        "おりものシートはこまめに取り替える",
+        "ぴったりボトムの長時間着用は控えめに",
+        "汗をかいたら早めに着替えてさっぱり",
+        "座りっぱなしの合間に立ち上がって"
       ]
     },
     {
-      "title": "心地よく続ける\n【ポイント】",
+      "title": "こんなときは\n【婦人科】へ相談を",
       "numbered": false,
       "items": [
-        "低刺激・専用のアイテムを選ぶ",
-        "夜はゆったりした綿の下着に",
-        "しみる・赤みが出たら使用を中止",
-        "違和感が続くときは婦人科へ",
-        "スキンケアの延長と思って気軽に"
+        "かゆみや違和感が何日も続いている",
+        "いつもと違うおりものが気になる",
+        "赤みやヒリヒリ感が強いとき",
+        "迷ったら、早めの相談で安心を"
       ]
     }
   ],
   "closing": {
-    "lead": "恥ずかしいことじゃない",
-    "headline": "ひとりで抱えず\n【ご相談】\nくださいね"
+    "lead": "言いにくい悩みこそ",
+    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor-style lavender, wisteria and lilac flowers gently placed in the corners and along the left and right edges, delicate soft white fabric draped at the bottom corner, a small glass bottle of moisturizing cream subtly placed near the edge, thin fine gold lines and gentle sparkles, calm relaxing nighttime self-care atmosphere, clean and serene, the center is bright, airy, and mostly empty with pale soft color for overlaying text later, no people, no body parts, no text, no letters, no numbers, no logos, no watermark",
+  "image_prompt": "Elegant feminine background design for a morning Instagram post, soft cream to pale baby pink and dusty pink gradient, delicate watercolor pink peonies and roses placed only in the corners and along the left and right edges, soft folded white cotton and silk fabric draped near the bottom corner, gentle morning sunlight with subtle glow, thin fine gold lines and tiny sparkles, clean and calm mood for adult women, large bright empty pale area in the center for overlaying text later, no people, no body parts, no text, no letters, no numbers, no logos",
   "images": [
-    "posts/20261007-night-1.jpg",
-    "posts/20261007-night-2.jpg",
-    "posts/20261007-night-3.jpg",
-    "posts/20261007-night-4.jpg",
-    "posts/20261007-night-5.jpg"
+    "posts/20261008-morning-1.jpg",
+    "posts/20261008-morning-2.jpg",
+    "posts/20261008-morning-3.jpg",
+    "posts/20261008-morning-4.jpg",
+    "posts/20261008-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18084965645320539",
-  "fb_post_id": "1411087672077869_122096949801506532"
+  "published": false
 }
