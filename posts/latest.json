@@ -1,60 +1,57 @@
 {
-  "date": "2026-10-08",
-  "slot": "night",
-  "theme": "夜にほどく肩こりケア習慣",
-  "caption": "今日もがんばった肩、ずっしり重くなっていませんか？\n\n家事にお仕事、スマホやパソコン…。\n気づけば一日じゅう前かがみで、夕方には首や肩がカチコチ。\nそんな方は、とても多いんです。\n\n「このくらい、みんな同じだから」とがまんしなくて大丈夫ですよ。\nからだのつらさに気づいて、いたわってあげることも、大切なフェムケアのひとつです。\n\n今夜は、寝る前にできる肩まわりのやさしいケアをまとめました。\nこわばりのサインチェック、3分ストレッチ、夜の過ごし方のコツまで。\n画像をスワイプしてご覧くださいね。\n保存しておくと、疲れた夜にすぐ見返せます。\n\nSalon de mocoでは、メディセル（Medicell）で皮膚をやさしく吸い上げ、筋膜のこわばりをゆるめてめぐりを整えるケアを行っています。\n施術後、肩まわりが軽く感じる方も多いですよ。\n\nなお、痛みやしびれが続くときは、無理せず医療機関にご相談くださいね。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #肩こり #肩こりケア #筋膜ケア #メディセル #Medicell #セルフケア #夜のリラックス #女性の健康 #大人女子",
+  "date": "2026-10-09",
+  "slot": "morning",
+  "theme": "はじめてのフェムケア入門",
+  "caption": "「フェムケア」という言葉、最近よく耳にしませんか？\n\nおはようございます。Salon de mocoです。\n\nフェムケアとは、生理や更年期、デリケートゾーンのことなど、女性特有のからだと心をいたわるケアのこと。\n\n「なんとなく恥ずかしくて、人には聞けない…」\nそんなふうに感じている方も多いのですが、大丈夫ですよ。\nフェムケアは、自分を大切にするためのやさしい習慣です。\n\n今日は、朝にさっとできるセルフチェックと、今日から始められる小さな一歩をまとめました。\n画像をスワイプしてご覧くださいね。\n\nひとつでも当てはまったら、それはからだからの小さなサイン。\n「私だけじゃなかった」と、少し肩の力を抜いてみてください。\n\nつらい症状が続くときは、婦人科などの医療機関にもご相談くださいね。\n\n当サロンでは、メディセルを使った筋膜ケアで、めぐりを整えるお手伝いをしています。\nひとりで抱えず、お気軽にDMでご相談くださいね🌸\n\n#成田市 #成田サロン #フェムケア #フェムテック #女性の悩み #セルフケア #朝習慣 #更年期 #PMS #生理 #メディセル #Medicell #筋膜ケア #千葉サロン #SalondeMoco",
   "cover": {
-    "lead": "がんばった一日の終わりに",
-    "headline": "その【肩こり】、\n今夜ほどいて\nあげませんか？"
+    "lead": "今日から始める",
+    "headline": "【フェムケア】、\nはじめて\nみませんか？"
   },
   "slides": [
     {
-      "title": "こんなサインは\n【肩のこわばり】かも",
+      "title": "フェムケアって\n【なに】？",
       "numbered": false,
       "items": [
-        "夕方になると首や肩がずっしり重い",
-        "スマホやパソコンで前かがみが続く",
-        "呼吸が浅く、ため息が増えている",
-        "手先や首まわりが冷えやすい",
-        "寝つきが悪く、朝も疲れが残る"
+        "女性特有のからだと心をいたわるケア",
+        "生理・更年期・デリケートゾーンなどが対象",
+        "恥ずかしいことではなく、自分を大切にする習慣",
+        "年齢を問わず、誰でも始められます"
       ]
     },
     {
-      "title": "寝る前3分\n【肩ほぐし】ストレッチ",
+      "title": "朝の【1分】\nセルフチェック",
+      "numbered": false,
+      "items": [
+        "生理前に気分がゆらぎやすい",
+        "手足の冷えやむくみが気になる",
+        "くしゃみの時にヒヤッとすることがある",
+        "デリケートゾーンの乾燥やかゆみが気になる",
+        "腰や骨盤まわりが重く感じる"
+      ]
+    },
+    {
+      "title": "今日からできる\n【小さな一歩】",
       "numbered": true,
       "items": [
-        "肩をすくめて5秒、ストンと力を抜く",
-        "両肩をゆっくり後ろへ5回まわす",
-        "首を左右にゆっくり倒し、深呼吸を3回",
-        "胸の前で手を組み、背中を丸めて伸ばす",
-        "最後に手を胸に当て「おつかれさま」"
-      ]
-    },
-    {
-      "title": "夜の過ごし方で\n【めぐり】をサポート",
-      "numbered": false,
-      "items": [
-        "ぬるめのお湯に肩までつかって温める",
-        "蒸しタオルで首の後ろをじんわり温める",
-        "寝る1時間前はスマホをおやすみ",
-        "枕の高さを見直し、首をラクな位置に",
-        "痛みやしびれが続くときは医療機関へ"
+        "朝、からだの調子をひと言メモする",
+        "生理周期をアプリなどで記録する",
+        "深呼吸でおなかまわりをゆるめる",
+        "気になることを誰かに話してみる",
+        "つらい症状が続くときは婦人科へ"
       ]
     }
   ],
   "closing": {
-    "lead": "がんばるあなたへ",
-    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
+    "lead": "あなたらしい毎日のために",
+    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, delicate watercolor lavender, wisteria and lilac flowers arranged only in the corners and along the left and right edges, a soft draped silk fabric and a small warm candle glow at the bottom corner suggesting a relaxing night, thin fine gold lines and gentle subtle sparkles, calm and clean atmosphere, the center is bright, airy and mostly empty with pale soft color for overlaying a headline later, no people, no body parts, no text, no letters, no numbers, no logos, no watermark",
+  "image_prompt": "Elegant feminine background design for an adult women's wellness salon, soft morning atmosphere, bright cream to pale baby pink and dusty pink background with touches of white and beige, delicate watercolor pink peonies and roses placed only in the corners and along the left and right edges, soft flowing sheer fabric, gentle morning light, thin fine gold lines and subtle sparkles, calm, clean and refined, the center left bright, airy and mostly empty with a pale soft color for overlaying text later, no people, no body parts, no text, no letters, no numbers, no logos, no watermark",
   "images": [
-    "posts/20261008-night-1.jpg",
-    "posts/20261008-night-2.jpg",
-    "posts/20261008-night-3.jpg",
-    "posts/20261008-night-4.jpg",
-    "posts/20261008-night-5.jpg"
+    "posts/20261009-morning-1.jpg",
+    "posts/20261009-morning-2.jpg",
+    "posts/20261009-morning-3.jpg",
+    "posts/20261009-morning-4.jpg",
+    "posts/20261009-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18101655557196467",
-  "fb_post_id": "1411087672077869_122097810219506532"
+  "published": false
 }
