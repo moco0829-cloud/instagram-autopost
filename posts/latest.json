@@ -1,57 +1,58 @@
 {
   "date": "2026-10-08",
-  "slot": "morning",
-  "theme": "朝の下着選びで蒸れ・かゆみ対策",
-  "caption": "なんとなくムズムズする…その日の「下着」が関係しているかもしれません。\n\nおはようございます。Salon de mocoです🌸\n\nデリケートゾーンの蒸れやかゆみは、なかなか人に言いにくいお悩みですよね。\nでも実は、多くの女性が一度は感じたことのある、ごく身近なことなんです。\n\n毎朝なにげなく選んでいる下着や服。\n素材やサイズを少し見直すだけで、1日の過ごしやすさが変わったと感じる方も多いんですよ。\n\n今日の投稿では\n・朝の下着選びのポイント\n・日中にできるちょっとした工夫\n・婦人科に相談したいサイン\nをまとめました。\n\n画像をスワイプしてご覧くださいね。保存しておくと、明日の朝にも見返せます。\n\nかゆみや違和感が続くときは、がまんせず婦人科などの医療機関へ。\n「こんなこと聞いていいのかな」と思うことも、話していいことですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #デリケートゾーンケア #デリケートゾーン #下着選び #女性の悩み #セルフケア #朝習慣 #大人女子 #メディセル #Medicell #SalondeMoco",
+  "slot": "night",
+  "theme": "夜にほどく肩こりケア習慣",
+  "caption": "今日もがんばった肩、ずっしり重くなっていませんか？\n\n家事にお仕事、スマホやパソコン…。\n気づけば一日じゅう前かがみで、夕方には首や肩がカチコチ。\nそんな方は、とても多いんです。\n\n「このくらい、みんな同じだから」とがまんしなくて大丈夫ですよ。\nからだのつらさに気づいて、いたわってあげることも、大切なフェムケアのひとつです。\n\n今夜は、寝る前にできる肩まわりのやさしいケアをまとめました。\nこわばりのサインチェック、3分ストレッチ、夜の過ごし方のコツまで。\n画像をスワイプしてご覧くださいね。\n保存しておくと、疲れた夜にすぐ見返せます。\n\nSalon de mocoでは、メディセル（Medicell）で皮膚をやさしく吸い上げ、筋膜のこわばりをゆるめてめぐりを整えるケアを行っています。\n施術後、肩まわりが軽く感じる方も多いですよ。\n\nなお、痛みやしびれが続くときは、無理せず医療機関にご相談くださいね。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #肩こり #肩こりケア #筋膜ケア #メディセル #Medicell #セルフケア #夜のリラックス #女性の健康 #大人女子",
   "cover": {
-    "lead": "今日の下着、どう選びましたか？",
-    "headline": "ムズムズは\n【下着選び】で\nやさしくケア"
+    "lead": "がんばった一日の終わりに",
+    "headline": "その【肩こり】、\n今夜ほどいて\nあげませんか？"
   },
   "slides": [
     {
-      "title": "朝の【下着選び】\n4つのポイント",
+      "title": "こんなサインは\n【肩のこわばり】かも",
       "numbered": false,
       "items": [
-        "肌あたりのやさしい綿やシルク素材を",
-        "締めつけすぎない、ゆとりあるサイズに",
-        "縫い目やレースが当たりにくい形を選ぶ",
-        "季節に合わせて通気性も意識して"
+        "夕方になると首や肩がずっしり重い",
+        "スマホやパソコンで前かがみが続く",
+        "呼吸が浅く、ため息が増えている",
+        "手先や首まわりが冷えやすい",
+        "寝つきが悪く、朝も疲れが残る"
       ]
     },
     {
-      "title": "日中にできる\n【ちょっとした工夫】",
-      "numbered": false,
+      "title": "寝る前3分\n【肩ほぐし】ストレッチ",
+      "numbered": true,
       "items": [
-        "おりものシートはこまめに取り替える",
-        "ぴったりボトムの長時間着用は控えめに",
-        "汗をかいたら早めに着替えてさっぱり",
-        "座りっぱなしの合間に立ち上がって"
+        "肩をすくめて5秒、ストンと力を抜く",
+        "両肩をゆっくり後ろへ5回まわす",
+        "首を左右にゆっくり倒し、深呼吸を3回",
+        "胸の前で手を組み、背中を丸めて伸ばす",
+        "最後に手を胸に当て「おつかれさま」"
       ]
     },
     {
-      "title": "こんなときは\n【婦人科】へ相談を",
+      "title": "夜の過ごし方で\n【めぐり】をサポート",
       "numbered": false,
       "items": [
-        "かゆみや違和感が何日も続いている",
-        "いつもと違うおりものが気になる",
-        "赤みやヒリヒリ感が強いとき",
-        "迷ったら、早めの相談で安心を"
+        "ぬるめのお湯に肩までつかって温める",
+        "蒸しタオルで首の後ろをじんわり温める",
+        "寝る1時間前はスマホをおやすみ",
+        "枕の高さを見直し、首をラクな位置に",
+        "痛みやしびれが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "言いにくい悩みこそ",
-    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
+    "lead": "がんばるあなたへ",
+    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for a morning Instagram post, soft cream to pale baby pink and dusty pink gradient, delicate watercolor pink peonies and roses placed only in the corners and along the left and right edges, soft folded white cotton and silk fabric draped near the bottom corner, gentle morning sunlight with subtle glow, thin fine gold lines and tiny sparkles, clean and calm mood for adult women, large bright empty pale area in the center for overlaying text later, no people, no body parts, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, delicate watercolor lavender, wisteria and lilac flowers arranged only in the corners and along the left and right edges, a soft draped silk fabric and a small warm candle glow at the bottom corner suggesting a relaxing night, thin fine gold lines and gentle subtle sparkles, calm and clean atmosphere, the center is bright, airy and mostly empty with pale soft color for overlaying a headline later, no people, no body parts, no text, no letters, no numbers, no logos, no watermark",
   "images": [
-    "posts/20261008-morning-1.jpg",
-    "posts/20261008-morning-2.jpg",
-    "posts/20261008-morning-3.jpg",
-    "posts/20261008-morning-4.jpg",
-    "posts/20261008-morning-5.jpg"
+    "posts/20261008-night-1.jpg",
+    "posts/20261008-night-2.jpg",
+    "posts/20261008-night-3.jpg",
+    "posts/20261008-night-4.jpg",
+    "posts/20261008-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17930295918167183",
-  "fb_post_id": "1411087672077869_122097425697506532"
+  "published": false
 }
