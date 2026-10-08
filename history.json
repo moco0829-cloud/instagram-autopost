@@ -131,5 +131,19 @@
     ],
     "media_id": "18101655557196467",
     "fb_post_id": "1411087672077869_122097810219506532"
+  },
+  {
+    "date": "2026-10-09",
+    "slot": "morning",
+    "theme": "はじめてのフェムケア入門",
+    "images": [
+      "posts/20261009-morning-1.jpg",
+      "posts/20261009-morning-2.jpg",
+      "posts/20261009-morning-3.jpg",
+      "posts/20261009-morning-4.jpg",
+      "posts/20261009-morning-5.jpg"
+    ],
+    "media_id": "18116388332095991",
+    "fb_post_id": "1411087672077869_122098311747506532"
   }
 ]
