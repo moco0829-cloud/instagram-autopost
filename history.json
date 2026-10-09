@@ -159,5 +159,19 @@
     ],
     "media_id": "17909756613518776",
     "fb_post_id": "1411087672077869_122098639821506532"
+  },
+  {
+    "date": "2026-10-10",
+    "slot": "morning",
+    "theme": "秋の朝、冷えをためない温め習慣",
+    "images": [
+      "posts/20261010-morning-1.jpg",
+      "posts/20261010-morning-2.jpg",
+      "posts/20261010-morning-3.jpg",
+      "posts/20261010-morning-4.jpg",
+      "posts/20261010-morning-5.jpg"
+    ],
+    "media_id": "18422756839146878",
+    "fb_post_id": "1411087672077869_122099100783506532"
   }
 ]
