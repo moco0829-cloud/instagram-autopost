@@ -1,59 +1,55 @@
 {
   "date": "2026-10-09",
-  "slot": "morning",
-  "theme": "はじめてのフェムケア入門",
-  "caption": "「フェムケア」という言葉、最近よく耳にしませんか？\n\nおはようございます。Salon de mocoです。\n\nフェムケアとは、生理や更年期、デリケートゾーンのことなど、女性特有のからだと心をいたわるケアのこと。\n\n「なんとなく恥ずかしくて、人には聞けない…」\nそんなふうに感じている方も多いのですが、大丈夫ですよ。\nフェムケアは、自分を大切にするためのやさしい習慣です。\n\n今日は、朝にさっとできるセルフチェックと、今日から始められる小さな一歩をまとめました。\n画像をスワイプしてご覧くださいね。\n\nひとつでも当てはまったら、それはからだからの小さなサイン。\n「私だけじゃなかった」と、少し肩の力を抜いてみてください。\n\nつらい症状が続くときは、婦人科などの医療機関にもご相談くださいね。\n\n当サロンでは、メディセルを使った筋膜ケアで、めぐりを整えるお手伝いをしています。\nひとりで抱えず、お気軽にDMでご相談くださいね🌸\n\n#成田市 #成田サロン #フェムケア #フェムテック #女性の悩み #セルフケア #朝習慣 #更年期 #PMS #生理 #メディセル #Medicell #筋膜ケア #千葉サロン #SalondeMoco",
+  "slot": "night",
+  "theme": "更年期の眠れない夜のいたわり方",
+  "caption": "夜中にふと目が覚めて、そのまま眠れない…そんな夜はありませんか？\n\n急なほてりや寝汗、止まらない考えごと。\n40代・50代になって「前のように眠れない」と感じる方は、実はとても多いんです。\n\nそれは、からだが変化している時期の自然なゆらぎのひとつ。\nあなたが弱いわけでも、がんばりが足りないわけでもありません。\n大丈夫ですよ。\n\n今日は、眠る前にできる小さないたわり習慣と、心をゆるめる考え方をまとめました。\n画像をスワイプしてご覧くださいね。\n\n眠れない夜は「横になっているだけでも休めている」と、ご自分にやさしく声をかけてあげてください。\nつらさが長く続くときは、ひとりで抱えず婦人科などの医療機関にも相談してみてくださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアでからだのこわばりをゆるめ、めぐりを整えるお手伝いをしています。\n施術のあと「ほっとして、よく眠れた気がする」と感じる方も多いです🌙\n\n「こんなこと話していいのかな」と思うことも、どうぞ気軽に。\nお気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #更年期 #更年期ケア #ゆらぎ世代 #眠れない夜 #睡眠ケア #夜のセルフケア #メディセル #Medicell #筋膜ケア #大人女性 #自分をいたわる時間 #SalondeMoco",
   "cover": {
-    "lead": "今日から始める",
-    "headline": "【フェムケア】、\nはじめて\nみませんか？"
+    "lead": "眠れない夜が続くあなたへ",
+    "headline": "その【寝苦しさ】、\nゆらぎの\nサインかも"
   },
   "slides": [
     {
-      "title": "フェムケアって\n【なに】？",
+      "title": "こんな夜、\nありませんか？",
       "numbered": false,
       "items": [
-        "女性特有のからだと心をいたわるケア",
-        "生理・更年期・デリケートゾーンなどが対象",
-        "恥ずかしいことではなく、自分を大切にする習慣",
-        "年齢を問わず、誰でも始められます"
+        "急にほてって、夜中に目が覚める",
+        "布団に入っても、考えごとが止まらない",
+        "汗をかいて、寝具やパジャマが気になる",
+        "朝起きても、疲れが残っている"
       ]
     },
     {
-      "title": "朝の【1分】\nセルフチェック",
-      "numbered": false,
-      "items": [
-        "生理前に気分がゆらぎやすい",
-        "手足の冷えやむくみが気になる",
-        "くしゃみの時にヒヤッとすることがある",
-        "デリケートゾーンの乾燥やかゆみが気になる",
-        "腰や骨盤まわりが重く感じる"
-      ]
-    },
-    {
-      "title": "今日からできる\n【小さな一歩】",
+      "title": "【眠る前】の\nいたわり習慣",
       "numbered": true,
       "items": [
-        "朝、からだの調子をひと言メモする",
-        "生理周期をアプリなどで記録する",
-        "深呼吸でおなかまわりをゆるめる",
-        "気になることを誰かに話してみる",
-        "つらい症状が続くときは婦人科へ"
+        "寝る1時間ほど前に、ぬるめのお湯でひと息",
+        "照明を落とし、スマホは早めにおやすみ",
+        "通気がよく、締めつけないパジャマを選ぶ",
+        "ゆっくり長く息を吐いて、からだをゆるめる"
+      ]
+    },
+    {
+      "title": "がんばりすぎない\n【心の持ち方】",
+      "numbered": false,
+      "items": [
+        "眠れなくても「横になるだけで休息」と考える",
+        "ゆらぎは、からだが変化している自然な時期",
+        "つらさが続くときは、婦人科にも相談を",
+        "誰かに話すだけで、心が軽くなることも"
       ]
     }
   ],
   "closing": {
-    "lead": "あなたらしい毎日のために",
-    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
+    "lead": "ひとりで抱えないで",
+    "headline": "ゆらぐ日も\n【あなたらしく】\nいられますように"
   },
-  "image_prompt": "Elegant feminine background design for an adult women's wellness salon, soft morning atmosphere, bright cream to pale baby pink and dusty pink background with touches of white and beige, delicate watercolor pink peonies and roses placed only in the corners and along the left and right edges, soft flowing sheer fabric, gentle morning light, thin fine gold lines and subtle sparkles, calm, clean and refined, the center left bright, airy and mostly empty with a pale soft color for overlaying text later, no people, no body parts, no text, no letters, no numbers, no logos, no watermark",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor-style lavender, wisteria and lilac flowers gently placed in the corners and along the left and right edges, delicate thin gold lines and soft subtle sparkles, calm restful nighttime mood with a hint of soft moonlight glow, the center kept bright, airy and empty with plenty of pale negative space for overlaying text later, clean, calm, refined and not flashy, no people, no body parts, no text, no letters, no numbers, no logos",
   "images": [
-    "posts/20261009-morning-1.jpg",
-    "posts/20261009-morning-2.jpg",
-    "posts/20261009-morning-3.jpg",
-    "posts/20261009-morning-4.jpg",
-    "posts/20261009-morning-5.jpg"
+    "posts/20261009-night-1.jpg",
+    "posts/20261009-night-2.jpg",
+    "posts/20261009-night-3.jpg",
+    "posts/20261009-night-4.jpg",
+    "posts/20261009-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18116388332095991",
-  "fb_post_id": "1411087672077869_122098311747506532"
+  "published": false
 }
