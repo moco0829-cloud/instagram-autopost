@@ -25,6 +25,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import anthropic
+import budoux
 import requests
 from openai import OpenAI
 from PIL import Image, ImageDraw, ImageFont
@@ -353,17 +354,34 @@ def render_cover(image: Image.Image, lead: str, headline: str, note: str = "") -
     return with_panel(image, layer)
 
 
+PHRASE_PARSER = budoux.load_default_japanese_parser()
 NO_LINE_START = "、。，．・：；？！ー」』）】ぁぃぅぇぉっゃゅょァィゥェォッャュョ"
 
 
 def wrap_text(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
-    """日本語を折り返す。行の長さをそろえて、最後の行に1〜2文字だけ残らないようにする。"""
-    lines = wrap_greedy(text, font, width)
-    if len(lines) > 1:
-        balanced = wrap_greedy(text, font, font.getlength(text) / len(lines) * 1.08)
-        if len(balanced) == len(lines):
-            return balanced
-    return lines
+    """日本語を、幅いっぱいまで使いながら文節の切れ目で折り返す（「とき／は」のような分かれ方を防ぐ）。"""
+    lines: list[list[str]] = [[]]
+    for phrase in PHRASE_PARSER.parse(text):
+        if font.getlength(phrase) > width:
+            # 1つの文節が長すぎるときだけ、文字単位で折り返す
+            lines.append([])
+            for part in wrap_greedy(phrase, font, width):
+                lines[-1].append(part)
+                lines.append([])
+            continue
+        if lines[-1] and font.getlength("".join(lines[-1]) + phrase) > width:
+            lines.append([])
+        lines[-1].append(phrase)
+    lines = [line for line in lines if line]
+
+    # 最後の行が1文節だけ・3文字以下で寂しいときは、前の行の最後の文節を下ろす
+    if len(lines) >= 2 and len("".join(lines[-1])) <= 3 and len(lines[-2]) >= 2:
+        moved = lines[-2].pop()
+        if font.getlength(moved + "".join(lines[-1])) <= width:
+            lines[-1].insert(0, moved)
+        else:
+            lines[-2].append(moved)
+    return ["".join(line) for line in lines]
 
 
 def wrap_greedy(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
@@ -385,14 +403,19 @@ def render_list(image: Image.Image, title: str, items: list[str], numbered: bool
     title_size, title_fonts = fit_heading(title_lines, 68, 44)
     items = [re.sub(r"[【】]", "", item).strip() for item in items[:6]]
 
-    # 本文が画像に収まるまで文字を小さくする
-    text_x, text_width = 230, 720
+    # 本文が画像に収まるまで文字を小さくする（パネルの内側は幅 760px。うち印の列が 60px）
+    text_width = 700
     for size in range(42, 27, -2):
         font = load_font(size)
         wrapped = [wrap_text(item, font, text_width) for item in items]
         height = sum(len(lines) * size * 1.55 + size * 0.7 for lines in wrapped)
         if height <= 760:
             break
+
+    # 箇条書きのかたまりを、いちばん長い行に合わせて左右の中央に置く（右だけ余白が空かないように）
+    widest = max(font.getlength(line) for lines in wrapped for line in lines)
+    mark_x = (1080 - (60 + widest)) / 2 + size * 0.4
+    text_x = mark_x + 60 - size * 0.4
 
     layer = Image.new("RGBA", image.size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(layer)
@@ -410,10 +433,10 @@ def render_list(image: Image.Image, title: str, items: list[str], numbered: bool
         center_y = y + size - size * 0.36
         if numbered:
             r = size * 0.62
-            draw.ellipse((170 - r, center_y - r, 170 + r, center_y + r), fill=COLOR_ACCENT)
-            draw.text((170, center_y), str(index), font=number_font, fill=(255, 255, 255), anchor="mm")
+            draw.ellipse((mark_x - r, center_y - r, mark_x + r, center_y + r), fill=COLOR_ACCENT)
+            draw.text((mark_x, center_y), str(index), font=number_font, fill=(255, 255, 255), anchor="mm")
         else:
-            draw_heart(draw, 170, center_y, size * 0.36, COLOR_ACCENT)
+            draw_heart(draw, mark_x, center_y, size * 0.36, COLOR_ACCENT)
         for line in lines:
             draw.text((text_x, y + size), line, font=font, fill=COLOR_TEXT, anchor="ls")
             y += int(size * 1.55)
