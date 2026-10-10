@@ -2,4 +2,3 @@ anthropic>=1.0
 openai>=1.50
 requests>=2.31
 pillow>=10.0
-budoux>=0.6

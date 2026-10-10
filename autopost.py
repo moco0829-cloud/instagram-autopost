@@ -25,7 +25,6 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import anthropic
-import budoux
 import requests
 from openai import OpenAI
 from PIL import Image, ImageDraw, ImageFont
@@ -354,34 +353,12 @@ def render_cover(image: Image.Image, lead: str, headline: str, note: str = "") -
     return with_panel(image, layer)
 
 
-PHRASE_PARSER = budoux.load_default_japanese_parser()
 NO_LINE_START = "、。，．・：；？！ー」』）】ぁぃぅぇぉっゃゅょァィゥェォッャュョ"
 
 
 def wrap_text(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
-    """日本語を、幅いっぱいまで使いながら文節の切れ目で折り返す（「とき／は」のような分かれ方を防ぐ）。"""
-    lines: list[list[str]] = [[]]
-    for phrase in PHRASE_PARSER.parse(text):
-        if font.getlength(phrase) > width:
-            # 1つの文節が長すぎるときだけ、文字単位で折り返す
-            lines.append([])
-            for part in wrap_greedy(phrase, font, width):
-                lines[-1].append(part)
-                lines.append([])
-            continue
-        if lines[-1] and font.getlength("".join(lines[-1]) + phrase) > width:
-            lines.append([])
-        lines[-1].append(phrase)
-    lines = [line for line in lines if line]
-
-    # 最後の行が1文節だけ・3文字以下で寂しいときは、前の行の最後の文節を下ろす
-    if len(lines) >= 2 and len("".join(lines[-1])) <= 3 and len(lines[-2]) >= 2:
-        moved = lines[-2].pop()
-        if font.getlength(moved + "".join(lines[-1])) <= width:
-            lines[-1].insert(0, moved)
-        else:
-            lines[-2].append(moved)
-    return ["".join(line) for line in lines]
+    """日本語を、行の幅いっぱいまで1文字ずつ詰めて折り返す。"""
+    return wrap_greedy(text, font, width)
 
 
 def wrap_greedy(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
