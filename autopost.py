@@ -56,6 +56,16 @@ PALETTES = {
         "scene": "クリーム色〜淡いピンクの明るい背景に、ピンクの芍薬やバラの花を水彩画風にあしらい、"
                  "細い金色のラインやきらめきを添えた、上品でフェミニンな大人の女性向けのデザイン。",
     },
+    # フェムケアという言葉を使う記事：パステルグリーン（朝・夜どちらでも）
+    "femcare": {
+        "text": (52, 80, 64),
+        "accent": (84, 156, 116),
+        "gold": (196, 168, 112),
+        "panel": (248, 253, 249, 215),
+        "scene": "淡いパステルグリーン〜ミント色のやわらかい背景に、カモミールやすずらんなどの白い小花と、"
+                 "ユーカリややわらかな若葉の緑を水彩画風にあしらい、細い金色のラインとやさしいきらめきを添えた、"
+                 "すがすがしく上品でフェミニンな大人の女性向けのデザイン。",
+    },
     # 夜：落ち着いたラベンダー
     "night": {
         "text": (74, 58, 92),
@@ -68,10 +78,10 @@ PALETTES = {
 }
 
 
-def use_palette(slot: str) -> None:
-    """描画に使う色を、投稿枠に合わせて切り替える。"""
+def use_palette(name: str) -> None:
+    """描画に使う色を切り替える（morning / night / femcare）。"""
     global COLOR_TEXT, COLOR_ACCENT, COLOR_GOLD, COLOR_PANEL
-    palette = PALETTES.get(slot, PALETTES["morning"])
+    palette = PALETTES.get(name, PALETTES["morning"])
     COLOR_TEXT, COLOR_ACCENT, COLOR_GOLD, COLOR_PANEL = (
         palette["text"], palette["accent"], palette["gold"], palette["panel"])
 
@@ -124,9 +134,10 @@ POST_SCHEMA = {
             },
         },
         "closing": {**TEXT_PAIR, "description": "最後の画像の文字。DMでの相談をやさしく促す"},
+        "femcare_topic": {"type": "boolean", "description": "フェムケアそのものを取り上げ、画像の文字に「フェムケア」という言葉を使う記事なら true"},
         "image_prompt": {"type": "string", "description": "画像生成AIに渡す英語のプロンプト"},
     },
-    "required": ["theme", "caption", "cover", "slides", "closing", "image_prompt"],
+    "required": ["theme", "caption", "cover", "slides", "closing", "femcare_topic", "image_prompt"],
     "additionalProperties": False,
 }
 
@@ -137,6 +148,17 @@ def env(name: str) -> str:
     if not value:
         sys.exit(f"環境変数 {name} が設定されていません")
     return value
+
+
+def palette_for(slot: str, post: dict) -> str:
+    """フェムケアの記事ならグリーン、それ以外は投稿枠の色（朝ピンク・夜ラベンダー）。"""
+    shown = [post["cover"]["lead"], post["cover"]["headline"], post["closing"]["lead"], post["closing"]["headline"]]
+    for slide in post["slides"]:
+        shown += [slide["title"], *slide["items"]]
+    text = "".join(shown).lower()
+    if post.get("femcare_topic") or "フェムケア" in text or "femcare" in text:
+        return "femcare"
+    return slot
 
 
 def detect_slot(now: datetime) -> str:
@@ -151,7 +173,7 @@ def load_history() -> list[dict]:
 
 # ---------------------------------------------------------------- generate
 
-def write_post(slot: str, now: datetime, history: list[dict]) -> dict:
+def write_post(slot: str, now: datetime, history: list[dict], topic: str = "") -> dict:
     """Claude にテーマ・キャプション・画像プロンプトを考えてもらう。"""
     brand = BRAND_FILE.read_text(encoding="utf-8")
     recent = "\n".join(f"- {h['date']} {h['theme']}" for h in history[-45:]) or "（まだありません）"
@@ -175,15 +197,21 @@ def write_post(slot: str, now: datetime, history: list[dict]) -> dict:
         "（例: lead 'ひとりで抱えないで' headline 'お気軽に\\n【ご相談】\\nくださいね'）。\n"
         "- image_prompt: 英語。投稿内容を象徴する背景画像を説明する。"
         f"雰囲気は、{PALETTES[slot]['scene']}"
+        "ただし femcare_topic が true の記事（フェムケアとは何か、なぜ大切かなど、フェムケアそのものを取り上げる記事）は、"
+        f"雰囲気を次のようにする：{PALETTES['femcare']['scene']}"
         "あとから中央に日本語の見出しを重ねるので、中央は明るく余白の多い淡い色にし、"
         "花や人物などのモチーフは四隅や左右の端に寄せる。"
         "画像生成AIは日本語の文字をうまく描けないので、画像内に文字・ロゴ・数字を入れないよう"
         "明記すること（例: 'no text, no letters, no logos'）。\n"
+        "- 「フェムケア」という言葉を画像の文字（cover・slides・closing）に使うのは、femcare_topic が true の記事だけにする"
+        "（キャプションのハッシュタグには入れてよい）。\n"
         "- 過去の投稿テーマと内容が重ならないようにする。"
     )
     user = (
         f"今日は {now:%Y年%m月%d日（%a）} です。\n"
-        f"投稿枠: {SLOTS[slot]}\n\n"
+        f"投稿枠: {SLOTS[slot]}\n"
+        + (f"今回のテーマ: {topic}（このテーマで作ること）\n" if topic else "")
+        + "\n"
         f"過去の投稿テーマ:\n{recent}"
     )
 
@@ -425,16 +453,18 @@ def render_list(image: Image.Image, title: str, items: list[str], numbered: bool
     return with_panel(image, layer)
 
 
-def cmd_generate(slot: str | None) -> None:
+def cmd_generate(slot: str | None, topic: str = "") -> None:
     now = datetime.now(JST)
     slot = slot or detect_slot(now)
     history = load_history()
 
-    post = write_post(slot, now, history)
+    post = write_post(slot, now, history, topic)
     print(f"テーマ: {post['theme']}\n\n{post['caption']}\n")
 
     POSTS_DIR.mkdir(exist_ok=True)
-    use_palette(slot)
+    palette = palette_for(slot, post)
+    print(f"色合い: {palette}")
+    use_palette(palette)
     background = make_background(post["image_prompt"])
     pages = [render_cover(background, post["cover"]["lead"], post["cover"]["headline"])]
     pages += [render_list(background, slide["title"], slide["items"], slide["numbered"])
@@ -457,6 +487,7 @@ def cmd_generate(slot: str | None) -> None:
         "slides": post["slides"],
         "closing": post["closing"],
         "image_prompt": post["image_prompt"],
+        "palette": palette,
         "images": images,
         "published": False,
     }
@@ -574,13 +605,14 @@ def main() -> None:
     sub = parser.add_subparsers(dest="command", required=True)
     gen = sub.add_parser("generate")
     gen.add_argument("--slot", choices=SLOTS.keys())
+    gen.add_argument("--topic", default="", help="テーマを指定するとき（空欄ならおまかせ）")
     sub.add_parser("publish")
     sub.add_parser("publish-facebook")
     sub.add_parser("refresh-token")
     args = parser.parse_args()
 
     if args.command == "generate":
-        cmd_generate(args.slot)
+        cmd_generate(args.slot, args.topic.strip())
     elif args.command == "publish":
         cmd_publish()
     elif args.command == "publish-facebook":

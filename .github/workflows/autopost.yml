@@ -19,6 +19,10 @@ on:
         type: choice
         options: ["", morning, night]
         default: ""
+      topic:
+        description: "テーマの指定（空欄ならおまかせ）"
+        type: string
+        default: ""
       dry_run:
         description: "画像と文章を作るだけで、Instagram には投稿しない"
         type: boolean
@@ -104,7 +108,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python autopost.py generate --slot "${{ needs.check.outputs.slot }}"
+          TOPIC: ${{ inputs.topic }}
+        run: python autopost.py generate --slot "${{ needs.check.outputs.slot }}" --topic "$TOPIC"
 
       - name: 画像をリポジトリに保存（Instagram が読める公開URLにするため）
         id: push
