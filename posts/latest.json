@@ -1,57 +1,55 @@
 {
   "date": "2026-10-10",
-  "slot": "morning",
-  "theme": "秋の朝、冷えをためない温め習慣",
-  "caption": "朝起きたとき、手足がひんやりしていませんか？\n\n10月に入って、朝晩の空気が少しずつ冷たくなってきましたね。\n季節の変わり目は、からだも冷えやすくなる時期です。\n\n冷えは、むくみや肩の重さ、生理前のゆらぎを感じやすくなるきっかけになることも。\n「冷え性だから仕方ない」とあきらめず、毎朝の小さな習慣で、内側からめぐるキレイを目指してみませんか。\n\n今日の投稿では\n・冷えのサインチェック\n・朝5分でできる温め習慣\n・お出かけ前のひと工夫\nをまとめました。画像をスワイプしてご覧くださいね☕️\n\nどれも特別な道具はいりません。\nできそうなものを、ひとつ選んで続けるだけで大丈夫ですよ。\n\nSalon de mocoでは、メディセルの筋膜ケアで、こわばったからだをやさしくゆるめ、めぐりを整えるお手伝いをしています。\n「冷えがつらい」と感じたら、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #冷え対策 #温活 #朝習慣 #セルフケア #めぐりケア #メディセル #Medicell #筋膜ケア #大人女子 #SalondeMoco",
+  "slot": "night",
+  "theme": "くしゃみの尿もれ、ひとりで悩まないで",
+  "caption": "くしゃみをした瞬間、思わず「ヒヤッ」としたこと、ありませんか？\n\n笑ったとき、重いものを持ったとき。\nちょっとした瞬間の尿もれは、なかなか人には言いにくいですよね。\n\nでも、大丈夫ですよ。\n出産後や年齢を重ねる中で感じる方も多い、大人の女性にとって身近なお悩みなんです。\n「私だけかも」と、ひとりで落ち込まなくていいんですよ。\n\n今夜は、日常でできるやさしい習慣をまとめました。\n水分を控えすぎないこと、冷やさないこと、姿勢を整えること。\n小さな積み重ねが、からだをいたわる時間になります。\n画像をスワイプしてご覧くださいね🌙\n\n気になる状態が続くときや、痛み・違和感があるときは、泌尿器科や婦人科などの医療機関へご相談ください。\n\nSalon de mocoでは、メディセル（Medicell）を使い、骨盤まわりのこわばりをゆるめてめぐりを整える筋膜ケアを行っています。すっきり感じる方も多いですよ。\n\n「恥ずかしい」は、そっと手放して大丈夫。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #尿もれ #骨盤底筋 #更年期 #産後ケア #メディセル #Medicell #筋膜ケア #女性の悩み #千葉サロン #自分をいたわる",
   "cover": {
-    "lead": "今日からできる温活",
-    "headline": "朝の【冷え】、\nそのままに\nしていませんか？"
+    "lead": "夜にそっと読んでほしい話",
+    "headline": "くしゃみの時、\n【ヒヤッ】と\nしていませんか？"
   },
   "slides": [
     {
-      "title": "こんなサインは\n【冷え】かも？",
+      "title": "それ、【よくあること】\nなんです",
       "numbered": false,
       "items": [
-        "朝、手足や指先がひんやりしている",
-        "夕方になると脚がむくみやすい",
-        "肩や首まわりがいつも重たい",
-        "生理前に冷えやだるさを感じやすい"
+        "くしゃみや笑った瞬間にヒヤッとする",
+        "重い物を持ったときに気になる",
+        "出産後や年齢とともに感じる方も多い",
+        "大人の女性にとって身近なお悩みです"
       ]
     },
     {
-      "title": "朝5分の\n【温め習慣】",
-      "numbered": true,
+      "title": "今夜からできる\n【やさしい習慣】",
+      "numbered": false,
       "items": [
-        "起きたら白湯をひと口ずつゆっくり飲む",
-        "布団の中で足首をくるくる回す",
-        "深呼吸を3回、おなかをふくらませて",
-        "温かい朝ごはんでからだを内側から"
+        "水分は控えすぎず、こまめに少しずつ",
+        "くしゃみの前に、お腹とお尻をきゅっと意識",
+        "おなかまわりと足元を冷やさない",
+        "背すじを伸ばし、骨盤を立てて座る",
+        "寝る前の深呼吸で、からだをゆるめる"
       ]
     },
     {
-      "title": "お出かけ前の\n【ひと工夫】",
+      "title": "こんなときは\n【専門家】へ相談を",
       "numbered": false,
       "items": [
-        "首・手首・足首の「3つの首」を冷やさない",
-        "おなかまわりに腹巻きやインナーをプラス",
-        "ストールやカーディガンを一枚バッグに",
-        "冷たい飲み物より常温や温かいものを"
+        "気になる状態が続くときは泌尿器科・婦人科へ",
+        "痛みや違和感があるときは早めに相談を",
+        "相談するのは、恥ずかしいことではありません"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "冷えのお悩みも\n【お気軽に】\nご相談くださいね"
+    "lead": "あなただけじゃない",
+    "headline": "ひとりで抱えず\n【お気軽に】\nご相談ください"
   },
-  "image_prompt": "Elegant feminine background for an Instagram carousel aimed at adult women, theme of a warm cozy autumn morning. Bright cream to soft dusty pink and baby pink background with gentle white and beige tones. Watercolor-style pink peonies and roses arranged only in the corners and along the left and right edges, with a small white ceramic cup of warm water with soft steam and a soft knitted beige shawl peeking in from one bottom corner. Delicate thin gold lines and subtle sparkles. Soft morning sunlight glow. The center is bright, pale and mostly empty with plenty of negative space for overlaying a headline later. Calm, clean, refined, not flashy. No people's bodies shown. No text, no letters, no numbers, no logos, no watermark.",
+  "image_prompt": "Elegant feminine background design for a calm evening, soft pale lavender to lilac gradient background, delicate watercolor lavender sprigs, wisteria and lilac flowers arranged only at the corners and left and right edges, thin fine gold lines and gentle soft sparkles, a sense of quiet nighttime relaxation and self-care for adult women, the center left bright, airy and empty with plenty of pale negative space for overlaying a headline later, refined, clean, calm and graceful mood, no people, no body parts, no text, no letters, no numbers, no logos, no watermark",
   "images": [
-    "posts/20261010-morning-1.jpg",
-    "posts/20261010-morning-2.jpg",
-    "posts/20261010-morning-3.jpg",
-    "posts/20261010-morning-4.jpg",
-    "posts/20261010-morning-5.jpg"
+    "posts/20261010-night-1.jpg",
+    "posts/20261010-night-2.jpg",
+    "posts/20261010-night-3.jpg",
+    "posts/20261010-night-4.jpg",
+    "posts/20261010-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18422756839146878",
-  "fb_post_id": "1411087672077869_122099100783506532"
+  "published": false
 }
