@@ -1,59 +1,47 @@
 {
-  "date": "2026-10-11",
-  "slot": "night",
-  "theme": "湯上がりの骨盤まわりほぐし",
-  "caption": "夕方になると、腰やお尻のあたりがずーんと重い…そんな日はありませんか？\n\n座りっぱなしのお仕事や家事、生理前後のからだの変化、秋の冷え。\n骨盤まわりは、毎日の小さな負担がたまりやすい場所です。\n\n「これくらい、みんな我慢しているし」と思いがちですが、\nつらさを感じたら、ちゃんといたわってあげていいんですよ。\n\n今夜は、お風呂上がりのからだが温かいうちにできる、\nやさしい骨盤ゆるめストレッチをご紹介します。\nお布団の上で、深呼吸しながら気持ちよく。\n画像をスワイプしてご覧くださいね。\n\nサロンでは、Medicell（メディセル）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアを行っています。\n腰まわりが軽く感じる方も多いケアです。\n\nなお、痛みが強いときや長く続くときは、無理をせず婦人科などの医療機関にご相談くださいね。\n\n1日がんばったご自身を、どうぞやさしく労わってあげてください🌙\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #骨盤ケア #腰の重さ #夜ストレッチ #ボディケア #メディセル #筋膜ケア #冷え対策 #生理前の不調 #自分をいたわる時間 #千葉サロン",
+  "date": "2026-10-12",
+  "slot": "morning",
+  "theme": "生理前のむくみを朝にリセット",
+  "caption": "生理前になると、朝の顔や脚がなんだか重たい…そんな日はありませんか？\n\n生理前は、ホルモンのゆらぎで水分をため込みやすくなる時期。\n指輪がきつく感じたり、靴がいつもより窮屈だったり。\n実は多くの女性が感じている、ごく自然なからだの変化なんです。\n\n「私だけかな」と思わなくて大丈夫ですよ。\n\n今日は、朝の5分でできる、すっきり習慣をまとめました。\n白湯をひと口、足首まわし、ふくらはぎをやさしくさする…\nどれも出かける前にさっとできることばかりです。\n\n日中に意識したい小さな工夫もあわせてご紹介しています。\n画像をスワイプしてご覧くださいね🌿\n\nサロンでは、メディセルの筋膜ケアで、めぐりを整えるお手伝いをしています。\n脚が軽く感じる、すっきりしたと感じる方も多いですよ。\n\nなお、むくみが急にひどくなったり、長く続いたりする場合は、医療機関へのご相談もおすすめします。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #生理前 #むくみケア #PMSケア #朝習慣 #セルフケア #めぐりケア #メディセル #筋膜ケア #女性の健康 #千葉サロン",
   "cover": {
-    "lead": "1日の終わりにやさしくほぐす",
-    "headline": "骨盤まわりの\n【重だるさ】\nためていませんか？"
+    "lead": "朝5分のすっきり習慣",
+    "headline": "生理前の\n【むくみ】、\n朝にリセット"
   },
   "slides": [
     {
-      "title": "重だるさを感じやすい\nこんなとき",
-      "numbered": false,
-      "items": [
-        "座りっぱなしの日が続いた",
-        "生理前や生理中で腰が重い",
-        "からだが冷えて縮こまっている",
-        "気づくと脚を組むくせがある"
-      ]
-    },
-    {
-      "title": "湯上がり5分の\n【骨盤ゆるめ】ストレッチ",
+      "title": "朝のすっきり\n【5ステップ】",
       "numbered": true,
       "items": [
-        "仰向けで両ひざを立て、ゆっくり深呼吸",
-        "ひざをそろえて左右にゆっくり倒す",
-        "両ひざを胸に抱えて、腰をまるくする",
-        "片ひざを胸に寄せ、お尻をじんわり伸ばす",
-        "おなかに手を当てて、深呼吸でおしまい"
+        "起きたら白湯をひと口、からだを内側から温める",
+        "布団の中で足首をゆっくり10回まわす",
+        "ふくらはぎを下から上へやさしくさする",
+        "深呼吸を3回、お腹までふくらませる",
+        "朝食に野菜や果物をひとつプラス"
       ]
     },
     {
-      "title": "心地よく続けるための\n【ポイント】",
+      "title": "日中も意識したい\n【小さな工夫】",
       "numbered": false,
       "items": [
-        "からだが温かいうちに行う",
-        "息を止めず、吐く息を長めに",
-        "痛みを感じたら無理せずお休みを",
-        "つらい痛みが続くときは婦人科へ相談を"
+        "塩分はいつもより少し控えめに",
+        "1時間に一度は立ち上がって歩く",
+        "締めつけの少ない服でゆったりと",
+        "温かい飲み物でこまめに水分補給",
+        "脚を冷やさないよう膝掛けを活用"
       ]
     }
   ],
   "closing": {
-    "lead": "がんばった自分をいたわって",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "気になる時は\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient backdrop, delicate watercolor lavender sprigs, wisteria and lilac flowers gathered in the corners and along the left and right edges, a soft folded lilac fabric and a faint glow of warm evening light suggesting relaxing night time after a bath, thin gold lines and gentle sparkles, calm and clean atmosphere, the center left bright, airy and empty with plenty of pale negative space for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos, no watermark",
-  "palette": "night",
+  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with fresh eucalyptus leaves and soft young green leaves placed in the corners and along the left and right edges, a glass of warm water with gentle morning light in one corner, thin gold line accents and subtle sparkles, fresh, clean, calm morning atmosphere, large bright empty space in the center for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261011-night-1.jpg",
-    "posts/20261011-night-2.jpg",
-    "posts/20261011-night-3.jpg",
-    "posts/20261011-night-4.jpg",
-    "posts/20261011-night-5.jpg"
+    "posts/20261012-morning-1.jpg",
+    "posts/20261012-morning-2.jpg",
+    "posts/20261012-morning-3.jpg",
+    "posts/20261012-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "17946263364343135",
-  "fb_post_id": "1411087672077869_122100202929506532"
+  "published": false
 }
