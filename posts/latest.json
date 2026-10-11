@@ -1,58 +1,57 @@
 {
   "date": "2026-10-11",
-  "slot": "morning",
-  "theme": "秋の乾燥に内側からうるおう朝習慣",
-  "caption": "肌のつっぱりやムズムズ感、季節のせいとあきらめていませんか？\n\nおはようございます。Salon de mocoです。\n\n空気が乾きはじめる秋は、お肌はもちろん、デリケートな部分のかさつきやかゆみを感じる方も増える季節です。\n「なんとなく気になるけれど、人には言いにくい…」\nそんなお悩みも、実はとてもよくあることなんですよ。\n\nうるおいは、外からの保湿だけでなく、からだの内側から育てることも大切です。\n朝の白湯や温かい一品、深呼吸でめぐりを整えるなど、今日からできる小さな習慣をまとめました🌿\n\n画像をスワイプして、ぜひ保存してご覧くださいね。\n\nかゆみや違和感が続くときは、がまんせずに婦人科や皮膚科へご相談を。\nサロンでは、メディセルで筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。からだがぽかぽかして、すっきり感じる方も多いですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #乾燥対策 #内側からキレイ #朝習慣 #セルフケア #めぐりケア #メディセル #筋膜ケア #デリケートゾーンケア #大人女子 #千葉サロン",
+  "slot": "night",
+  "theme": "湯上がりの骨盤まわりほぐし",
+  "caption": "夕方になると、腰やお尻のあたりがずーんと重い…そんな日はありませんか？\n\n座りっぱなしのお仕事や家事、生理前後のからだの変化、秋の冷え。\n骨盤まわりは、毎日の小さな負担がたまりやすい場所です。\n\n「これくらい、みんな我慢しているし」と思いがちですが、\nつらさを感じたら、ちゃんといたわってあげていいんですよ。\n\n今夜は、お風呂上がりのからだが温かいうちにできる、\nやさしい骨盤ゆるめストレッチをご紹介します。\nお布団の上で、深呼吸しながら気持ちよく。\n画像をスワイプしてご覧くださいね。\n\nサロンでは、Medicell（メディセル）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアを行っています。\n腰まわりが軽く感じる方も多いケアです。\n\nなお、痛みが強いときや長く続くときは、無理をせず婦人科などの医療機関にご相談くださいね。\n\n1日がんばったご自身を、どうぞやさしく労わってあげてください🌙\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #骨盤ケア #腰の重さ #夜ストレッチ #ボディケア #メディセル #筋膜ケア #冷え対策 #生理前の不調 #自分をいたわる時間 #千葉サロン",
   "cover": {
-    "lead": "今日からできる朝習慣",
-    "headline": "秋の乾燥、\n【内側から】\nうるおそう"
+    "lead": "1日の終わりにやさしくほぐす",
+    "headline": "骨盤まわりの\n【重だるさ】\nためていませんか？"
   },
   "slides": [
     {
-      "title": "朝のうるおい習慣\n【4ステップ】",
+      "title": "重だるさを感じやすい\nこんなとき",
+      "numbered": false,
+      "items": [
+        "座りっぱなしの日が続いた",
+        "生理前や生理中で腰が重い",
+        "からだが冷えて縮こまっている",
+        "気づくと脚を組むくせがある"
+      ]
+    },
+    {
+      "title": "湯上がり5分の\n【骨盤ゆるめ】ストレッチ",
       "numbered": true,
       "items": [
-        "起きたらコップ1杯の白湯をゆっくり飲む",
-        "深呼吸しながら首と肩をぐるっと回す",
-        "朝ごはんにお味噌汁など温かい一品を",
-        "洗顔後はすぐ保湿してうるおいを閉じこめる"
+        "仰向けで両ひざを立て、ゆっくり深呼吸",
+        "ひざをそろえて左右にゆっくり倒す",
+        "両ひざを胸に抱えて、腰をまるくする",
+        "片ひざを胸に寄せ、お尻をじんわり伸ばす",
+        "おなかに手を当てて、深呼吸でおしまい"
       ]
     },
     {
-      "title": "うるおいを育てる\n【おすすめ食材】",
+      "title": "心地よく続けるための\n【ポイント】",
       "numbered": false,
       "items": [
-        "大豆製品：豆腐・納豆・豆乳",
-        "良質な油：ナッツ・青魚・オリーブオイル",
-        "ビタミンC：柿・キウイ・ブロッコリー",
-        "発酵食品：ヨーグルト・味噌"
-      ]
-    },
-    {
-      "title": "乾燥が気になる日の\n【ひと工夫】",
-      "numbered": false,
-      "items": [
-        "加湿器や濡れタオルで室内の湿度を保つ",
-        "締めつけの少ない、やわらかい素材の服を",
-        "めぐりを整えることも、うるおいの味方に",
-        "かゆみが続くときは婦人科や皮膚科へ相談を"
+        "からだが温かいうちに行う",
+        "息を止めず、吐く息を長めに",
+        "痛みを感じたら無理せずお休みを",
+        "つらい痛みが続くときは婦人科へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ゆらぐ季節も大丈夫",
-    "headline": "あなたらしく\n【うるおう】\n毎日を"
+    "lead": "がんばった自分をいたわって",
+    "headline": "お気軽に\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale pastel green to mint watercolor background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves painted in watercolor style, a glass of warm water and soft linen fabric subtly placed in the corners, morning sunlight gently streaming in, thin gold lines and gentle sparkles, fresh, clean and refined atmosphere, all motifs placed at the four corners and left and right edges, center left bright, light and open with plenty of empty space for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient backdrop, delicate watercolor lavender sprigs, wisteria and lilac flowers gathered in the corners and along the left and right edges, a soft folded lilac fabric and a faint glow of warm evening light suggesting relaxing night time after a bath, thin gold lines and gentle sparkles, calm and clean atmosphere, the center left bright, airy and empty with plenty of pale negative space for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos, no watermark",
+  "palette": "night",
   "images": [
-    "posts/20261011-morning-1.jpg",
-    "posts/20261011-morning-2.jpg",
-    "posts/20261011-morning-3.jpg",
-    "posts/20261011-morning-4.jpg",
-    "posts/20261011-morning-5.jpg"
+    "posts/20261011-night-1.jpg",
+    "posts/20261011-night-2.jpg",
+    "posts/20261011-night-3.jpg",
+    "posts/20261011-night-4.jpg",
+    "posts/20261011-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18105963713190021",
-  "fb_post_id": "1411087672077869_122099881695506532"
+  "published": false
 }
