@@ -1,49 +1,57 @@
 {
   "date": "2026-10-12",
-  "slot": "morning",
-  "theme": "生理前のむくみを朝にリセット",
-  "caption": "生理前になると、朝の顔や脚がなんだか重たい…そんな日はありませんか？\n\n生理前は、ホルモンのゆらぎで水分をため込みやすくなる時期。\n指輪がきつく感じたり、靴がいつもより窮屈だったり。\n実は多くの女性が感じている、ごく自然なからだの変化なんです。\n\n「私だけかな」と思わなくて大丈夫ですよ。\n\n今日は、朝の5分でできる、すっきり習慣をまとめました。\n白湯をひと口、足首まわし、ふくらはぎをやさしくさする…\nどれも出かける前にさっとできることばかりです。\n\n日中に意識したい小さな工夫もあわせてご紹介しています。\n画像をスワイプしてご覧くださいね🌿\n\nサロンでは、メディセルの筋膜ケアで、めぐりを整えるお手伝いをしています。\n脚が軽く感じる、すっきりしたと感じる方も多いですよ。\n\nなお、むくみが急にひどくなったり、長く続いたりする場合は、医療機関へのご相談もおすすめします。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #生理前 #むくみケア #PMSケア #朝習慣 #セルフケア #めぐりケア #メディセル #筋膜ケア #女性の健康 #千葉サロン",
+  "slot": "night",
+  "theme": "言いにくい悩みを言葉にするコツ",
+  "caption": "「こんなこと、聞いてもいいのかな」と迷ったことはありませんか？\n\n生理のこと、デリケートゾーンのこと、更年期のゆらぎのこと。\n気になっていても、いざ話そうとすると言葉が見つからない。\nそんな方は、実はとても多いんです。\n\n「恥ずかしい」と感じるのは、自分のからだを大切に思っているからこそ。\n決しておかしなことではありませんよ。\n\n今日は、言いにくい悩みを少しずつ言葉にするためのヒントをまとめました。\n\n・「恥ずかしい」は自然な気持ち\n・相談前に書いておくと安心なメモ\n・うまく話せなくても大丈夫な理由\n\n画像をスワイプしてご覧くださいね。\n\n1日の終わり、静かな時間に、スマホのメモに一行だけ書いてみるのもおすすめです。\n文章にするだけで、気持ちが少し軽くなる方も多いですよ🌙\n\nなお、つらい症状が続くときは、婦人科などの医療機関にも相談してみてくださいね。\n\nSalon de mocoでは、どんな小さなお悩みも笑顔でお聴きしています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #女性の悩み #デリケートゾーンケア #更年期 #PMS #セルフケア #メディセル #Medicell #筋膜ケア #千葉サロン #自分をいたわる時間",
   "cover": {
-    "lead": "朝5分のすっきり習慣",
-    "headline": "生理前の\n【むくみ】、\n朝にリセット"
+    "lead": "夜にそっと読んでほしい",
+    "headline": "その悩み、\n【言葉に】して\nみませんか？"
   },
   "slides": [
     {
-      "title": "朝のすっきり\n【5ステップ】",
-      "numbered": true,
+      "title": "「恥ずかしい」は\n【自然な気持ち】です",
+      "numbered": false,
       "items": [
-        "起きたら白湯をひと口、からだを内側から温める",
-        "布団の中で足首をゆっくり10回まわす",
-        "ふくらはぎを下から上へやさしくさする",
-        "深呼吸を3回、お腹までふくらませる",
-        "朝食に野菜や果物をひとつプラス"
+        "からだを大切に思うからこそ感じる気持ち",
+        "同じことで悩む女性は、実はたくさんいます",
+        "話していいこと、ケアしていいことです",
+        "気づけた自分を、まずはほめてあげましょう"
       ]
     },
     {
-      "title": "日中も意識したい\n【小さな工夫】",
+      "title": "相談前に書いておくと\n【安心なメモ】",
+      "numbered": true,
+      "items": [
+        "いつごろから気になっているか",
+        "どんなときに感じやすいか",
+        "毎日の暮らしで困っていること",
+        "これまでに試してみたこと",
+        "これからどう過ごしたいか"
+      ]
+    },
+    {
+      "title": "うまく話せなくても\n【大丈夫】です",
       "numbered": false,
       "items": [
-        "塩分はいつもより少し控えめに",
-        "1時間に一度は立ち上がって歩く",
-        "締めつけの少ない服でゆったりと",
-        "温かい飲み物でこまめに水分補給",
-        "脚を冷やさないよう膝掛けを活用"
+        "「なんとなく気になる」だけでも十分です",
+        "全部を一度に話さなくて大丈夫",
+        "文字のほうが伝えやすい方はDMで",
+        "つらい症状が続くときは婦人科へも相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "気になる時は\n【ご相談】\nくださいね"
+    "lead": "話してくれて、ありがとう",
+    "headline": "いつでも\n【DM】で\nお待ちしています"
   },
-  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with fresh eucalyptus leaves and soft young green leaves placed in the corners and along the left and right edges, a glass of warm water with gentle morning light in one corner, thin gold line accents and subtle sparkles, fresh, clean, calm morning atmosphere, large bright empty space in the center for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender sprigs, wisteria, and lilac flowers arranged in the corners and along the left and right edges, a small handwritten-style blank notebook and a soft fabric ribbon at the bottom corner, thin delicate gold lines and gentle sparkles, calm relaxing nighttime atmosphere, center area bright, airy, and mostly empty with very pale color for overlaying text later, clean and refined, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261012-morning-1.jpg",
-    "posts/20261012-morning-2.jpg",
-    "posts/20261012-morning-3.jpg",
-    "posts/20261012-morning-4.jpg"
+    "posts/20261012-night-1.jpg",
+    "posts/20261012-night-2.jpg",
+    "posts/20261012-night-3.jpg",
+    "posts/20261012-night-4.jpg",
+    "posts/20261012-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18411302299093155",
-  "fb_post_id": "1411087672077869_122100755697506532"
+  "published": false
 }
