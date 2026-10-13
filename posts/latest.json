@@ -1,59 +1,58 @@
 {
-  "date": "2026-10-13",
-  "slot": "night",
-  "theme": "おりものの変化はからだのサイン",
-  "caption": "「これって普通なのかな？」と、ひとりで気にしていませんか。\n\nおりもののことは、なかなか人に聞けないですよね。\nでも実は、多くの女性が同じように気にしている、とても自然なことなんです。\n\nおりものは、からだを守る大切なうるおいのひとつ。\n生理周期にあわせて量や質感が変わるのは、からだがきちんと働いているサインでもあります。\n\n今日の投稿では、\n・知っておきたいおりものの基本\n・夜にできるやさしいケア\n・婦人科に相談したほうがよいサイン\nをまとめました。画像をスワイプしてご覧くださいね。\n\nいつもと違うと感じたときは、迷わず婦人科へ相談してみてください。早めに相談することで、気持ちもぐっと軽くなりますよ。\n\nSalon de mocoでは、メディセルの筋膜ケアで、冷えやめぐりを整えるお手伝いをしています。\n「恥ずかしい」と思わずに、からだの声に耳を傾ける時間を大切にしてくださいね🌙\n\nひとりで抱えず、お気軽にDMでご相談ください。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #デリケートゾーンケア #女性の悩み #女性の健康 #からだのサイン #自分をいたわる時間 #メディセル #筋膜ケア #千葉サロン",
+  "date": "2026-10-14",
+  "slot": "morning",
+  "theme": "朝の深呼吸でめぐるキレイ習慣",
+  "caption": "最近、深呼吸をしたのはいつですか？\n\nおはようございます。\n忙しい朝は、気づかないうちに呼吸が浅くなりがちです。\n肩が上がったままだったり、ため息が増えていたり。\n実はそれ、からだが「少しひと息ついて」と教えてくれているサインかもしれません。\n\n呼吸がゆったりすると、からだのめぐりが整い、表情までやわらかく感じる方も多いんですよ。\nキレイは、特別なことよりも毎日の小さな習慣から育っていきます。\n\n今日は、朝1分でできる深呼吸と、1日をすこやかに過ごすコツをまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、ふとしたときに見返せます🌿\n\n当サロンでは、メディセル（Medicell）の筋膜ケアで、こわばったからだをやさしくゆるめるお手伝いをしています。\n「なんだかいつも力が入っている気がする」そんな方も、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #深呼吸 #朝習慣 #セルフケア #めぐりケア #内側からキレイ #大人女子 #ボディケア #筋膜ケア #メディセル #Medicell #千葉サロン",
   "cover": {
-    "lead": "誰にも聞けなかったこと",
-    "headline": "その【おりもの】\n実はからだの\n大切なサイン"
+    "lead": "朝1分のセルフケア",
+    "headline": "朝の【深呼吸】で\nキレイが\nめぐりだす"
   },
   "slides": [
     {
-      "title": "知っておきたい\n【おりもの】の基本",
+      "title": "呼吸が浅いかも？\n【チェック】",
       "numbered": false,
       "items": [
-        "からだを守る、大切なうるおいのひとつ",
-        "生理周期にあわせて量や質感が変わります",
-        "排卵のころは透明でのびやかになりやすい",
-        "生理前は量が増え、白っぽくなることも"
+        "気づくと肩が上がっている",
+        "スマホを見る時間が長い",
+        "朝からからだが重く感じる",
+        "ため息がよく出る",
+        "顔色がくすんで見える日がある"
       ]
     },
     {
-      "title": "夜にできる\n【やさしいケア】",
-      "numbered": false,
+      "title": "朝1分の【深呼吸】",
+      "numbered": true,
       "items": [
-        "洗いすぎず、ぬるま湯でやさしく流す",
-        "寝るときは締めつけの少ない下着を",
-        "通気性のよい綿素材を選ぶ",
-        "おりものシートはこまめに取り替える",
-        "湯船で温まり、めぐりを整える"
+        "窓を開けて、背すじをすっと伸ばす",
+        "両手をおなかに当て、鼻から4秒吸う",
+        "おなかのふくらみを感じて、少し止める",
+        "口から細く長く、8秒かけて吐く",
+        "5回くり返して、肩の力をふっと抜く"
       ]
     },
     {
-      "title": "こんなときは\n【婦人科】へ相談を",
+      "title": "1日をキレイに\n過ごす【コツ】",
       "numbered": false,
       "items": [
-        "いつもと違う色やにおいが続く",
-        "かゆみやヒリヒリ感がある",
-        "量が急に増えて落ち着かない",
-        "迷ったら早めの相談で安心を"
+        "信号待ちでひと呼吸、肩をストンと下ろす",
+        "家事の合間に胸をひらいて伸びをする",
+        "白湯や常温のお水でからだをいたわる",
+        "「がんばってるね」と自分に声をかける"
       ]
     }
   ],
   "closing": {
-    "lead": "話していいことです",
-    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
+    "lead": "がんばりすぎない毎日を",
+    "headline": "いつでも\n【DM】で\nお待ちしています"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender, wisteria and lilac flowers arranged at the corners and along the left and right edges, delicate thin gold lines and gentle sparkles, calm relaxing nighttime mood, soft flowing sheer fabric, center area bright, airy and left mostly empty with pale color for text overlay later, refined and clean, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint gradient, fresh morning atmosphere with gentle sunlight, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged only in the corners and along the left and right edges, thin gold lines and subtle sparkles, airy and refreshing mood suggesting a calm deep breath, large bright empty space in the center with very light color for overlaying text, clean and calm, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261013-night-1.jpg",
-    "posts/20261013-night-2.jpg",
-    "posts/20261013-night-3.jpg",
-    "posts/20261013-night-4.jpg",
-    "posts/20261013-night-5.jpg"
+    "posts/20261014-morning-1.jpg",
+    "posts/20261014-morning-2.jpg",
+    "posts/20261014-morning-3.jpg",
+    "posts/20261014-morning-4.jpg",
+    "posts/20261014-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18134644132740985",
-  "fb_post_id": "1411087672077869_122102209389506532"
+  "published": false
 }
