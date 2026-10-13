@@ -270,5 +270,19 @@
     ],
     "media_id": "18134644132740985",
     "fb_post_id": "1411087672077869_122102209389506532"
+  },
+  {
+    "date": "2026-10-14",
+    "slot": "morning",
+    "theme": "朝の深呼吸でめぐるキレイ習慣",
+    "images": [
+      "posts/20261014-morning-1.jpg",
+      "posts/20261014-morning-2.jpg",
+      "posts/20261014-morning-3.jpg",
+      "posts/20261014-morning-4.jpg",
+      "posts/20261014-morning-5.jpg"
+    ],
+    "media_id": "18197779489382869",
+    "fb_post_id": "1411087672077869_122102723211506532"
   }
 ]
