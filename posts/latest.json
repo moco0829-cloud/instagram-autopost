@@ -1,58 +1,57 @@
 {
   "date": "2026-10-13",
-  "slot": "morning",
-  "theme": "歯みがきついでの股関節ほぐし",
-  "caption": "毎朝の歯みがきの3分間、ちょっとだけ「ついでケア」してみませんか？\n\n朝起きたとき、腰や骨盤まわりがなんとなく重い…\nそんな日はありませんか？\n長く座る日が続いたり、冷えやすい季節になったりすると、股関節まわりがこわばりやすいといわれています。\n\nわざわざ時間をつくらなくても大丈夫。\n洗面台の前に立つ歯みがきタイムは、からだをやさしくほぐすチャンスです。\n\n今回は、歯ブラシを持ったままできる、かんたんな股関節ほぐしをまとめました。\n終わったあと、足取りが軽く感じる方も多いですよ🌿\n\n画像をスワイプして、明日の朝からぜひ試してみてくださいね。\n保存しておくと、洗面台の前で思い出せます。\n\nなお、痛みが強いときや長く続くときは、無理をせず医療機関にご相談くださいね。\n\n骨盤まわりの重さや、なかなか人に話せないからだの悩みも、Salon de mocoではメディセルの筋膜ケアでやさしくサポートしています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #成田市サロン #千葉サロン #メディセル #筋膜ケア #股関節ストレッチ #骨盤ケア #朝習慣 #ながらケア #腰の重さ #セルフケア #大人女子 #女性の健康",
+  "slot": "night",
+  "theme": "おりものの変化はからだのサイン",
+  "caption": "「これって普通なのかな？」と、ひとりで気にしていませんか。\n\nおりもののことは、なかなか人に聞けないですよね。\nでも実は、多くの女性が同じように気にしている、とても自然なことなんです。\n\nおりものは、からだを守る大切なうるおいのひとつ。\n生理周期にあわせて量や質感が変わるのは、からだがきちんと働いているサインでもあります。\n\n今日の投稿では、\n・知っておきたいおりものの基本\n・夜にできるやさしいケア\n・婦人科に相談したほうがよいサイン\nをまとめました。画像をスワイプしてご覧くださいね。\n\nいつもと違うと感じたときは、迷わず婦人科へ相談してみてください。早めに相談することで、気持ちもぐっと軽くなりますよ。\n\nSalon de mocoでは、メディセルの筋膜ケアで、冷えやめぐりを整えるお手伝いをしています。\n「恥ずかしい」と思わずに、からだの声に耳を傾ける時間を大切にしてくださいね🌙\n\nひとりで抱えず、お気軽にDMでご相談ください。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #デリケートゾーンケア #女性の悩み #女性の健康 #からだのサイン #自分をいたわる時間 #メディセル #筋膜ケア #千葉サロン",
   "cover": {
-    "lead": "朝の3分でできる",
-    "headline": "歯みがきついでに\n【股関節ほぐし】\nしませんか？"
+    "lead": "誰にも聞けなかったこと",
+    "headline": "その【おりもの】\n実はからだの\n大切なサイン"
   },
   "slides": [
     {
-      "title": "歯みがきしながら\n【3ステップ】",
-      "numbered": true,
+      "title": "知っておきたい\n【おりもの】の基本",
+      "numbered": false,
       "items": [
-        "足を肩幅に開き、ひざを軽くゆるめて立つ",
-        "腰で小さな円を描くように、ゆっくり左右に5回ずつ",
-        "片足を少し後ろに引き、太もものつけ根を伸ばす",
-        "左右を入れかえて、気持ちよく呼吸しながら数回"
+        "からだを守る、大切なうるおいのひとつ",
+        "生理周期にあわせて量や質感が変わります",
+        "排卵のころは透明でのびやかになりやすい",
+        "生理前は量が増え、白っぽくなることも"
       ]
     },
     {
-      "title": "心地よく続ける\n【ポイント】",
+      "title": "夜にできる\n【やさしいケア】",
       "numbered": false,
       "items": [
-        "「痛気持ちいい」の手前で止めればOK",
-        "呼吸は止めず、ゆったり吐くことを意識",
-        "洗面台に片手を添えると安定して安心",
-        "できない日があっても大丈夫。気楽に続けて"
+        "洗いすぎず、ぬるま湯でやさしく流す",
+        "寝るときは締めつけの少ない下着を",
+        "通気性のよい綿素材を選ぶ",
+        "おりものシートはこまめに取り替える",
+        "湯船で温まり、めぐりを整える"
       ]
     },
     {
-      "title": "こんな方に\n【おすすめ】です",
+      "title": "こんなときは\n【婦人科】へ相談を",
       "numbered": false,
       "items": [
-        "朝、腰や骨盤まわりが重く感じる方",
-        "デスクワークで座っている時間が長い方",
-        "冷えやすく、足元がすっきりしない方",
-        "忙しくてストレッチの時間がとれない方"
+        "いつもと違う色やにおいが続く",
+        "かゆみやヒリヒリ感がある",
+        "量が急に増えて落ち着かない",
+        "迷ったら早めの相談で安心を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "からだの重さも\nお気軽に\n【ご相談】ください"
+    "lead": "話していいことです",
+    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
   },
-  "image_prompt": "Soft watercolor background in pale pastel green to mint tones, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, thin elegant gold lines and gentle sparkles, a hint of fresh morning light like a bright, clean washroom by a window, refreshing, graceful, feminine design for adult women, the center left bright, airy and mostly empty with very light color for overlaying a headline, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender, wisteria and lilac flowers arranged at the corners and along the left and right edges, delicate thin gold lines and gentle sparkles, calm relaxing nighttime mood, soft flowing sheer fabric, center area bright, airy and left mostly empty with pale color for text overlay later, refined and clean, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261013-morning-1.jpg",
-    "posts/20261013-morning-2.jpg",
-    "posts/20261013-morning-3.jpg",
-    "posts/20261013-morning-4.jpg",
-    "posts/20261013-morning-5.jpg"
+    "posts/20261013-night-1.jpg",
+    "posts/20261013-night-2.jpg",
+    "posts/20261013-night-3.jpg",
+    "posts/20261013-night-4.jpg",
+    "posts/20261013-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17906940840663615",
-  "fb_post_id": "1411087672077869_122101770435506532"
+  "published": false
 }
