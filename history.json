@@ -298,5 +298,19 @@
     ],
     "media_id": "18411490585092076",
     "fb_post_id": "1411087672077869_122103131679506532"
+  },
+  {
+    "date": "2026-10-15",
+    "slot": "morning",
+    "theme": "スマホ首をほどく朝の首まわりケア",
+    "images": [
+      "posts/20261015-morning-1.jpg",
+      "posts/20261015-morning-2.jpg",
+      "posts/20261015-morning-3.jpg",
+      "posts/20261015-morning-4.jpg",
+      "posts/20261015-morning-5.jpg"
+    ],
+    "media_id": "18135946150606972",
+    "fb_post_id": "1411087672077869_122103642141506532"
   }
 ]
