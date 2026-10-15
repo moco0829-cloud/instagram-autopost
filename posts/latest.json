@@ -1,59 +1,57 @@
 {
   "date": "2026-10-15",
-  "slot": "morning",
-  "theme": "スマホ首をほどく朝の首まわりケア",
-  "caption": "朝起きたとき、首がずっしり重く感じていませんか？\n\nスマホやパソコンを見る時間が長いと、気づかないうちに顔が前に出て、首や肩にこわばりがたまりやすくなります。\n「年齢のせいかな」「みんなこんなものかな」と、そのままにしている方も多いのではないでしょうか。\n\nでも大丈夫ですよ。\n朝のほんの1分、首まわりをやさしくほぐしてあげるだけでも、すっきり感じる方は多いんです。\n\n今日は、着替えの前やお化粧の合間にできる、かんたんな首まわりほぐしをまとめました。\n日中に意識したい小さな工夫もご紹介しているので、画像をスワイプしてご覧くださいね。\n保存しておくと、思い出したときにすぐ試せます。\n\n痛みやしびれが続くときは、無理をせず医療機関にご相談ください。\n\nSalon de mocoでは、メディセルの筋膜ケアで、首や肩まわりのこわばりをやさしくゆるめ、めぐりを整えるお手伝いをしています。\nひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #首こり #スマホ首 #肩こりケア #朝習慣 #セルフケア #筋膜ケア #メディセル #Medicell #大人女子 #サロンドモコ",
+  "slot": "night",
+  "theme": "座り疲れのお尻まわりを夜にほどく",
+  "caption": "今日もたくさん座って、がんばりましたね。\n\nデスクワークや車の運転、家でのひと休み。\n気づけば一日の大半を座って過ごしている方も多いのではないでしょうか。\n\n座りっぱなしが続くと、お尻まわりがこわばって、\n腰の重さや脚のだるさ、冷えを感じやすくなることがあります。\n「年齢のせいかな」とあきらめなくても大丈夫ですよ。\n\n今夜は、寝る前に数分だけ、\nお尻まわりをやさしくほどく時間をつくってみませんか。\n無理に伸ばさず、呼吸に合わせて「気持ちいい」で止めるのがコツです。\n\nやり方は画像をスワイプしてご覧くださいね。\n保存しておくと、疲れた夜にすぐ見返せます🌙\n\nSalon de mocoでは、Medicell（メディセル）の筋膜ケアで、\nこわばったからだのめぐりを整えるお手伝いをしています。\n腰まわりが軽く感じる方も多いですよ。\n\nつらさが長く続くときは、医療機関にも相談してくださいね。\nひとりで抱えず、お気軽にDMでご相談ください。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #ボディケア #セルフケア #腰の重さ #骨盤ケア #お尻ほぐし #デスクワーク疲れ #夜のセルフケア #メディセル #筋膜ケア #大人女子",
   "cover": {
-    "lead": "朝のスキマ時間に",
-    "headline": "首の【こわばり】\nそのままに\nしていませんか？"
+    "lead": "座りっぱなしの一日に",
+    "headline": "その【腰の重さ】、\nお尻まわりの\nこわばりかも"
   },
   "slides": [
     {
-      "title": "こんなサイン\nありませんか？",
+      "title": "こんなサイン\n【ありませんか？】",
       "numbered": false,
       "items": [
-        "朝起きると首や肩がずっしり重い",
-        "スマホを見るとき、つい顔が前に出る",
-        "振り向くとき首がスムーズに動かない",
-        "夕方になると頭まわりが重く感じる"
+        "夕方になると腰が重だるく感じる",
+        "立ち上がるとき、つい「よいしょ」と言う",
+        "脚がだるく、冷えやすい",
+        "座っていると姿勢がくずれがち",
+        "一日の大半を座って過ごしている"
       ]
     },
     {
-      "title": "朝1分の\n【首まわりほぐし】",
+      "title": "寝る前にできる\n【お尻ほぐし3ステップ】",
       "numbered": true,
       "items": [
-        "背すじを伸ばし、肩の力をふっと抜く",
-        "あごを軽く引き、頭をまっすぐ上へ伸ばす",
-        "ゆっくり首を左右に倒し、5秒ずつキープ",
-        "肩を後ろへ大きく5回まわす",
-        "最後に深呼吸して、ふーっと力を抜く"
+        "仰向けで両ひざを立て、深呼吸を3回",
+        "片足首を反対のひざにのせ、胸へそっと引き寄せる",
+        "気持ちいい所で5呼吸。反対側も同じように",
+        "両ひざを左右にゆっくり倒して腰をゆらす"
       ]
     },
     {
-      "title": "今日から\n【意識したいこと】",
+      "title": "心地よく続ける\n【ポイント】",
       "numbered": false,
       "items": [
-        "スマホは目の高さに近づけて見る",
-        "30分に一度、肩をすくめてストンと下ろす",
-        "首元をストールなどで冷やさない",
-        "痛みやしびれが続くときは医療機関へ"
+        "痛みを感じたら、すぐにやめて大丈夫",
+        "反動をつけず、呼吸に合わせてゆっくりと",
+        "お風呂上がりの温まった時間がおすすめ",
+        "できなかった日も、自分を責めないで"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "つらい日は\n【頼って】\nくださいね"
+    "lead": "今日もおつかれさまでした",
+    "headline": "ひとりで抱えず\n【お気軽に】\nご相談ください"
   },
-  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with fresh eucalyptus and soft young green leaves arranged only in the corners and along the left and right edges, a light silk scarf draped softly at one edge, gentle morning sunlight, thin fine gold lines and subtle sparkles, refreshing, clean and calm mood, large bright empty space in the center with very light airy color for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, delicate watercolor lavender sprigs, wisteria and lilac flowers arranged in the corners and along the left and right edges, a soft folded lilac fabric and a small cushion in one lower corner suggesting evening relaxation, thin gold lines and gentle sparkles, calm night-time cozy mood, the center left bright, airy and mostly empty in a very light pale tone for text overlay, clean and refined, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261015-morning-1.jpg",
-    "posts/20261015-morning-2.jpg",
-    "posts/20261015-morning-3.jpg",
-    "posts/20261015-morning-4.jpg",
-    "posts/20261015-morning-5.jpg"
+    "posts/20261015-night-1.jpg",
+    "posts/20261015-night-2.jpg",
+    "posts/20261015-night-3.jpg",
+    "posts/20261015-night-4.jpg",
+    "posts/20261015-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18135946150606972",
-  "fb_post_id": "1411087672077869_122103642141506532"
+  "published": false
 }
