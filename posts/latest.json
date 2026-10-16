@@ -1,58 +1,46 @@
 {
-  "date": "2026-10-16",
-  "slot": "night",
-  "theme": "多い日の夜、モレの不安をやわらげる工夫",
-  "caption": "「シーツ、汚してないかな…」そんな不安で夜中に目が覚めること、ありませんか？\n\n生理の多い日の夜は、モレが気になってぐっすり眠れない。\n実は、とても多くの女性が抱えている悩みです。\nなかなか人には言いにくいことですが、あなただけではありませんよ。\n\n今日は、多い日の夜を少しでも安心して過ごすための工夫をまとめました。\n寝る前の準備、眠りやすい姿勢、そして気にかけてほしいサインまで、画像をスワイプしてご覧くださいね。\n\n経血の量は人それぞれ。\nただ、以前より急に増えた、ふらつきがあるなど、気になる変化が続くときは、がまんせず婦人科で相談してみてください。\n\n当サロンでは、メディセルの筋膜ケアで、冷えやおなかまわりのこわばりをゆるめ、めぐりを整えるお手伝いをしています。\n生理の時期をすこし楽に感じる方も多いですよ。\n\n今夜は、がんばった自分をやさしくいたわってあげてくださいね🌙\nひとりで抱えず、お気軽にDMでご相談ください。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #生理の悩み #生理 #多い日 #夜用ナプキン #女性の悩み #セルフケア #メディセル #Medicell #筋膜ケア #SalondeMoco",
+  "date": "2026-10-17",
+  "slot": "morning",
+  "theme": "内側からキレイを育む朝ごはん",
+  "caption": "朝ごはん、なんとなく済ませていませんか？\n\nおはようございます。Salon de mocoです。\n\nキレイは、毎日のごはんからも育まれていきます。\n特に女性は、生理などで鉄分が不足しがちといわれていて、朝のひと工夫がうれしい味方になってくれますよ。\n\nといっても、完璧な朝ごはんでなくて大丈夫です。\n「いつもの朝食に、1品足してみる」\nそれだけでも、立派なセルフケアです。\n\n卵や納豆、温かいおみそ汁、果物をひとつ。\n前の晩の残りや冷凍野菜に頼るのも、上手な工夫ですね。\n\n女性にうれしい食材と、忙しい朝でも続けやすいコツをまとめました。\n画像をスワイプして、保存してご活用くださいね🌿\n\n内側からのケアに、めぐりを整えるケアを重ねると、からだが軽く感じる方も多いです。\nからだのことで気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #朝ごはん #朝習慣 #インナーケア #内側からキレイ #女性の健康 #セルフケア #メディセル #筋膜ケア #salondemoco",
   "cover": {
-    "lead": "今夜は安心して眠りたい",
-    "headline": "多い日の夜、\n【モレ】が心配で\n眠れない？"
+    "lead": "1日のはじまりに",
+    "headline": "内側から\n【キレイ】を育む\n朝ごはん"
   },
   "slides": [
     {
-      "title": "寝る前の\n【安心準備】",
-      "numbered": true,
+      "title": "女性にうれしい\n【朝の食材】",
+      "numbered": false,
       "items": [
-        "寝る直前にナプキンを新しいものに交換",
-        "布団に入る前にお手洗いを済ませる",
-        "ショーツ型ナプキンやサニタリーショーツを活用",
-        "お尻側にバスタオルを一枚敷いておく"
+        "卵やヨーグルトでたんぱく質をプラス",
+        "納豆や豆腐など、大豆食品を一品",
+        "小松菜やあさりで鉄分を意識",
+        "おみそ汁など温かい汁物でぽかぽか",
+        "果物でビタミンもいっしょに"
       ]
     },
     {
-      "title": "眠りやすい\n【姿勢】のコツ",
+      "title": "忙しい朝の\n【ゆるっとコツ】",
       "numbered": false,
       "items": [
-        "横向きで膝を軽く曲げると楽に感じる方も",
-        "太ももを軽くそろえるとモレにくい",
-        "腹巻やタオルでおなかをやさしく温める",
-        "寝返りを怖がりすぎなくて大丈夫"
-      ]
-    },
-    {
-      "title": "こんなときは\n【婦人科】へ相談を",
-      "numbered": false,
-      "items": [
-        "夜用でも1〜2時間もたない日が続く",
-        "大きなかたまりがよく出る",
-        "立ちくらみやふらつきを感じる",
-        "以前より量が急に増えた気がする"
+        "全部そろえるより「1品足す」でOK",
+        "前夜の残りや冷凍野菜も上手に活用",
+        "まずは白湯を一杯、からだを起こす",
+        "よく噛んで、ゆっくり味わう"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "どんな悩みも\n【お気軽に】\nご相談ください"
+    "lead": "あなたのキレイを応援",
+    "headline": "気になることは\n【気軽に】\nご相談ください"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, a soft folded cotton blanket and a warm glowing night lamp subtly placed at the edge, thin delicate gold lines and gentle sparkles, calm cozy nighttime relaxation mood, clean and refined, the center is bright, airy and mostly empty pale color for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, fresh and elegant feminine design for adult women. Delicate white chamomile and lily of the valley flowers with soft eucalyptus and young green leaves arranged at the corners and left and right edges, a small ceramic cup of warm water and a few fresh fruits subtly placed at one corner, gentle morning sunlight, thin gold lines and soft sparkles. The center is bright, airy and mostly empty with a very light pale color for overlaying text later. Clean, calm, refined atmosphere. No text, no letters, no numbers, no logos, no people's bodies.",
+  "palette": "morning",
   "images": [
-    "posts/20261016-night-1.jpg",
-    "posts/20261016-night-2.jpg",
-    "posts/20261016-night-3.jpg",
-    "posts/20261016-night-4.jpg",
-    "posts/20261016-night-5.jpg"
+    "posts/20261017-morning-1.jpg",
+    "posts/20261017-morning-2.jpg",
+    "posts/20261017-morning-3.jpg",
+    "posts/20261017-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "18114174686032076",
-  "fb_post_id": "1411087672077869_122105173881506532"
+  "published": false
 }
