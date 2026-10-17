@@ -381,5 +381,19 @@
     ],
     "media_id": "18137352547730741",
     "fb_post_id": "1411087672077869_122106225945506532"
+  },
+  {
+    "date": "2026-10-18",
+    "slot": "morning",
+    "theme": "生理中の朝、腰の重さを和らげる工夫",
+    "images": [
+      "posts/20261018-morning-1.jpg",
+      "posts/20261018-morning-2.jpg",
+      "posts/20261018-morning-3.jpg",
+      "posts/20261018-morning-4.jpg",
+      "posts/20261018-morning-5.jpg"
+    ],
+    "media_id": "18123217480935307",
+    "fb_post_id": "1411087672077869_122106759159506532"
   }
 ]
