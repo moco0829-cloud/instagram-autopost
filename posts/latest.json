@@ -1,48 +1,56 @@
 {
   "date": "2026-10-17",
-  "slot": "morning",
-  "theme": "内側からキレイを育む朝ごはん",
-  "caption": "朝ごはん、なんとなく済ませていませんか？\n\nおはようございます。Salon de mocoです。\n\nキレイは、毎日のごはんからも育まれていきます。\n特に女性は、生理などで鉄分が不足しがちといわれていて、朝のひと工夫がうれしい味方になってくれますよ。\n\nといっても、完璧な朝ごはんでなくて大丈夫です。\n「いつもの朝食に、1品足してみる」\nそれだけでも、立派なセルフケアです。\n\n卵や納豆、温かいおみそ汁、果物をひとつ。\n前の晩の残りや冷凍野菜に頼るのも、上手な工夫ですね。\n\n女性にうれしい食材と、忙しい朝でも続けやすいコツをまとめました。\n画像をスワイプして、保存してご活用くださいね🌿\n\n内側からのケアに、めぐりを整えるケアを重ねると、からだが軽く感じる方も多いです。\nからだのことで気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #朝ごはん #朝習慣 #インナーケア #内側からキレイ #女性の健康 #セルフケア #メディセル #筋膜ケア #salondemoco",
+  "slot": "night",
+  "theme": "婦人科受診のハードルを下げる準備",
+  "caption": "「婦人科って、なんだか行きにくい…」そう感じたことはありませんか？\n\n内診への不安や、症状をうまく話せるかという心配。\n「このくらいで行っていいのかな」と迷ってしまうのは、あなただけではありません。\n\n婦人科は、病気のときだけでなく、からだの「いつもと違う」を気軽に相談できる場所です。\nつらい症状が続くときは、がまんせずに相談してみてくださいね。\n\n今夜は、受診の前に準備しておくと気持ちが少し軽くなるポイントをまとめました。\n周期のメモや、聞きたいことのリストがあるだけで、伝えるのがぐっとラクになりますよ。\n画像をスワイプしてご覧くださいね🌙\n\n「恥ずかしい」は、自分のからだを大切にしたい気持ちの裏返し。\n一歩踏み出せたら、それだけで十分すてきなことです。\n\nSalon de mocoでは、日々のからだのつらさに寄り添うケアを行っています。\n医療機関とあわせて、心とからだをいたわる時間にご活用ください。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #婦人科 #女性の健康 #更年期 #生理の悩み #PMS #自分をいたわる #千葉サロン #メディセル #筋膜ケア #Salondemoco",
   "cover": {
-    "lead": "1日のはじまりに",
-    "headline": "内側から\n【キレイ】を育む\n朝ごはん"
+    "lead": "今夜、そっと読んでほしい",
+    "headline": "婦人科、\n【恥ずかしい】って\n思っていませんか？"
   },
   "slides": [
     {
-      "title": "女性にうれしい\n【朝の食材】",
+      "title": "こんなときは\n【相談】してみて",
       "numbered": false,
       "items": [
-        "卵やヨーグルトでたんぱく質をプラス",
-        "納豆や豆腐など、大豆食品を一品",
-        "小松菜やあさりで鉄分を意識",
-        "おみそ汁など温かい汁物でぽかぽか",
-        "果物でビタミンもいっしょに"
+        "生理痛がつらく、日常生活に支障がある",
+        "いつもと違う状態が続いていて気になる",
+        "周期や出血の量が大きく変わった",
+        "ゆらぎや不調でなんとなく不安が続く"
       ]
     },
     {
-      "title": "忙しい朝の\n【ゆるっとコツ】",
+      "title": "受診前の\n【準備】リスト",
+      "numbered": true,
+      "items": [
+        "最終の生理開始日と周期をメモする",
+        "気になる症状といつからかを書き出す",
+        "聞きたいことを箇条書きにしておく",
+        "着脱しやすいスカートで出かける"
+      ]
+    },
+    {
+      "title": "気持ちを\n【軽く】するヒント",
       "numbered": false,
       "items": [
-        "全部そろえるより「1品足す」でOK",
-        "前夜の残りや冷凍野菜も上手に活用",
-        "まずは白湯を一杯、からだを起こす",
-        "よく噛んで、ゆっくり味わう"
+        "医師にとっては毎日のよくある相談です",
+        "うまく話せなくてもメモを見せればOK",
+        "不安なことは遠慮せず先に伝えてよい",
+        "女性医師を選べるか事前に調べるのも◎"
       ]
     }
   ],
   "closing": {
-    "lead": "あなたのキレイを応援",
-    "headline": "気になることは\n【気軽に】\nご相談ください"
+    "lead": "ひとりで抱えないで",
+    "headline": "いつでも\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, fresh and elegant feminine design for adult women. Delicate white chamomile and lily of the valley flowers with soft eucalyptus and young green leaves arranged at the corners and left and right edges, a small ceramic cup of warm water and a few fresh fruits subtly placed at one corner, gentle morning sunlight, thin gold lines and soft sparkles. The center is bright, airy and mostly empty with a very light pale color for overlaying text later. Clean, calm, refined atmosphere. No text, no letters, no numbers, no logos, no people's bodies.",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor lavender, wisteria and lilac flowers gently placed in the corners and along the left and right edges, delicate thin gold lines and soft gentle sparkles, a calm relaxing nighttime mood, a small notebook and a cup of herbal tea subtly near the bottom corner, the center left bright, airy and mostly empty with pale soft color for overlaying text, refined, clean, calm, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261017-morning-1.jpg",
-    "posts/20261017-morning-2.jpg",
-    "posts/20261017-morning-3.jpg",
-    "posts/20261017-morning-4.jpg"
+    "posts/20261017-night-1.jpg",
+    "posts/20261017-night-2.jpg",
+    "posts/20261017-night-3.jpg",
+    "posts/20261017-night-4.jpg",
+    "posts/20261017-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18126766390910077",
-  "fb_post_id": "1411087672077869_122105803071506532"
+  "published": false
 }
