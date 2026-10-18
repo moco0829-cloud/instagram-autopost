@@ -1,60 +1,56 @@
 {
-  "date": "2026-10-18",
-  "slot": "night",
-  "theme": "夕方の脚のむくみを夜にほどく",
-  "caption": "夕方、靴下のあとがくっきり…そんな日はありませんか？\n\n一日中座りっぱなし、立ちっぱなしで過ごした日の夕方。\n脚が重だるく、靴がきつく感じることもありますよね。\n\n脚は心臓から遠く、めぐりが滞りやすい場所です。\nむくみを感じるのは、それだけ毎日がんばっている証拠。\n決してあなただけではありませんよ。\n\n今夜は、がんばった脚をいたわる5分間をつくってみませんか？\n足首を回したり、足先からひざへやさしくさすったり。\nむずかしいことはしなくて大丈夫です。\n「今日もありがとう」と声をかけるような気持ちで、ゆっくり触れてみてくださいね。\n\nセルフチェックと寝る前のケアを画像にまとめました。\nスワイプしてご覧いただき、保存しておくと便利です。\n\nSalon de mocoでは、Medicell（メディセル）による筋膜ケアで、めぐりを整えるお手伝いをしています。\n脚が軽く感じる方も多いですよ🌙\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #むくみケア #脚のむくみ #セルフケア #夜のセルフケア #めぐりケア #メディセル #Medicell #筋膜ケア #ボディケア #大人女子 #千葉サロン",
+  "date": "2026-10-19",
+  "slot": "morning",
+  "theme": "トイレを我慢しない膀胱いたわり習慣",
+  "caption": "「あとで行こう」が、毎日の口ぐせになっていませんか？\n\nお仕事や家事、通勤中など、ついトイレを後回しにしてしまうこと、ありますよね。\n「外出先でトイレが心配だから」と、水分を控えている方も少なくありません。\n\nでも、膀胱まわりのことは、女性のからだにとって大切なテーマ。\n人に話しにくいからこそ、ひとりで「こんなものかな」と思い込みがちです。\n\n今日は、朝から意識できる\n膀胱をいたわる小さな習慣をまとめました。\n画像をスワイプしてご覧くださいね。\n\n・起きたらコップ1杯の水\n・水分は控えすぎず、こまめに\n・腰やお腹を冷やさない\n\nどれも今日からさっと始められることばかりです🌿\n\nまた、排尿時の痛みや残尿感が続くときは、無理せず婦人科や泌尿器科へご相談くださいね。\n\nSalon de moco では、メディセルの筋膜ケアで骨盤まわりのこわばりをゆるめ、めぐりを整えるお手伝いをしています。すっきり感じる方も多いですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #成田市サロン #千葉フェムケア #膀胱ケア #トイレ習慣 #女性の悩み #朝習慣 #セルフケア #メディセル #Medicell #筋膜ケア #骨盤ケア",
   "cover": {
-    "lead": "今日もおつかれさまです",
-    "headline": "夕方の脚、\n【パンパン】に\nなっていませんか？"
+    "lead": "朝から意識したい習慣",
+    "headline": "トイレ、\n【がまん】して\nいませんか？"
   },
   "slides": [
     {
-      "title": "夕方むくみの\nサインチェック",
+      "title": "膀胱をいたわる\n【朝の習慣】",
       "numbered": false,
       "items": [
-        "靴下のゴムのあとがくっきり残る",
-        "夕方になると靴がきつく感じる",
-        "ふくらはぎが重だるい",
-        "足先が冷えやすい",
-        "座りっぱなし・立ちっぱなしが多い"
+        "起きたらコップ1杯の水でうるおす",
+        "水分は控えすぎず、こまめに少しずつ",
+        "出かける前に、ゆったりトイレタイム",
+        "腰とお腹を冷やさない服選びを"
       ]
     },
     {
-      "title": "寝る前5分の\n【脚ほどき】",
-      "numbered": true,
+      "title": "日中に意識したい\n【小さな工夫】",
+      "numbered": false,
       "items": [
-        "足首をゆっくり大きく回す",
-        "足の指をグーパーして先までほぐす",
-        "足首からひざへ両手でやさしくさする",
-        "仰向けで脚を少し高くして深呼吸",
-        "最後に白湯をひと口飲んでひと息"
+        "「あとで」と我慢しすぎない",
+        "休憩のたびにトイレを習慣に",
+        "座るときは骨盤を立てて",
+        "コーヒーや紅茶は飲みすぎに注意"
       ]
     },
     {
-      "title": "めぐりを育む\n夜のひと工夫",
+      "title": "こんなときは\n【婦人科・泌尿器科】へ",
       "numbered": false,
       "items": [
-        "ぬるめのお湯にゆっくり浸かる",
-        "夜ごはんの塩分は少し控えめに",
-        "締めつけの少ない服でくつろぐ",
-        "がんばった脚に「ありがとう」を"
+        "排尿時に痛みやしみる感じがある",
+        "残尿感がずっと続いている",
+        "尿の色やにおいがいつもと違う",
+        "回数の多さで毎日がつらい"
       ]
     }
   ],
   "closing": {
-    "lead": "がんばった脚をいたわって",
-    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
+    "lead": "話していいことです",
+    "headline": "ひとりで\n抱えず\n【ご相談】ください"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender sprigs, wisteria and lilac flowers arranged only in the corners and along the left and right edges, a soft draped lilac fabric and a small cup of warm tea in one corner suggesting a relaxing evening, thin delicate gold lines and gentle sparkles, calm and clean nighttime relaxation mood, the center left bright, airy and mostly empty with plenty of pale negative space for overlaying a headline, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft watercolor background in pale pastel green to mint tones, delicate white small flowers such as chamomile and lily of the valley with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, a clear glass of water with soft morning light near one edge, thin elegant gold lines and gentle sparkles, fresh, refined and feminine design for adult women, the center left bright, airy and mostly empty with very pale color for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261018-night-1.jpg",
-    "posts/20261018-night-2.jpg",
-    "posts/20261018-night-3.jpg",
-    "posts/20261018-night-4.jpg",
-    "posts/20261018-night-5.jpg"
+    "posts/20261019-morning-1.jpg",
+    "posts/20261019-morning-2.jpg",
+    "posts/20261019-morning-3.jpg",
+    "posts/20261019-morning-4.jpg",
+    "posts/20261019-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18415641613081726",
-  "fb_post_id": "1411087672077869_122107151943506532"
+  "published": false
 }
