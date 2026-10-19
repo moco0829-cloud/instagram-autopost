@@ -1,57 +1,45 @@
 {
-  "date": "2026-10-19",
-  "slot": "night",
-  "theme": "寝る姿勢で腰をいたわる夜",
-  "caption": "朝起きたとき、なぜか腰が重い…そんな日はありませんか？\n\n一日がんばったからだは、眠っている間も休みたがっています。\nでも、寝る姿勢によっては腰に負担がかかったまま、朝を迎えてしまうことも。\n\n実は、ちょっとしたクッションの置き方や寝る前の1分で、腰まわりがラクに感じる方も多いんです。\n\n今夜からできる「腰をいたわる寝姿勢」をまとめました。\n仰向け派さんも、横向き派さんも、画像をスワイプしてご覧くださいね。\n\n生理前や生理中、骨盤まわりが重だるい時期にも、ぜひ試してみてください。\nおうちにあるタオルや抱き枕で大丈夫ですよ。\n\nつらい痛みが続く場合は、無理をせず医療機関へご相談くださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアで、こわばった腰まわりのめぐりを整えるお手伝いをしています。\n腰の重さ、ひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #フェムケア #腰痛ケア #寝姿勢 #骨盤ケア #生理痛ケア #筋膜ケア #メディセル #セルフケア #自分をいたわる時間 #大人女子",
+  "date": "2026-10-20",
+  "slot": "morning",
+  "theme": "家事ついでのかかと上げでめぐり習慣",
+  "caption": "お湯を沸かす3分間、ただ待っているだけになっていませんか？\n\nおはようございます。\n今日は、朝の家事の合間にできる「かかと上げ」のご紹介です。\n\nふくらはぎは「第二の心臓」とも呼ばれ、足元のめぐりを支える大切な場所。\nかかとをゆっくり上げ下げするだけで、脚がすっきり軽く感じる方も多いんですよ。\n\nキッチンでお湯が沸くのを待つ間、洗面所で髪を乾かす間など、\n「ついで」にできるのがうれしいところ。\n背すじがすっと伸びて、立ち姿まで美しく見えるのも魅力です。\n\nやり方とポイントを画像にまとめました。\nスワイプしてご覧くださいね。保存して、明日の朝の合図にしていただけたらうれしいです。\n\n毎日完璧にできなくても大丈夫。\n思い出したときに、少しずつで十分ですよ。\n\n冷えやむくみ、脚の重さが気になる方は、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #フェムケア #成田市サロン #千葉サロン #メディセル #Medicell #筋膜ケア #むくみケア #冷え対策 #朝習慣 #ながらケア #美脚習慣 #大人女子のセルフケア",
   "cover": {
-    "lead": "今夜からできる",
-    "headline": "朝の【腰の重さ】、\n寝る姿勢から\n見直しませんか？"
+    "lead": "朝の家事の合間に",
+    "headline": "待ち時間で\n【めぐる脚】\nつくりませんか？"
   },
   "slides": [
     {
-      "title": "仰向け派さんは\n【ひざ下】にクッション",
-      "numbered": false,
-      "items": [
-        "ひざ下に丸めたタオルやクッションを置く",
-        "腰と布団のすき間がやさしく埋まります",
-        "手はお腹に添えて、ゆっくり深呼吸を"
-      ]
-    },
-    {
-      "title": "横向き派さんは\n【ひざの間】にクッション",
-      "numbered": false,
-      "items": [
-        "ひざを軽く曲げ、間にクッションをはさむ",
-        "骨盤のねじれが和らぎ、腰がラクに感じる方も",
-        "抱き枕を抱えると肩まわりもリラックス",
-        "うつ伏せは腰が反りやすいので控えめに"
-      ]
-    },
-    {
-      "title": "眠る前の\n【1分】腰ほどき",
+      "title": "キッチンでできる\n【かかと上げ】",
       "numbered": true,
       "items": [
-        "仰向けで両ひざを立て、全身の力を抜く",
-        "息を吐きながら、ひざを左右にゆっくり倒す",
-        "両ひざを胸に抱えて、背中をまるく深呼吸",
-        "痛みを感じたら無理せず、すぐにやめる"
+        "シンクに軽く手を添えて、足を腰幅に開く",
+        "息を吐きながら、かかとをゆっくり上げる",
+        "2秒キープして、ゆっくり下ろす",
+        "お湯が沸くまで10回ほど繰り返す"
+      ]
+    },
+    {
+      "title": "心地よく続ける\n【小さなコツ】",
+      "numbered": false,
+      "items": [
+        "親指のつけ根に重心をのせるイメージで",
+        "頭のてっぺんを糸で引かれるように背すじを伸ばす",
+        "反動をつけず、ゆっくり丁寧に",
+        "ふらつく日や痛みがある日はお休みしてOK"
       ]
     }
   ],
   "closing": {
-    "lead": "今日もおつかれさまでした",
-    "headline": "腰の重さも\n【お気軽に】\nご相談ください"
+    "lead": "脚の重さ、ひとりで抱えないで",
+    "headline": "お気軽に\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, a soft folded linen blanket and a plush pillow suggested at the bottom corner, thin delicate gold lines and subtle sparkles, calm cozy nighttime relaxation mood, the center is bright, airy and mostly empty pale color for overlaying text, refined and clean, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Elegant feminine watercolor background for an adult women's wellness salon, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with fresh young leaves and eucalyptus sprigs arranged at the corners and left and right edges, a hint of a bright morning kitchen window with gentle sunlight and a soft linen cloth near the edge, thin fine gold lines and subtle sparkles, refreshing, calm, clean and graceful mood, large bright airy empty space in the center for overlay text, no people's bare skin, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261019-night-1.jpg",
-    "posts/20261019-night-2.jpg",
-    "posts/20261019-night-3.jpg",
-    "posts/20261019-night-4.jpg",
-    "posts/20261019-night-5.jpg"
+    "posts/20261020-morning-1.jpg",
+    "posts/20261020-morning-2.jpg",
+    "posts/20261020-morning-3.jpg",
+    "posts/20261020-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "18390064687229565",
-  "fb_post_id": "1411087672077869_122108420859506532"
+  "published": false
 }
