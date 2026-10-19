@@ -1,58 +1,55 @@
 {
   "date": "2026-10-19",
-  "slot": "morning",
-  "theme": "トイレを我慢しない膀胱いたわり習慣",
-  "caption": "「あとで行こう」が、毎日の口ぐせになっていませんか？\n\nお仕事や家事、通勤中など、ついトイレを後回しにしてしまうこと、ありますよね。\n「外出先でトイレが心配だから」と、水分を控えている方も少なくありません。\n\nでも、膀胱まわりのことは、女性のからだにとって大切なテーマ。\n人に話しにくいからこそ、ひとりで「こんなものかな」と思い込みがちです。\n\n今日は、朝から意識できる\n膀胱をいたわる小さな習慣をまとめました。\n画像をスワイプしてご覧くださいね。\n\n・起きたらコップ1杯の水\n・水分は控えすぎず、こまめに\n・腰やお腹を冷やさない\n\nどれも今日からさっと始められることばかりです🌿\n\nまた、排尿時の痛みや残尿感が続くときは、無理せず婦人科や泌尿器科へご相談くださいね。\n\nSalon de moco では、メディセルの筋膜ケアで骨盤まわりのこわばりをゆるめ、めぐりを整えるお手伝いをしています。すっきり感じる方も多いですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #成田市サロン #千葉フェムケア #膀胱ケア #トイレ習慣 #女性の悩み #朝習慣 #セルフケア #メディセル #Medicell #筋膜ケア #骨盤ケア",
+  "slot": "night",
+  "theme": "寝る姿勢で腰をいたわる夜",
+  "caption": "朝起きたとき、なぜか腰が重い…そんな日はありませんか？\n\n一日がんばったからだは、眠っている間も休みたがっています。\nでも、寝る姿勢によっては腰に負担がかかったまま、朝を迎えてしまうことも。\n\n実は、ちょっとしたクッションの置き方や寝る前の1分で、腰まわりがラクに感じる方も多いんです。\n\n今夜からできる「腰をいたわる寝姿勢」をまとめました。\n仰向け派さんも、横向き派さんも、画像をスワイプしてご覧くださいね。\n\n生理前や生理中、骨盤まわりが重だるい時期にも、ぜひ試してみてください。\nおうちにあるタオルや抱き枕で大丈夫ですよ。\n\nつらい痛みが続く場合は、無理をせず医療機関へご相談くださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアで、こわばった腰まわりのめぐりを整えるお手伝いをしています。\n腰の重さ、ひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #フェムケア #腰痛ケア #寝姿勢 #骨盤ケア #生理痛ケア #筋膜ケア #メディセル #セルフケア #自分をいたわる時間 #大人女子",
   "cover": {
-    "lead": "朝から意識したい習慣",
-    "headline": "トイレ、\n【がまん】して\nいませんか？"
+    "lead": "今夜からできる",
+    "headline": "朝の【腰の重さ】、\n寝る姿勢から\n見直しませんか？"
   },
   "slides": [
     {
-      "title": "膀胱をいたわる\n【朝の習慣】",
+      "title": "仰向け派さんは\n【ひざ下】にクッション",
       "numbered": false,
       "items": [
-        "起きたらコップ1杯の水でうるおす",
-        "水分は控えすぎず、こまめに少しずつ",
-        "出かける前に、ゆったりトイレタイム",
-        "腰とお腹を冷やさない服選びを"
+        "ひざ下に丸めたタオルやクッションを置く",
+        "腰と布団のすき間がやさしく埋まります",
+        "手はお腹に添えて、ゆっくり深呼吸を"
       ]
     },
     {
-      "title": "日中に意識したい\n【小さな工夫】",
+      "title": "横向き派さんは\n【ひざの間】にクッション",
       "numbered": false,
       "items": [
-        "「あとで」と我慢しすぎない",
-        "休憩のたびにトイレを習慣に",
-        "座るときは骨盤を立てて",
-        "コーヒーや紅茶は飲みすぎに注意"
+        "ひざを軽く曲げ、間にクッションをはさむ",
+        "骨盤のねじれが和らぎ、腰がラクに感じる方も",
+        "抱き枕を抱えると肩まわりもリラックス",
+        "うつ伏せは腰が反りやすいので控えめに"
       ]
     },
     {
-      "title": "こんなときは\n【婦人科・泌尿器科】へ",
-      "numbered": false,
+      "title": "眠る前の\n【1分】腰ほどき",
+      "numbered": true,
       "items": [
-        "排尿時に痛みやしみる感じがある",
-        "残尿感がずっと続いている",
-        "尿の色やにおいがいつもと違う",
-        "回数の多さで毎日がつらい"
+        "仰向けで両ひざを立て、全身の力を抜く",
+        "息を吐きながら、ひざを左右にゆっくり倒す",
+        "両ひざを胸に抱えて、背中をまるく深呼吸",
+        "痛みを感じたら無理せず、すぐにやめる"
       ]
     }
   ],
   "closing": {
-    "lead": "話していいことです",
-    "headline": "ひとりで\n抱えず\n【ご相談】ください"
+    "lead": "今日もおつかれさまでした",
+    "headline": "腰の重さも\n【お気軽に】\nご相談ください"
   },
-  "image_prompt": "Soft watercolor background in pale pastel green to mint tones, delicate white small flowers such as chamomile and lily of the valley with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, a clear glass of water with soft morning light near one edge, thin elegant gold lines and gentle sparkles, fresh, refined and feminine design for adult women, the center left bright, airy and mostly empty with very pale color for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, a soft folded linen blanket and a plush pillow suggested at the bottom corner, thin delicate gold lines and subtle sparkles, calm cozy nighttime relaxation mood, the center is bright, airy and mostly empty pale color for overlaying text, refined and clean, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261019-morning-1.jpg",
-    "posts/20261019-morning-2.jpg",
-    "posts/20261019-morning-3.jpg",
-    "posts/20261019-morning-4.jpg",
-    "posts/20261019-morning-5.jpg"
+    "posts/20261019-night-1.jpg",
+    "posts/20261019-night-2.jpg",
+    "posts/20261019-night-3.jpg",
+    "posts/20261019-night-4.jpg",
+    "posts/20261019-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18101715758528817",
-  "fb_post_id": "1411087672077869_122107895385506532"
+  "published": false
 }
