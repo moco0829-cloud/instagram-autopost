@@ -464,5 +464,19 @@
     ],
     "media_id": "18180216823434483",
     "fb_post_id": "1411087672077869_122109437799506532"
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "morning",
+    "theme": "朝のお通じを整えるやさしい習慣",
+    "images": [
+      "posts/20261021-morning-1.jpg",
+      "posts/20261021-morning-2.jpg",
+      "posts/20261021-morning-3.jpg",
+      "posts/20261021-morning-4.jpg",
+      "posts/20261021-morning-5.jpg"
+    ],
+    "media_id": "18134549158674649",
+    "fb_post_id": "1411087672077869_122109796617506532"
   }
 ]
