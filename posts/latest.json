@@ -1,47 +1,57 @@
 {
   "date": "2026-10-20",
-  "slot": "morning",
-  "theme": "家事ついでのかかと上げでめぐり習慣",
-  "caption": "お湯を沸かす3分間、ただ待っているだけになっていませんか？\n\nおはようございます。\n今日は、朝の家事の合間にできる「かかと上げ」のご紹介です。\n\nふくらはぎは「第二の心臓」とも呼ばれ、足元のめぐりを支える大切な場所。\nかかとをゆっくり上げ下げするだけで、脚がすっきり軽く感じる方も多いんですよ。\n\nキッチンでお湯が沸くのを待つ間、洗面所で髪を乾かす間など、\n「ついで」にできるのがうれしいところ。\n背すじがすっと伸びて、立ち姿まで美しく見えるのも魅力です。\n\nやり方とポイントを画像にまとめました。\nスワイプしてご覧くださいね。保存して、明日の朝の合図にしていただけたらうれしいです。\n\n毎日完璧にできなくても大丈夫。\n思い出したときに、少しずつで十分ですよ。\n\n冷えやむくみ、脚の重さが気になる方は、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #フェムケア #成田市サロン #千葉サロン #メディセル #Medicell #筋膜ケア #むくみケア #冷え対策 #朝習慣 #ながらケア #美脚習慣 #大人女子のセルフケア",
+  "slot": "night",
+  "theme": "更年期の気分の落ち込みに寄り添う夜",
+  "caption": "理由もなく涙が出たり、気持ちが沈んだりする日はありませんか？\n\n40代・50代は、ホルモンバランスが大きくゆらぐ時期。\nからだだけでなく、心にもゆらぎを感じる方は少なくありません。\n\n「私、どうしちゃったんだろう」\n「こんなことで落ち込むなんて」\nそんなふうにご自分を責めていませんか？\n\nそれは、あなたのがんばりが足りないせいではありません。\nゆらぎの時期に起こりやすい変化のひとつなので、大丈夫ですよ。\n\n今日の投稿では、ゆらぎのサインと、夜にできるやさしいいたわり方をまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、心が疲れた夜に見返せます🌙\n\nからだのこわばりがほどけると、気持ちまでふっとゆるむ方も多いです。\nサロンでは、Medicell（メディセル）の筋膜ケアで、めぐりを整えながらゆったりお過ごしいただけます。\n\nつらさが続くときは、婦人科などの医療機関に相談することも大切なセルフケアです。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #更年期 #更年期ケア #ゆらぎ世代 #自分をいたわる時間 #夜のセルフケア #メディセル #Medicell #筋膜ケア #成田市サロン #大人の女性 #千葉サロン",
   "cover": {
-    "lead": "朝の家事の合間に",
-    "headline": "待ち時間で\n【めぐる脚】\nつくりませんか？"
+    "lead": "がんばりすぎていませんか",
+    "headline": "理由もなく\n【落ち込む】日、\nありませんか？"
   },
   "slides": [
     {
-      "title": "キッチンでできる\n【かかと上げ】",
-      "numbered": true,
+      "title": "心の【ゆらぎ】の\nサインはありませんか？",
+      "numbered": false,
       "items": [
-        "シンクに軽く手を添えて、足を腰幅に開く",
-        "息を吐きながら、かかとをゆっくり上げる",
-        "2秒キープして、ゆっくり下ろす",
-        "お湯が沸くまで10回ほど繰り返す"
+        "理由もなく涙が出たり、気分が沈んだりする",
+        "ささいなことでイライラしてしまう",
+        "好きだったことに気持ちが向かない",
+        "疲れやすく、何をするにも億劫に感じる",
+        "そんな自分を責めてしまう"
       ]
     },
     {
-      "title": "心地よく続ける\n【小さなコツ】",
+      "title": "夜の【いたわり】\n4つの習慣",
+      "numbered": true,
+      "items": [
+        "湯船で肩までゆっくり温まる",
+        "首や肩をほぐし、深く息を吐く",
+        "「今日できたこと」を1つ書き出す",
+        "スマホを置き、照明を落として過ごす"
+      ]
+    },
+    {
+      "title": "覚えておいてほしい\n【大切なこと】",
       "numbered": false,
       "items": [
-        "親指のつけ根に重心をのせるイメージで",
-        "頭のてっぺんを糸で引かれるように背すじを伸ばす",
-        "反動をつけず、ゆっくり丁寧に",
-        "ふらつく日や痛みがある日はお休みしてOK"
+        "気分のゆらぎは、あなたのせいではありません",
+        "気持ちを誰かに話すだけで、軽くなることも",
+        "つらさが続くときは、婦人科で相談を",
+        "医療機関に頼ることも、立派なセルフケアです"
       ]
     }
   ],
   "closing": {
-    "lead": "脚の重さ、ひとりで抱えないで",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "がんばるあなたへ",
+    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for an adult women's wellness salon, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with fresh young leaves and eucalyptus sprigs arranged at the corners and left and right edges, a hint of a bright morning kitchen window with gentle sunlight and a soft linen cloth near the edge, thin fine gold lines and subtle sparkles, refreshing, calm, clean and graceful mood, large bright airy empty space in the center for overlay text, no people's bare skin, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, delicate watercolor lavender, wisteria and lilac flowers placed in the corners and along the left and right edges, thin gold lines and gentle sparkles, calm relaxing nighttime mood, a soft draped light fabric and faint warm candle glow at the edge suggesting a quiet self-care evening, center left bright, airy and mostly empty with pale soft color for overlaying text, refined and clean, not flashy, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261020-morning-1.jpg",
-    "posts/20261020-morning-2.jpg",
-    "posts/20261020-morning-3.jpg",
-    "posts/20261020-morning-4.jpg"
+    "posts/20261020-night-1.jpg",
+    "posts/20261020-night-2.jpg",
+    "posts/20261020-night-3.jpg",
+    "posts/20261020-night-4.jpg",
+    "posts/20261020-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18119953273970027",
-  "fb_post_id": "1411087672077869_122109017829506532"
+  "published": false
 }
