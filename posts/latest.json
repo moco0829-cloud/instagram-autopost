@@ -1,59 +1,58 @@
 {
-  "date": "2026-10-20",
-  "slot": "night",
-  "theme": "更年期の気分の落ち込みに寄り添う夜",
-  "caption": "理由もなく涙が出たり、気持ちが沈んだりする日はありませんか？\n\n40代・50代は、ホルモンバランスが大きくゆらぐ時期。\nからだだけでなく、心にもゆらぎを感じる方は少なくありません。\n\n「私、どうしちゃったんだろう」\n「こんなことで落ち込むなんて」\nそんなふうにご自分を責めていませんか？\n\nそれは、あなたのがんばりが足りないせいではありません。\nゆらぎの時期に起こりやすい変化のひとつなので、大丈夫ですよ。\n\n今日の投稿では、ゆらぎのサインと、夜にできるやさしいいたわり方をまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、心が疲れた夜に見返せます🌙\n\nからだのこわばりがほどけると、気持ちまでふっとゆるむ方も多いです。\nサロンでは、Medicell（メディセル）の筋膜ケアで、めぐりを整えながらゆったりお過ごしいただけます。\n\nつらさが続くときは、婦人科などの医療機関に相談することも大切なセルフケアです。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #更年期 #更年期ケア #ゆらぎ世代 #自分をいたわる時間 #夜のセルフケア #メディセル #Medicell #筋膜ケア #成田市サロン #大人の女性 #千葉サロン",
+  "date": "2026-10-21",
+  "slot": "morning",
+  "theme": "朝のお通じを整えるやさしい習慣",
+  "caption": "「なんだかお腹がすっきりしない…」そんな朝はありませんか？\n\nお通じの悩みは、なかなか人に話しにくいもの。\nでも実は、多くの女性が感じている、ごく身近なお悩みなんです。\n\n女性はホルモンバランスの影響で、生理前などにお腹が張りやすい時期があります。\n冷えや座りっぱなし、外出先でつい我慢してしまうことも、お腹のめぐりに関わりやすいといわれています。\n\nだからこそ、朝の小さな習慣でお腹にやさしく「おはよう」を伝えてみませんか？\n白湯をゆっくり飲む、おへそまわりをさする、トイレに座る時間をつくる…どれも今日からできることばかりです。\n\n具体的な5ステップを画像にまとめました。スワイプしてご覧くださいね。\n\n毎日出なくても、自分のリズムで大丈夫ですよ。\nつらい状態が続くときは、無理せず医療機関にご相談ください。\n\nSalon de mocoでは、メディセルでお腹まわりの筋膜をやさしくゆるめ、めぐりを感じる方も多いです🌿\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #お通じ習慣 #腸活 #朝習慣 #白湯 #セルフケア #メディセル #筋膜ケア #女性の悩み #大人の女性",
   "cover": {
-    "lead": "がんばりすぎていませんか",
-    "headline": "理由もなく\n【落ち込む】日、\nありませんか？"
+    "lead": "朝のさっと読める豆知識",
+    "headline": "朝のお通じ、\n【すっきり】\nしていますか？"
   },
   "slides": [
     {
-      "title": "心の【ゆらぎ】の\nサインはありませんか？",
-      "numbered": false,
-      "items": [
-        "理由もなく涙が出たり、気分が沈んだりする",
-        "ささいなことでイライラしてしまう",
-        "好きだったことに気持ちが向かない",
-        "疲れやすく、何をするにも億劫に感じる",
-        "そんな自分を責めてしまう"
-      ]
-    },
-    {
-      "title": "夜の【いたわり】\n4つの習慣",
+      "title": "朝のすっきり習慣\n【5ステップ】",
       "numbered": true,
       "items": [
-        "湯船で肩までゆっくり温まる",
-        "首や肩をほぐし、深く息を吐く",
-        "「今日できたこと」を1つ書き出す",
-        "スマホを置き、照明を落として過ごす"
+        "起きたらコップ1杯の白湯をゆっくり飲む",
+        "おへそまわりを「の」の字にやさしくさする",
+        "朝ごはんでお腹にスイッチを入れる",
+        "便意がなくても、毎朝トイレに座る時間をつくる",
+        "座るときは足台でひざを少し高くする"
       ]
     },
     {
-      "title": "覚えておいてほしい\n【大切なこと】",
+      "title": "こんなこと\n【ありませんか？】",
       "numbered": false,
       "items": [
-        "気分のゆらぎは、あなたのせいではありません",
-        "気持ちを誰かに話すだけで、軽くなることも",
-        "つらさが続くときは、婦人科で相談を",
-        "医療機関に頼ることも、立派なセルフケアです"
+        "生理前になるとお腹が張りやすい",
+        "外出先だとトイレを我慢しがち",
+        "水分をあまりとっていない",
+        "座りっぱなしの時間が長い",
+        "どれも女性によくあること。責めなくて大丈夫"
+      ]
+    },
+    {
+      "title": "知っておきたい\n【ポイント】",
+      "numbered": false,
+      "items": [
+        "生理前はホルモンの影響でお腹が張りやすい時期",
+        "冷えや緊張もお腹のめぐりに影響しやすい",
+        "毎日出なくても、自分のリズムで大丈夫",
+        "つらい状態が続くときは医療機関へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "がんばるあなたへ",
-    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "小さなお悩みも\n【お気軽に】\nご相談くださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, delicate watercolor lavender, wisteria and lilac flowers placed in the corners and along the left and right edges, thin gold lines and gentle sparkles, calm relaxing nighttime mood, a soft draped light fabric and faint warm candle glow at the edge suggesting a quiet self-care evening, center left bright, airy and mostly empty with pale soft color for overlaying text, refined and clean, not flashy, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, fresh and elegant feminine design for adult women. Delicate white chamomile and lily of the valley flowers with soft eucalyptus leaves and fresh young green leaves arranged in the corners and along the left and right edges, a glass cup of warm water with gentle steam and soft morning sunlight in one corner. Thin gold lines and gentle sparkles. The center is bright, airy, and mostly empty with a very light pale color for overlaying text later. Clean, calm, refreshing morning mood. No people's bodies, no text, no letters, no numbers, no logos.",
+  "palette": "morning",
   "images": [
-    "posts/20261020-night-1.jpg",
-    "posts/20261020-night-2.jpg",
-    "posts/20261020-night-3.jpg",
-    "posts/20261020-night-4.jpg",
-    "posts/20261020-night-5.jpg"
+    "posts/20261021-morning-1.jpg",
+    "posts/20261021-morning-2.jpg",
+    "posts/20261021-morning-3.jpg",
+    "posts/20261021-morning-4.jpg",
+    "posts/20261021-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18180216823434483",
-  "fb_post_id": "1411087672077869_122109437799506532"
+  "published": false
 }
