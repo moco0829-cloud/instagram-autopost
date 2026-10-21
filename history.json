@@ -492,5 +492,19 @@
     ],
     "media_id": "18470884189187326",
     "fb_post_id": "1411087672077869_122110094487506532"
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "生理周期に寄り添う朝のスキンケア",
+    "images": [
+      "posts/20261022-morning-1.jpg",
+      "posts/20261022-morning-2.jpg",
+      "posts/20261022-morning-3.jpg",
+      "posts/20261022-morning-4.jpg",
+      "posts/20261022-morning-5.jpg"
+    ],
+    "media_id": "17972372967187016",
+    "fb_post_id": "1411087672077869_122110440453506532"
   }
 ]
