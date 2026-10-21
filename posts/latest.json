@@ -1,60 +1,57 @@
 {
   "date": "2026-10-21",
-  "slot": "morning",
-  "theme": "朝のお通じを整えるやさしい習慣",
-  "caption": "「なんだかお腹がすっきりしない…」そんな朝はありませんか？\n\nお通じの悩みは、なかなか人に話しにくいもの。\nでも実は、多くの女性が感じている、ごく身近なお悩みなんです。\n\n女性はホルモンバランスの影響で、生理前などにお腹が張りやすい時期があります。\n冷えや座りっぱなし、外出先でつい我慢してしまうことも、お腹のめぐりに関わりやすいといわれています。\n\nだからこそ、朝の小さな習慣でお腹にやさしく「おはよう」を伝えてみませんか？\n白湯をゆっくり飲む、おへそまわりをさする、トイレに座る時間をつくる…どれも今日からできることばかりです。\n\n具体的な5ステップを画像にまとめました。スワイプしてご覧くださいね。\n\n毎日出なくても、自分のリズムで大丈夫ですよ。\nつらい状態が続くときは、無理せず医療機関にご相談ください。\n\nSalon de mocoでは、メディセルでお腹まわりの筋膜をやさしくゆるめ、めぐりを感じる方も多いです🌿\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #お通じ習慣 #腸活 #朝習慣 #白湯 #セルフケア #メディセル #筋膜ケア #女性の悩み #大人の女性",
+  "slot": "night",
+  "theme": "食いしばりをほどく夜のあごケア",
+  "caption": "気づくと、奥歯をぎゅっと噛みしめていませんか？\n\n家事にお仕事、まわりへの気づかい。\nがんばり屋さんの女性ほど、知らないうちにあごに力が入っていることが多いんです。\n\n朝起きたときのあごのだるさや、こめかみ・首すじの重さ。\nそれは「今日もがんばったよ」というからだからの小さなサインかもしれません。\n\n今夜は、寝る前のほんの少しの時間で、あごまわりをやさしくゆるめてみませんか。\nむずかしいことはなく、お布団の中でもできるケアをまとめました。\n画像をスワイプしてご覧くださいね🌙\n\nあごがゆるむと、肩や首までふっと軽く感じる方も多いですよ。\nあごの痛みや口の開けにくさが続く場合は、歯科などの専門機関にご相談くださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアで、首や肩まわりのこわばりをやさしくほぐすお手伝いをしています。\n「こんなこと相談していいのかな」と思うことも、大丈夫です。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #食いしばり #あごケア #肩こりケア #セルフケア #夜のリラックス #自分をいたわる #メディセル #Medicell #筋膜ケア #大人女子",
   "cover": {
-    "lead": "朝のさっと読める豆知識",
-    "headline": "朝のお通じ、\n【すっきり】\nしていますか？"
+    "lead": "今日もがんばったあなたへ",
+    "headline": "その【食いしばり】\n気づいて\nいますか？"
   },
   "slides": [
     {
-      "title": "朝のすっきり習慣\n【5ステップ】",
+      "title": "こんなサインは\nありませんか？",
+      "numbered": false,
+      "items": [
+        "朝起きると、あごがなんだかだるい",
+        "気づくと上下の奥歯が触れている",
+        "こめかみや首すじが重く感じる",
+        "肩こりがなかなか抜けない"
+      ]
+    },
+    {
+      "title": "寝る前の\n【あごゆるめ】ケア",
       "numbered": true,
       "items": [
-        "起きたらコップ1杯の白湯をゆっくり飲む",
-        "おへそまわりを「の」の字にやさしくさする",
-        "朝ごはんでお腹にスイッチを入れる",
-        "便意がなくても、毎朝トイレに座る時間をつくる",
-        "座るときは足台でひざを少し高くする"
+        "唇を閉じ、上下の歯をそっと離す",
+        "舌先を上の前歯の裏に軽く置く",
+        "耳の前を指の腹でやさしく円を描く",
+        "口を小さく開け、ゆっくり深呼吸"
       ]
     },
     {
-      "title": "こんなこと\n【ありませんか？】",
+      "title": "ゆるむ夜の\n【ちいさな工夫】",
       "numbered": false,
       "items": [
-        "生理前になるとお腹が張りやすい",
-        "外出先だとトイレを我慢しがち",
-        "水分をあまりとっていない",
-        "座りっぱなしの時間が長い",
-        "どれも女性によくあること。責めなくて大丈夫"
-      ]
-    },
-    {
-      "title": "知っておきたい\n【ポイント】",
-      "numbered": false,
-      "items": [
-        "生理前はホルモンの影響でお腹が張りやすい時期",
-        "冷えや緊張もお腹のめぐりに影響しやすい",
-        "毎日出なくても、自分のリズムで大丈夫",
-        "つらい状態が続くときは医療機関へ相談を"
+        "寝る前はスマホを早めにお休み",
+        "蒸しタオルで首元をじんわり温める",
+        "枕の高さが合っているか見直す",
+        "今日の自分に「おつかれさま」を",
+        "つらさが続くときは歯科などへ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "小さなお悩みも\n【お気軽に】\nご相談くださいね"
+    "lead": "がんばり屋さんのあなたへ",
+    "headline": "ひとりで抱えず\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, fresh and elegant feminine design for adult women. Delicate white chamomile and lily of the valley flowers with soft eucalyptus leaves and fresh young green leaves arranged in the corners and along the left and right edges, a glass cup of warm water with gentle steam and soft morning sunlight in one corner. Thin gold lines and gentle sparkles. The center is bright, airy, and mostly empty with a very light pale color for overlaying text later. Clean, calm, refreshing morning mood. No people's bodies, no text, no letters, no numbers, no logos.",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background for an evening relaxation theme, soft pale lavender to lilac gradient, watercolor-style lavender sprigs, wisteria and lilac flowers gently placed in the corners and along the left and right edges, a soft silk fabric draped at the bottom edge, a small cup of herbal tea and a warm folded towel in a corner, delicate thin gold lines and subtle gentle sparkles, calm night-time mood, refined and clean for adult women, the center left bright, airy and mostly empty pale space for text overlay, no people's bare skin, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261021-morning-1.jpg",
-    "posts/20261021-morning-2.jpg",
-    "posts/20261021-morning-3.jpg",
-    "posts/20261021-morning-4.jpg",
-    "posts/20261021-morning-5.jpg"
+    "posts/20261021-night-1.jpg",
+    "posts/20261021-night-2.jpg",
+    "posts/20261021-night-3.jpg",
+    "posts/20261021-night-4.jpg",
+    "posts/20261021-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18134549158674649",
-  "fb_post_id": "1411087672077869_122109796617506532"
+  "published": false
 }
