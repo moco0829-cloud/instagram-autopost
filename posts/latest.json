@@ -1,59 +1,56 @@
 {
-  "date": "2026-10-21",
-  "slot": "night",
-  "theme": "食いしばりをほどく夜のあごケア",
-  "caption": "気づくと、奥歯をぎゅっと噛みしめていませんか？\n\n家事にお仕事、まわりへの気づかい。\nがんばり屋さんの女性ほど、知らないうちにあごに力が入っていることが多いんです。\n\n朝起きたときのあごのだるさや、こめかみ・首すじの重さ。\nそれは「今日もがんばったよ」というからだからの小さなサインかもしれません。\n\n今夜は、寝る前のほんの少しの時間で、あごまわりをやさしくゆるめてみませんか。\nむずかしいことはなく、お布団の中でもできるケアをまとめました。\n画像をスワイプしてご覧くださいね🌙\n\nあごがゆるむと、肩や首までふっと軽く感じる方も多いですよ。\nあごの痛みや口の開けにくさが続く場合は、歯科などの専門機関にご相談くださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアで、首や肩まわりのこわばりをやさしくほぐすお手伝いをしています。\n「こんなこと相談していいのかな」と思うことも、大丈夫です。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #食いしばり #あごケア #肩こりケア #セルフケア #夜のリラックス #自分をいたわる #メディセル #Medicell #筋膜ケア #大人女子",
+  "date": "2026-10-22",
+  "slot": "morning",
+  "theme": "生理周期に寄り添う朝のスキンケア",
+  "caption": "なんだか最近、肌の調子が安定しない…そんな朝はありませんか？\n\n実は女性の肌は、ホルモンのリズムとともにゆらぎやすいといわれています。\n生理前に肌が敏感に感じたり、生理後はなんだか調子がいいと感じたり。\nそれは、あなたのお手入れが悪いわけではないので大丈夫ですよ。\n\n大切なのは、今のからだの時期を知って、肌への向き合い方を少し変えてみること。\n「今日はやさしくする日」「今日は新しいことを試す日」と決めるだけで、毎朝のスキンケアがぐっと気楽になります。\n\n今回は、生理周期に合わせた朝のスキンケアのポイントをまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、ゆらいだ朝に見返せます🌿\n\nSalon de mocoでは、メディセルでのやさしい筋膜ケアで、からだのめぐりを内側から整えるお手伝いをしています。\n肌のゆらぎが続くときは、無理せず皮膚科などの専門家にもご相談くださいね。\n\nひとりで抱えず、気になることがあればお気軽にDMでご相談ください。\n\n#成田市 #成田サロン #フェムケア #生理周期 #ゆらぎ肌 #朝のスキンケア #大人のスキンケア #女性のからだ #セルフケア #メディセル #筋膜ケア #千葉サロン",
   "cover": {
-    "lead": "今日もがんばったあなたへ",
-    "headline": "その【食いしばり】\n気づいて\nいますか？"
+    "lead": "今日の肌、どんな感じ？",
+    "headline": "ゆらぐ肌は\n【生理周期】の\nサインかも"
   },
   "slides": [
     {
-      "title": "こんなサインは\nありませんか？",
+      "title": "肌がゆらぐのは\n【自然なこと】",
       "numbered": false,
       "items": [
-        "朝起きると、あごがなんだかだるい",
-        "気づくと上下の奥歯が触れている",
-        "こめかみや首すじが重く感じる",
-        "肩こりがなかなか抜けない"
+        "肌はホルモンのリズムで変化しやすい",
+        "生理前は敏感に感じる方も多い時期",
+        "お手入れ不足ではないので大丈夫",
+        "時期を知るだけで気持ちが楽に"
       ]
     },
     {
-      "title": "寝る前の\n【あごゆるめ】ケア",
-      "numbered": true,
+      "title": "時期別\n【朝のスキンケア】",
+      "numbered": false,
       "items": [
-        "唇を閉じ、上下の歯をそっと離す",
-        "舌先を上の前歯の裏に軽く置く",
-        "耳の前を指の腹でやさしく円を描く",
-        "口を小さく開け、ゆっくり深呼吸"
+        "生理中：低刺激でシンプルなケアに",
+        "生理後：肌が安定しやすく試し時",
+        "排卵後：保湿をいつもより丁寧に",
+        "生理前：皮脂が気になる日は洗顔をやさしく"
       ]
     },
     {
-      "title": "ゆるむ夜の\n【ちいさな工夫】",
+      "title": "今日からできる\n【小さな習慣】",
       "numbered": false,
       "items": [
-        "寝る前はスマホを早めにお休み",
-        "蒸しタオルで首元をじんわり温める",
-        "枕の高さが合っているか見直す",
-        "今日の自分に「おつかれさま」を",
-        "つらさが続くときは歯科などへ相談を"
+        "朝、鏡で肌の様子をひと言メモ",
+        "周期アプリと肌の変化を並べて記録",
+        "こすらず、手のひらで包むように塗る",
+        "白湯を一杯飲んで内側からうるおす"
       ]
     }
   ],
   "closing": {
-    "lead": "がんばり屋さんのあなたへ",
-    "headline": "ひとりで抱えず\n【ご相談】\nくださいね"
+    "lead": "自分の肌に、やさしく",
+    "headline": "迷ったら\n【気軽にDM】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background for an evening relaxation theme, soft pale lavender to lilac gradient, watercolor-style lavender sprigs, wisteria and lilac flowers gently placed in the corners and along the left and right edges, a soft silk fabric draped at the bottom edge, a small cup of herbal tea and a warm folded towel in a corner, delicate thin gold lines and subtle gentle sparkles, calm night-time mood, refined and clean for adult women, the center left bright, airy and mostly empty pale space for text overlay, no people's bare skin, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint color base, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, a small glass skincare bottle and a soft folded white towel subtly placed at the edge, gentle morning light, thin gold lines and subtle sparkles, fresh, clean and refined atmosphere, center left bright and empty with plenty of light pale space for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261021-night-1.jpg",
-    "posts/20261021-night-2.jpg",
-    "posts/20261021-night-3.jpg",
-    "posts/20261021-night-4.jpg",
-    "posts/20261021-night-5.jpg"
+    "posts/20261022-morning-1.jpg",
+    "posts/20261022-morning-2.jpg",
+    "posts/20261022-morning-3.jpg",
+    "posts/20261022-morning-4.jpg",
+    "posts/20261022-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18470884189187326",
-  "fb_post_id": "1411087672077869_122110094487506532"
+  "published": false
 }
