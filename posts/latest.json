@@ -1,58 +1,57 @@
 {
   "date": "2026-10-22",
-  "slot": "morning",
-  "theme": "生理周期に寄り添う朝のスキンケア",
-  "caption": "なんだか最近、肌の調子が安定しない…そんな朝はありませんか？\n\n実は女性の肌は、ホルモンのリズムとともにゆらぎやすいといわれています。\n生理前に肌が敏感に感じたり、生理後はなんだか調子がいいと感じたり。\nそれは、あなたのお手入れが悪いわけではないので大丈夫ですよ。\n\n大切なのは、今のからだの時期を知って、肌への向き合い方を少し変えてみること。\n「今日はやさしくする日」「今日は新しいことを試す日」と決めるだけで、毎朝のスキンケアがぐっと気楽になります。\n\n今回は、生理周期に合わせた朝のスキンケアのポイントをまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、ゆらいだ朝に見返せます🌿\n\nSalon de mocoでは、メディセルでのやさしい筋膜ケアで、からだのめぐりを内側から整えるお手伝いをしています。\n肌のゆらぎが続くときは、無理せず皮膚科などの専門家にもご相談くださいね。\n\nひとりで抱えず、気になることがあればお気軽にDMでご相談ください。\n\n#成田市 #成田サロン #フェムケア #生理周期 #ゆらぎ肌 #朝のスキンケア #大人のスキンケア #女性のからだ #セルフケア #メディセル #筋膜ケア #千葉サロン",
+  "slot": "night",
+  "theme": "夜中のトイレで目覚める悩みに",
+  "caption": "夜中にトイレで目が覚めて、そのあと眠れなくなること、ありませんか？\n\n「年齢のせいかな」「こんなこと人に言えない」と、\nひとりで抱えている方も多いお悩みです。\nでも大丈夫ですよ。あなただけではありません。\n\n夜のトイレは、夕方からの水分のとり方や、\n脚のむくみ、からだの冷え、骨盤底筋のゆるみなど、\nいろいろなことが重なって起こりやすいといわれています。\n\nだからこそ、夕方からの過ごし方を少し見直すだけで、\n夜をゆったり過ごせると感じる方も多いんです。\n今夜からできる工夫と、寝る前の骨盤底筋ケアをまとめました。\n画像をスワイプしてご覧くださいね。\n\n水分は控えすぎず、日中にこまめにとるのがポイントです。\nまた、回数がとても多い、痛みがあるなど気になる症状が続くときは、\n泌尿器科や婦人科などの医療機関にも相談してみてくださいね。\n\nサロンでは、メディセルの筋膜ケアで冷えやむくみ、\n骨盤まわりのこわばりをやさしくほどくお手伝いをしています🌙\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田 #千葉サロン #フェムケア #フェムテック #骨盤底筋 #骨盤底筋ケア #夜間頻尿 #冷え対策 #むくみケア #更年期 #メディセル #筋膜ケア #salondemoco",
   "cover": {
-    "lead": "今日の肌、どんな感じ？",
-    "headline": "ゆらぐ肌は\n【生理周期】の\nサインかも"
+    "lead": "ぐっすり眠りたいあなたへ",
+    "headline": "夜中の【トイレ】で\n目が覚めて\nいませんか？"
   },
   "slides": [
     {
-      "title": "肌がゆらぐのは\n【自然なこと】",
+      "title": "こんなこと\nありませんか？",
       "numbered": false,
       "items": [
-        "肌はホルモンのリズムで変化しやすい",
-        "生理前は敏感に感じる方も多い時期",
-        "お手入れ不足ではないので大丈夫",
-        "時期を知るだけで気持ちが楽に"
+        "夜中にトイレで目が覚めてしまう",
+        "一度起きると、なかなか寝つけない",
+        "夕方になると脚がむくみやすい",
+        "手足や下半身が冷えやすい",
+        "くしゃみや咳で少しヒヤッとする"
       ]
     },
     {
-      "title": "時期別\n【朝のスキンケア】",
+      "title": "夕方からの\n【やさしい過ごし方】",
       "numbered": false,
       "items": [
-        "生理中：低刺激でシンプルなケアに",
-        "生理後：肌が安定しやすく試し時",
-        "排卵後：保湿をいつもより丁寧に",
-        "生理前：皮脂が気になる日は洗顔をやさしく"
+        "水分は日中にこまめに、寝る前は少しずつ",
+        "夕方以降はカフェインやお酒を控えめに",
+        "夕方に脚を少し高くしてひと休み",
+        "湯船や腹巻きで下半身を温める"
       ]
     },
     {
-      "title": "今日からできる\n【小さな習慣】",
-      "numbered": false,
+      "title": "寝る前の\n【骨盤底筋ケア】",
+      "numbered": true,
       "items": [
-        "朝、鏡で肌の様子をひと言メモ",
-        "周期アプリと肌の変化を並べて記録",
-        "こすらず、手のひらで包むように塗る",
-        "白湯を一杯飲んで内側からうるおす"
+        "仰向けで膝を立て、全身の力を抜く",
+        "息を吐きながら骨盤の底を引き上げる",
+        "そのまま5秒キープして、ゆっくりゆるめる",
+        "無理のない範囲で数回くり返す"
       ]
     }
   ],
   "closing": {
-    "lead": "自分の肌に、やさしく",
-    "headline": "迷ったら\n【気軽にDM】\nくださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "夜の悩みも\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint color base, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, a small glass skincare bottle and a soft folded white towel subtly placed at the edge, gentle morning light, thin gold lines and subtle sparkles, fresh, clean and refined atmosphere, center left bright and empty with plenty of light pale space for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor lavender, wisteria and lilac flowers gently placed in the corners and along the left and right edges, delicate thin gold lines and soft subtle sparkles, calm cozy nighttime relaxation mood, a hint of soft moonlight glow, the center left bright, airy and empty with plenty of pale negative space for overlaying a headline, refined, clean and calm, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261022-morning-1.jpg",
-    "posts/20261022-morning-2.jpg",
-    "posts/20261022-morning-3.jpg",
-    "posts/20261022-morning-4.jpg",
-    "posts/20261022-morning-5.jpg"
+    "posts/20261022-night-1.jpg",
+    "posts/20261022-night-2.jpg",
+    "posts/20261022-night-3.jpg",
+    "posts/20261022-night-4.jpg",
+    "posts/20261022-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17972372967187016",
-  "fb_post_id": "1411087672077869_122110440453506532"
+  "published": false
 }
