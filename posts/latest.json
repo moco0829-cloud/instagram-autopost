@@ -1,48 +1,56 @@
 {
   "date": "2026-10-23",
-  "slot": "morning",
-  "theme": "朝1分の肩甲骨ほぐし習慣",
-  "caption": "朝起きたとき、背中がなんだか重たい…そんな日はありませんか？\n\n肌寒くなるこの季節は、からだが縮こまりやすく、肩甲骨まわりもこわばりがちです。\n寝ている間に同じ姿勢が続くことも、朝の重だるさにつながることがあります。\n\nでも大丈夫ですよ。\n肩甲骨をゆっくり動かすだけで、背中がふっと軽く感じる方も多いんです。\n\n今日は、朝の支度の合間に1分でできる肩甲骨ほぐしをご紹介します。\nひじで大きな円を描くように回すだけなので、パジャマのままでも気軽にできますよ。\n\n画像をスワイプしてご覧くださいね。\n保存しておくと、明日の朝も思い出せます。\n\n大切なのは、がんばりすぎないこと。\n「気持ちいいな」と感じる範囲で、呼吸を止めずにゆったりと動かしてみてください。\n\nSalon de mocoでは、Medicell（メディセル）による筋膜ケアで、肩や背中のこわばりにやさしくアプローチしています。\nつらさが続くときは、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #肩甲骨ほぐし #肩こりケア #朝習慣 #セルフケア #メディセル #Medicell #筋膜ケア #大人女子 #ボディケア",
+  "slot": "night",
+  "theme": "年代で変わるフェムケアのポイント",
+  "caption": "「私の年代、何から気にかけたらいいの？」と感じたことはありませんか。\n\n女性のからだは、ホルモンのリズムとともに少しずつ変わっていきます。\nだからこそ、いたわり方も年代によって少しずつ違っていいんです。\n\n20〜30代は、生理やPMSと仲よくなる時期。\n40代は、ゆらぎに備えて自分をよく観察する時期。\n50代からは、変化を受け入れながら、心地よさを大切にする時期。\n\n今夜は、年代ごとのやさしいポイントを画像にまとめました。\nスワイプして、今のご自分に近いところからご覧くださいね。\n保存して、ご家族やお友だちと見返すのもおすすめです。\n\n「こんなこと、気にするのは私だけ？」と思う必要はありません。\nどの年代の悩みも、話していいこと、ケアしていいことです。\n\nつらい症状が続くときは、婦人科など医療機関へのご相談も大切にしてくださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアで、めぐりを整えるお手伝いをしています。\nすっきり軽く感じる方も多いですよ🌸\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #女性の健康 #更年期 #PMS #生理痛 #ゆらぎ世代 #セルフケア #メディセル #筋膜ケア #千葉サロン #自分をいたわる",
   "cover": {
-    "lead": "朝1分のセルフケア",
-    "headline": "朝の背中、\n【こわばって】\nいませんか？"
+    "lead": "今夜は自分を知る時間に",
+    "headline": "年代で変わる\n【フェムケア】の\nポイント"
   },
   "slides": [
     {
-      "title": "肩甲骨ほぐし\n【1分】でできる手順",
-      "numbered": true,
+      "title": "【20〜30代】\n周期と仲よくなる",
+      "numbered": false,
       "items": [
-        "両手の指先を肩に軽く置く",
-        "ひじで大きな円を描くように前へ5回",
-        "同じように後ろへ5回、ゆっくり回す",
-        "胸の前で手を組み、背中を丸めて伸ばす",
-        "最後に深呼吸3回、肩の力をふっと抜く"
+        "生理周期をメモして、からだのリズムを知る",
+        "PMSの心のゆらぎも「自分のせい」と思わない",
+        "冷えをためず、お腹や腰を温める習慣を",
+        "生理痛をがまんしすぎず、休む勇気を持つ"
       ]
     },
     {
-      "title": "続けるための\n【ちいさなコツ】",
+      "title": "【40代】\nゆらぎに備える",
       "numbered": false,
       "items": [
-        "歯みがき後など「ついで」の時間に決める",
-        "呼吸を止めず、気持ちいい範囲で動かす",
-        "冷える朝は羽織りもので温めてから",
-        "痛みがあるときは無理せずお休みする"
+        "周期や体調の小さな変化に目を向ける",
+        "睡眠と食事で、内側からの土台づくり",
+        "骨盤底筋をいたわる習慣を少しずつ",
+        "気になることは早めに婦人科で相談を"
+      ]
+    },
+    {
+      "title": "【50代〜】\n心地よさを大切に",
+      "numbered": false,
+      "items": [
+        "ほてりや眠りの変化は、ゆっくり付き合う",
+        "乾燥しやすい肌やデリケートゾーンを保湿",
+        "めぐりを整え、こわばりをためない",
+        "「恥ずかしい」より「心地よい」を選ぶ"
       ]
     }
   ],
   "closing": {
-    "lead": "背中のこわばりも",
+    "lead": "どの年代のあなたも",
     "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint color base, delicate white small flowers like chamomile and lily of the valley, eucalyptus and fresh soft young green leaves arranged at the four corners and left and right edges, thin gold lines and gentle sparkles, fresh morning light feeling, refreshing and graceful, center area bright, airy and empty with plenty of light negative space for overlaying text, no people, no body parts, no text, no letters, no logos, no numbers",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft bright cream to pale baby pink and dusty pink gradient, watercolor pink peonies and roses arranged in the corners and along the left and right edges, delicate thin gold lines and gentle soft sparkles, calm and clean atmosphere, the center left bright, open and empty with plenty of pale negative space for overlaying a headline, refined, gentle, not flashy, no people's bodies, no text, no letters, no numbers, no logos, no watermark",
+  "palette": "femcare",
   "images": [
-    "posts/20261023-morning-1.jpg",
-    "posts/20261023-morning-2.jpg",
-    "posts/20261023-morning-3.jpg",
-    "posts/20261023-morning-4.jpg"
+    "posts/20261023-night-1.jpg",
+    "posts/20261023-night-2.jpg",
+    "posts/20261023-night-3.jpg",
+    "posts/20261023-night-4.jpg",
+    "posts/20261023-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18096386174125492",
-  "fb_post_id": "1411087672077869_122110948833506532"
+  "published": false
 }
