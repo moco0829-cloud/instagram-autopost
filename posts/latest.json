@@ -1,58 +1,57 @@
 {
-  "date": "2026-10-23",
-  "slot": "night",
-  "theme": "年代で変わるフェムケアのポイント",
-  "caption": "「私の年代、何から気にかけたらいいの？」と感じたことはありませんか。\n\n女性のからだは、ホルモンのリズムとともに少しずつ変わっていきます。\nだからこそ、いたわり方も年代によって少しずつ違っていいんです。\n\n20〜30代は、生理やPMSと仲よくなる時期。\n40代は、ゆらぎに備えて自分をよく観察する時期。\n50代からは、変化を受け入れながら、心地よさを大切にする時期。\n\n今夜は、年代ごとのやさしいポイントを画像にまとめました。\nスワイプして、今のご自分に近いところからご覧くださいね。\n保存して、ご家族やお友だちと見返すのもおすすめです。\n\n「こんなこと、気にするのは私だけ？」と思う必要はありません。\nどの年代の悩みも、話していいこと、ケアしていいことです。\n\nつらい症状が続くときは、婦人科など医療機関へのご相談も大切にしてくださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアで、めぐりを整えるお手伝いをしています。\nすっきり軽く感じる方も多いですよ🌸\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #女性の健康 #更年期 #PMS #生理痛 #ゆらぎ世代 #セルフケア #メディセル #筋膜ケア #千葉サロン #自分をいたわる",
+  "date": "2026-10-24",
+  "slot": "morning",
+  "theme": "週末の朝、からだの声を聴く習慣",
+  "caption": "「なんとなく重い」その感覚、見過ごしていませんか？\n\n平日はつい、からだのサインを後回しにしがちですよね。\n肩のこわばりや足先の冷え、気持ちのざわざわ…。\nどれも、からだからの小さなお知らせです。\n\n週末の朝は、ほんの3分だけ自分に意識を向けてみませんか。\n頭から足先まで順番に感じてみるだけで、\n「今日はゆっくりしよう」「少し温めよう」と、\n自分にやさしい選択がしやすくなりますよ🌿\n\n気づいたことを責めずに「教えてくれてありがとう」と受け止めるのがポイントです。\n生理の時期や年齢によって感じ方が変わるのも、自然なことなので大丈夫ですよ。\n\nやり方は画像をスワイプしてご覧くださいね。\n保存して、週末の朝の習慣にしていただけたらうれしいです。\n\nなお、つらい症状が長く続くときは、婦人科などの医療機関にも相談してみてくださいね。\n\n「この重さ、どうしたらいいんだろう」と感じたら、\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #セルフケア #朝習慣 #週末の過ごし方 #からだの声 #女性の健康 #大人女子 #メディセル #筋膜ケア #ゆらぎ世代",
   "cover": {
-    "lead": "今夜は自分を知る時間に",
-    "headline": "年代で変わる\n【フェムケア】の\nポイント"
+    "lead": "週末の朝の3分習慣",
+    "headline": "からだの【声】、\n聴けて\nいますか？"
   },
   "slides": [
     {
-      "title": "【20〜30代】\n周期と仲よくなる",
+      "title": "こんなサイン、\n【出ていませんか】？",
       "numbered": false,
       "items": [
-        "生理周期をメモして、からだのリズムを知る",
-        "PMSの心のゆらぎも「自分のせい」と思わない",
-        "冷えをためず、お腹や腰を温める習慣を",
-        "生理痛をがまんしすぎず、休む勇気を持つ"
+        "起きても肩や首がこわばっている",
+        "足先がひんやりして温まりにくい",
+        "なんとなく腰まわりが重たい",
+        "気持ちがざわざわ落ち着かない"
       ]
     },
     {
-      "title": "【40代】\nゆらぎに備える",
-      "numbered": false,
+      "title": "布団の中でできる\n【3分ボディチェック】",
+      "numbered": true,
       "items": [
-        "周期や体調の小さな変化に目を向ける",
-        "睡眠と食事で、内側からの土台づくり",
-        "骨盤底筋をいたわる習慣を少しずつ",
-        "気になることは早めに婦人科で相談を"
+        "仰向けで目を閉じ、ゆっくり3回深呼吸",
+        "頭・首・肩の順に、力みを感じてみる",
+        "お腹と腰まわりに手を当て、温度を感じる",
+        "脚から足先まで、重さや冷えを確かめる",
+        "今の気分をひとことで心の中で言ってみる"
       ]
     },
     {
-      "title": "【50代〜】\n心地よさを大切に",
+      "title": "気づいたら\n【やさしく応える】",
       "numbered": false,
       "items": [
-        "ほてりや眠りの変化は、ゆっくり付き合う",
-        "乾燥しやすい肌やデリケートゾーンを保湿",
-        "めぐりを整え、こわばりをためない",
-        "「恥ずかしい」より「心地よい」を選ぶ"
+        "こわばりには、ゆっくり伸びをひとつ",
+        "冷えには、白湯や靴下で温める",
+        "重さを感じたら、今日は予定を少なめに",
+        "「教えてくれてありがとう」と受け止める"
       ]
     }
   ],
   "closing": {
-    "lead": "どの年代のあなたも",
-    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
+    "lead": "自分をいたわる時間を",
+    "headline": "気になる声は\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft bright cream to pale baby pink and dusty pink gradient, watercolor pink peonies and roses arranged in the corners and along the left and right edges, delicate thin gold lines and gentle soft sparkles, calm and clean atmosphere, the center left bright, open and empty with plenty of pale negative space for overlaying a headline, refined, gentle, not flashy, no people's bodies, no text, no letters, no numbers, no logos, no watermark",
-  "palette": "femcare",
+  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, delicate white chamomile and lily of the valley flowers with gentle eucalyptus and fresh young green leaves placed in the corners and along the left and right edges, thin elegant gold lines and subtle soft sparkles, morning light feeling, refreshing, elegant and feminine design for adult women, calm and clean atmosphere, the center left bright, airy and mostly empty with a very pale color for overlaying text, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261023-night-1.jpg",
-    "posts/20261023-night-2.jpg",
-    "posts/20261023-night-3.jpg",
-    "posts/20261023-night-4.jpg",
-    "posts/20261023-night-5.jpg"
+    "posts/20261024-morning-1.jpg",
+    "posts/20261024-morning-2.jpg",
+    "posts/20261024-morning-3.jpg",
+    "posts/20261024-morning-4.jpg",
+    "posts/20261024-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "17991630182861362",
-  "fb_post_id": "1411087672077869_122111163501506532"
+  "published": false
 }
