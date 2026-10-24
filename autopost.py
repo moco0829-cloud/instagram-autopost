@@ -26,6 +26,7 @@ from pathlib import Path
 
 import anthropic
 import requests
+import openai
 from openai import OpenAI
 from PIL import Image, ImageDraw, ImageFont
 
@@ -40,7 +41,8 @@ IG_API = "https://graph.instagram.com/v23.0"
 FB_API = "https://graph.facebook.com/v23.0"
 
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
-IMAGE_MODEL = os.environ.get("IMAGE_MODEL", "gpt-image-1")
+# 画像を作るモデル。上から順に試す（gpt-image-1 は 2026-10-23 に提供終了）
+IMAGE_MODELS = [m for m in [os.environ.get("IMAGE_MODEL", ""), "gpt-image-2.5-flare", "gpt-image-2.5-sunburst"] if m]
 IMAGE_QUALITY = os.environ.get("IMAGE_QUALITY", "medium")
 SIGNATURE = os.environ.get("IMAGE_SIGNATURE", "Salon de moco")
 SIGNATURE_SUB = os.environ.get("IMAGE_SIGNATURE_SUB", "FemCare by Medicell")
@@ -233,13 +235,21 @@ def write_post(slot: str, now: datetime, history: list[dict], topic: str = "") -
 def make_background(prompt: str) -> Image.Image:
     """OpenAI で背景画像を作り、Instagram フィード向けの 1080x1350（4:5）にする。"""
     client = OpenAI(api_key=env("OPENAI_API_KEY"))
-    result = client.images.generate(
-        model=IMAGE_MODEL,
-        prompt=prompt,
-        size="1024x1536",
-        quality=IMAGE_QUALITY,
-        n=1,
-    )
+    for i, model in enumerate(IMAGE_MODELS):
+        try:
+            result = client.images.generate(
+                model=model,
+                prompt=prompt,
+                size="1024x1536",
+                quality=IMAGE_QUALITY,
+                n=1,
+            )
+            break
+        except openai.BadRequestError as err:
+            # モデルが提供終了などで使えないときだけ、次のモデルで作り直す
+            if "model" not in str(err) or i == len(IMAGE_MODELS) - 1:
+                raise
+            print(f"画像モデル {model} が使えないので、{IMAGE_MODELS[i + 1]} で作り直します: {err}")
     image = Image.open(io.BytesIO(base64.b64decode(result.data[0].b64_json))).convert("RGB")
 
     # 2:3 の画像を中央で 4:5 に切り抜く（Instagram の縦長上限が 4:5 のため）
