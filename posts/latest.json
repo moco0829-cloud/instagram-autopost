@@ -1,59 +1,58 @@
 {
   "date": "2026-10-24",
-  "slot": "morning",
-  "theme": "週末の朝、からだの声を聴く習慣",
-  "caption": "「なんとなく重い」その感覚、見過ごしていませんか？\n\n平日はつい、からだのサインを後回しにしがちですよね。\n肩のこわばりや足先の冷え、気持ちのざわざわ…。\nどれも、からだからの小さなお知らせです。\n\n週末の朝は、ほんの3分だけ自分に意識を向けてみませんか。\n頭から足先まで順番に感じてみるだけで、\n「今日はゆっくりしよう」「少し温めよう」と、\n自分にやさしい選択がしやすくなりますよ🌿\n\n気づいたことを責めずに「教えてくれてありがとう」と受け止めるのがポイントです。\n生理の時期や年齢によって感じ方が変わるのも、自然なことなので大丈夫ですよ。\n\nやり方は画像をスワイプしてご覧くださいね。\n保存して、週末の朝の習慣にしていただけたらうれしいです。\n\nなお、つらい症状が長く続くときは、婦人科などの医療機関にも相談してみてくださいね。\n\n「この重さ、どうしたらいいんだろう」と感じたら、\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #セルフケア #朝習慣 #週末の過ごし方 #からだの声 #女性の健康 #大人女子 #メディセル #筋膜ケア #ゆらぎ世代",
+  "slot": "night",
+  "theme": "週末の夜、おなかを温めるいたわり時間",
+  "caption": "おなかにそっと手を当てたとき、ひんやりしていませんか？\n\n季節が秋から冬へ向かうこの時期は、気づかないうちにおなかまわりが冷えやすくなります。\n「生理のときに下腹部が重い」「なんとなく寝つきが悪い」と感じる方も多いようです。\n\n忙しい1週間を頑張ったあなたへ。\n週末の夜は、おなかを温めて自分をいたわる時間にしてみませんか🌙\n\n今回は、冷えやすいサインのチェックと、寝る前にできるおなか温めの流れをまとめました。\n画像をスワイプしてご覧くださいね。\n\nどれも特別な道具はいりません。\n湯船にゆっくり浸かり、腹巻きでふんわり包むだけでも、ほっと力が抜けるのを感じる方も多いです。\n大切なのは「心地よい」と感じること。がんばりすぎなくて大丈夫ですよ。\n\nなお、つらい痛みが続くときは、婦人科などの医療機関にご相談くださいね。\n\nSalon de mocoでは、メディセルでやさしく筋膜をゆるめ、めぐりを整えるケアを行っています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #温活 #冷え対策 #おなか温め #セルフケア #自分をいたわる時間 #メディセル #筋膜ケア #生理痛ケア #大人女子 #千葉サロン",
   "cover": {
-    "lead": "週末の朝の3分習慣",
-    "headline": "からだの【声】、\n聴けて\nいますか？"
+    "lead": "週末の夜にひと息",
+    "headline": "その【おなか】、\n冷えて\nいませんか？"
   },
   "slides": [
     {
-      "title": "こんなサイン、\n【出ていませんか】？",
+      "title": "おなかが冷えやすい\n【サイン】",
       "numbered": false,
       "items": [
-        "起きても肩や首がこわばっている",
-        "足先がひんやりして温まりにくい",
-        "なんとなく腰まわりが重たい",
-        "気持ちがざわざわ落ち着かない"
+        "触るとおなかがひんやりしている",
+        "手足の先がいつも冷たい",
+        "生理のとき下腹部が重くなりやすい",
+        "冷たい飲み物や薄着が多い",
+        "夜、なかなか寝つけない"
       ]
     },
     {
-      "title": "布団の中でできる\n【3分ボディチェック】",
+      "title": "寝る前の\n【おなか温め】時間",
       "numbered": true,
       "items": [
-        "仰向けで目を閉じ、ゆっくり3回深呼吸",
-        "頭・首・肩の順に、力みを感じてみる",
-        "お腹と腰まわりに手を当て、温度を感じる",
-        "脚から足先まで、重さや冷えを確かめる",
-        "今の気分をひとことで心の中で言ってみる"
+        "ぬるめのお湯にゆっくり浸かる",
+        "湯上がりは腹巻きでふんわり包む",
+        "白湯やハーブティーを少しずつ",
+        "手のひらでおへそまわりをやさしくさする",
+        "深呼吸をして、ゆったり眠りにつく"
       ]
     },
     {
-      "title": "気づいたら\n【やさしく応える】",
+      "title": "やさしく続ける\n【ポイント】",
       "numbered": false,
       "items": [
-        "こわばりには、ゆっくり伸びをひとつ",
-        "冷えには、白湯や靴下で温める",
-        "重さを感じたら、今日は予定を少なめに",
-        "「教えてくれてありがとう」と受け止める"
+        "熱すぎず「心地よい」を大切に",
+        "カイロは直接肌に貼らず低温やけどに注意",
+        "腰や足首も一緒に温めるのもおすすめ",
+        "つらい痛みが続くときは婦人科へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "自分をいたわる時間を",
-    "headline": "気になる声は\n【ご相談】\nくださいね"
+    "lead": "お気軽にDMでご相談を",
+    "headline": "あなたの\n【いたわり時間】\nお手伝いします"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, delicate white chamomile and lily of the valley flowers with gentle eucalyptus and fresh young green leaves placed in the corners and along the left and right edges, thin elegant gold lines and subtle soft sparkles, morning light feeling, refreshing, elegant and feminine design for adult women, calm and clean atmosphere, the center left bright, airy and mostly empty with a very pale color for overlaying text, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender, wisteria and lilac flowers gently placed in the corners and along the left and right edges, a soft folded knit blanket and a cup of warm herbal tea in a lower corner, thin delicate gold lines and gentle sparkles, calm cozy relaxing night atmosphere, clean and refined, the center left bright, airy and mostly empty with plenty of pale negative space for overlaying text, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261024-morning-1.jpg",
-    "posts/20261024-morning-2.jpg",
-    "posts/20261024-morning-3.jpg",
-    "posts/20261024-morning-4.jpg",
-    "posts/20261024-morning-5.jpg"
+    "posts/20261024-night-1.jpg",
+    "posts/20261024-night-2.jpg",
+    "posts/20261024-night-3.jpg",
+    "posts/20261024-night-4.jpg",
+    "posts/20261024-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18595271449069122",
-  "fb_post_id": "1411087672077869_122111486481506532"
+  "published": false
 }
