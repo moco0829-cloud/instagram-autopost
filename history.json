@@ -547,5 +547,19 @@
     ],
     "media_id": "17991630182861362",
     "fb_post_id": "1411087672077869_122111163501506532"
+  },
+  {
+    "date": "2026-10-24",
+    "slot": "morning",
+    "theme": "週末の朝、からだの声を聴く習慣",
+    "images": [
+      "posts/20261024-morning-1.jpg",
+      "posts/20261024-morning-2.jpg",
+      "posts/20261024-morning-3.jpg",
+      "posts/20261024-morning-4.jpg",
+      "posts/20261024-morning-5.jpg"
+    ],
+    "media_id": "18595271449069122",
+    "fb_post_id": "1411087672077869_122111486481506532"
   }
 ]
