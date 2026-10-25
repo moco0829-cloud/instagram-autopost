@@ -1,59 +1,58 @@
 {
   "date": "2026-10-25",
-  "slot": "morning",
-  "theme": "更年期の朝の手のこわばりケア",
-  "caption": "朝起きたとき、手がなんだかこわばって動かしにくい…そんな日はありませんか？\n\n指がスムーズに曲がらない、ボタンを留めにくい。\n40代・50代になって、こうした朝の違和感を感じる方は少なくありません。\n女性ホルモンのゆらぎとともに感じやすくなるともいわれていて、「私だけかな」と思わなくて大丈夫ですよ。\n\n今日の投稿では、起きてすぐできる手のやさしいほぐし方と、一日の過ごし方のポイントをまとめました。\nぬるま湯で温めてから、ゆっくりグーパー。\nそれだけでも、手がふっと軽く感じる方も多いんです。\n\n画像をスワイプしてご覧くださいね。保存しておくと、朝の習慣にしやすいですよ。\n\n手の痛みや腫れが続くときは、無理をせず婦人科や整形外科など医療機関に相談してみてください。\n\nSalon de mocoでは、Medicell（メディセル）でからだのこわばりをゆるめ、めぐりを整える筋膜ケアを行っています。\nゆらぎの時期のからだのこと、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #更年期 #更年期ケア #ゆらぎ世代 #手のこわばり #朝習慣 #セルフケア #メディセル #筋膜ケア #大人女子のからだケア",
+  "slot": "night",
+  "theme": "生理前の頭の重さをいたわる夜",
+  "caption": "生理前になると、なんだか頭が重い…そんな夜はありませんか？\n\n「よくあることだから」「たいしたことないから」と、\nつい我慢してしまう方も多いのではないでしょうか。\n\nでも、そのつらさは、からだががんばっているサイン。\n誰かに話していいことですし、ケアしていいことなんです。\n\n生理前はホルモンのゆらぎに加えて、\n首や肩まわりがこわばりやすく、めぐりも滞りがち。\n夜のちょっとした過ごし方で、\nふっと楽に感じる方も多いですよ。\n\n今夜からできるやさしい過ごし方と、\n寝る前の首まわりほぐしをまとめました。\n画像をスワイプしてご覧くださいね🌙\n\nいつもと違う強い痛みがあるときや、つらさが続くときは、\n無理をせず婦人科などの医療機関にご相談ください。\n\nSalon de mocoでは、メディセル（Medicell）で\n首や肩まわりの筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #PMS #生理前 #生理前の不調 #頭の重さ #首こり #セルフケア #夜のセルフケア #メディセル #筋膜ケア #女性の健康",
   "cover": {
-    "lead": "今日からできる朝ケア",
-    "headline": "朝の手の\n【こわばり】\n感じませんか？"
+    "lead": "今夜はがんばらないで",
+    "headline": "生理前の\n【頭の重さ】\nつらくないですか？"
   },
   "slides": [
     {
-      "title": "こんなサイン\n【ありませんか？】",
+      "title": "生理前の夜の\n【やさしい過ごし方】",
       "numbered": false,
       "items": [
-        "朝、指がスムーズに曲げにくい",
-        "ボタンやペットボトルの開け閉めがしづらい",
-        "手が重だるく、動かすうちに楽になる",
-        "ゆらぎの時期に入ってから気になりだした"
+        "スマホなど明るい画面は早めにオフ",
+        "カフェインは夕方までにひかえめに",
+        "ぬるめのお湯でゆったり入浴",
+        "お水はこまめに少しずつ飲む",
+        "予定を詰めず、いつもより早めに休む"
       ]
     },
     {
-      "title": "起きてすぐの\n【やさしいほぐし方】",
+      "title": "寝る前の\n【首まわりほぐし】",
       "numbered": true,
       "items": [
-        "ぬるま湯に手をひたして1分ほど温める",
-        "ゆっくりグーパーを10回くり返す",
-        "指を1本ずつやさしく回してほぐす",
-        "手首を内回し・外回しで5回ずつ回す",
-        "最後に深呼吸して、手の力をふっと抜く"
+        "蒸しタオルで首の後ろを温める",
+        "肩をすくめて、ストンと下ろすを数回",
+        "耳を軽くつまんで、くるくる回す",
+        "こめかみを指の腹でやさしく円を描く",
+        "最後にゆっくり深呼吸をくり返す"
       ]
     },
     {
-      "title": "一日を通して\n【いたわるポイント】",
+      "title": "こんなときは\n【無理しないで】",
       "numbered": false,
       "items": [
-        "冷たい水仕事のあとは手を温めて",
-        "スマホや家事で手を使いすぎない",
-        "痛い日は無理に動かさずお休みを",
-        "痛みや腫れが続くときは医療機関へ相談を"
+        "いつもと違う強い痛みを感じるとき",
+        "つらさで日常生活に支障があるとき",
+        "吐き気など、ほかの不調もあるとき",
+        "迷ったら婦人科などに相談して大丈夫"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "ゆらぎの悩みも\n【お気軽に】\nご相談ください"
+    "lead": "がまんしなくて大丈夫",
+    "headline": "そのつらさ\n【話して】\nいいんです"
   },
-  "image_prompt": "Elegant feminine watercolor background for a morning self-care post for mature women, soft pale pastel green to mint background, delicate white chamomile and lily of the valley flowers with soft eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, a soft folded linen cloth and a small ceramic bowl of warm water with gentle steam in one corner suggesting gentle morning hand care, gentle morning light, thin fine gold lines and subtle sparkles, the center is bright, airy and mostly empty with plenty of light negative space for overlaying a headline, refreshing, clean, calm and graceful mood, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, delicate watercolor lavender sprigs, wisteria and lilac flowers gathered in the corners and along the left and right edges, a softly draped sheer lilac fabric and a folded warm towel suggesting a calm evening self-care moment, thin fine gold lines and gentle sparkles, relaxing night atmosphere, calm and clean, the center left bright, airy and mostly empty in a very light pastel tone for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261025-morning-1.jpg",
-    "posts/20261025-morning-2.jpg",
-    "posts/20261025-morning-3.jpg",
-    "posts/20261025-morning-4.jpg",
-    "posts/20261025-morning-5.jpg"
+    "posts/20261025-night-1.jpg",
+    "posts/20261025-night-2.jpg",
+    "posts/20261025-night-3.jpg",
+    "posts/20261025-night-4.jpg",
+    "posts/20261025-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18104933204526031",
-  "fb_post_id": "1411087672077869_122111929737506532"
+  "published": false
 }
