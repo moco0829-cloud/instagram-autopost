@@ -603,5 +603,19 @@
     ],
     "media_id": "17994620451045117",
     "fb_post_id": "1411087672077869_122112105657506532"
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "morning",
+    "theme": "朝日を浴びて体内リズムを整える習慣",
+    "images": [
+      "posts/20261026-morning-1.jpg",
+      "posts/20261026-morning-2.jpg",
+      "posts/20261026-morning-3.jpg",
+      "posts/20261026-morning-4.jpg",
+      "posts/20261026-morning-5.jpg"
+    ],
+    "media_id": "18115719055840584",
+    "fb_post_id": "1411087672077869_122112368913506532"
   }
 ]
