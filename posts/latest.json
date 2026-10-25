@@ -1,60 +1,56 @@
 {
-  "date": "2026-10-25",
-  "slot": "night",
-  "theme": "生理前の頭の重さをいたわる夜",
-  "caption": "生理前になると、なんだか頭が重い…そんな夜はありませんか？\n\n「よくあることだから」「たいしたことないから」と、\nつい我慢してしまう方も多いのではないでしょうか。\n\nでも、そのつらさは、からだががんばっているサイン。\n誰かに話していいことですし、ケアしていいことなんです。\n\n生理前はホルモンのゆらぎに加えて、\n首や肩まわりがこわばりやすく、めぐりも滞りがち。\n夜のちょっとした過ごし方で、\nふっと楽に感じる方も多いですよ。\n\n今夜からできるやさしい過ごし方と、\n寝る前の首まわりほぐしをまとめました。\n画像をスワイプしてご覧くださいね🌙\n\nいつもと違う強い痛みがあるときや、つらさが続くときは、\n無理をせず婦人科などの医療機関にご相談ください。\n\nSalon de mocoでは、メディセル（Medicell）で\n首や肩まわりの筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #PMS #生理前 #生理前の不調 #頭の重さ #首こり #セルフケア #夜のセルフケア #メディセル #筋膜ケア #女性の健康",
+  "date": "2026-10-26",
+  "slot": "morning",
+  "theme": "朝日を浴びて体内リズムを整える習慣",
+  "caption": "カーテンを開けるだけで、からだのリズムが整うきっかけになるって知っていましたか？\n\nおはようございます。新しい一週間のはじまりですね。\n\n月曜の朝は、なんだかからだが重い。\n夜なかなか寝つけなくて、朝もすっきりしない。\nそんな方も多いのではないでしょうか。\n\n私たちのからだには、1日のリズムを刻む「体内時計」があります。\n朝の光は、そのリズムを整えるきっかけのひとつ。\n夜の眠りや、日中の気分にもつながっていると言われています。\n\nホルモンバランスがゆらぎやすい時期こそ、\nこうした小さな習慣が、心とからだの味方になってくれますよ。\n\n今日からできる取り入れ方を、画像にまとめました。\nスワイプしてご覧くださいね。\n\n完璧にできなくても大丈夫です。\n曇りの日も、窓辺に立つだけで十分ですよ☀️\n\nSalon de mocoでは、メディセルでのめぐりケアとあわせて、日々の過ごし方のご相談もお受けしています。\n「なんとなく不調」も、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #朝習慣 #朝活 #体内時計 #セルフケア #ゆらぎ世代 #更年期ケア #めぐりケア #メディセル #Medicell",
   "cover": {
-    "lead": "今夜はがんばらないで",
-    "headline": "生理前の\n【頭の重さ】\nつらくないですか？"
+    "lead": "月曜の朝のひと工夫",
+    "headline": "朝の光で\n【キレイ】の\nスイッチを"
   },
   "slides": [
     {
-      "title": "生理前の夜の\n【やさしい過ごし方】",
+      "title": "朝の光が\n【味方】になる理由",
       "numbered": false,
       "items": [
-        "スマホなど明るい画面は早めにオフ",
-        "カフェインは夕方までにひかえめに",
-        "ぬるめのお湯でゆったり入浴",
-        "お水はこまめに少しずつ飲む",
-        "予定を詰めず、いつもより早めに休む"
+        "体内時計が整うきっかけになる",
+        "夜の眠りにつながりやすい",
+        "気持ちが前向きになる方も多い",
+        "ゆらぎやすい時期の心の支えに"
       ]
     },
     {
-      "title": "寝る前の\n【首まわりほぐし】",
+      "title": "今日からできる\n【朝の光】習慣",
       "numbered": true,
       "items": [
-        "蒸しタオルで首の後ろを温める",
-        "肩をすくめて、ストンと下ろすを数回",
-        "耳を軽くつまんで、くるくる回す",
-        "こめかみを指の腹でやさしく円を描く",
-        "最後にゆっくり深呼吸をくり返す"
+        "起きたらまずカーテンを開ける",
+        "窓辺でゆっくり深呼吸を3回",
+        "明るい場所で朝ごはんを食べる",
+        "通勤は日なた側を少し歩いてみる"
       ]
     },
     {
-      "title": "こんなときは\n【無理しないで】",
+      "title": "心地よく続ける\n【ポイント】",
       "numbered": false,
       "items": [
-        "いつもと違う強い痛みを感じるとき",
-        "つらさで日常生活に支障があるとき",
-        "吐き気など、ほかの不調もあるとき",
-        "迷ったら婦人科などに相談して大丈夫"
+        "外に出るときは日焼け止めを忘れずに",
+        "曇りや雨の日も窓辺の明るさでOK",
+        "夜はスマホの光を少し控えめに",
+        "できない日があっても大丈夫"
       ]
     }
   ],
   "closing": {
-    "lead": "がまんしなくて大丈夫",
-    "headline": "そのつらさ\n【話して】\nいいんです"
+    "lead": "ひとりで抱えないで",
+    "headline": "からだのこと\n【気軽に】\n話しませんか"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, delicate watercolor lavender sprigs, wisteria and lilac flowers gathered in the corners and along the left and right edges, a softly draped sheer lilac fabric and a folded warm towel suggesting a calm evening self-care moment, thin fine gold lines and gentle sparkles, relaxing night atmosphere, calm and clean, the center left bright, airy and mostly empty in a very light pastel tone for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, fresh morning atmosphere with gentle sunlight streaming in from one side, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, a sheer white curtain softly glowing with morning light at the edge, thin elegant gold lines and subtle sparkles, center left bright, airy and mostly empty with plenty of light negative space for overlaying text, refreshing, elegant, feminine design for adult women, clean and calm, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261025-night-1.jpg",
-    "posts/20261025-night-2.jpg",
-    "posts/20261025-night-3.jpg",
-    "posts/20261025-night-4.jpg",
-    "posts/20261025-night-5.jpg"
+    "posts/20261026-morning-1.jpg",
+    "posts/20261026-morning-2.jpg",
+    "posts/20261026-morning-3.jpg",
+    "posts/20261026-morning-4.jpg",
+    "posts/20261026-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "17994620451045117",
-  "fb_post_id": "1411087672077869_122112105657506532"
+  "published": false
 }
