@@ -1,58 +1,57 @@
 {
   "date": "2026-10-26",
-  "slot": "morning",
-  "theme": "朝日を浴びて体内リズムを整える習慣",
-  "caption": "カーテンを開けるだけで、からだのリズムが整うきっかけになるって知っていましたか？\n\nおはようございます。新しい一週間のはじまりですね。\n\n月曜の朝は、なんだかからだが重い。\n夜なかなか寝つけなくて、朝もすっきりしない。\nそんな方も多いのではないでしょうか。\n\n私たちのからだには、1日のリズムを刻む「体内時計」があります。\n朝の光は、そのリズムを整えるきっかけのひとつ。\n夜の眠りや、日中の気分にもつながっていると言われています。\n\nホルモンバランスがゆらぎやすい時期こそ、\nこうした小さな習慣が、心とからだの味方になってくれますよ。\n\n今日からできる取り入れ方を、画像にまとめました。\nスワイプしてご覧くださいね。\n\n完璧にできなくても大丈夫です。\n曇りの日も、窓辺に立つだけで十分ですよ☀️\n\nSalon de mocoでは、メディセルでのめぐりケアとあわせて、日々の過ごし方のご相談もお受けしています。\n「なんとなく不調」も、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #朝習慣 #朝活 #体内時計 #セルフケア #ゆらぎ世代 #更年期ケア #めぐりケア #メディセル #Medicell",
+  "slot": "night",
+  "theme": "仰向け呼吸で骨盤底筋をゆるめる夜",
+  "caption": "「骨盤底筋は鍛えるもの」と思っていませんか？\n\n実は、1日がんばった骨盤まわりは、知らないうちにこわばっていることも。\n下腹部の重だるさや、腰まわりのこわばりを感じる夜は、「ゆるめる」時間をつくってあげてくださいね。\n\n今夜ご紹介するのは、お布団の上でできる仰向けの呼吸ケアです。\n息を吸うときにふわっとゆるめ、吐くときにやさしく引き上げる。\nこのくり返しで、からだがほっとほどけていくのを感じる方も多いですよ🌙\n\nやり方とポイントは、画像をスワイプしてご覧くださいね。\n\n大切なのは、がんばりすぎないこと。\n上手にできなくても大丈夫です。心地よさを味わうだけで、十分なセルフケアになります。\n\nSalon de mocoでは、Medicell（メディセル）による筋膜ケアで、骨盤まわりのめぐりを整えるお手伝いをしています。\n「こんなこと聞いてもいいのかな」というお悩みも、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #骨盤底筋 #骨盤底筋ケア #呼吸ケア #夜のセルフケア #女性の健康 #更年期 #メディセル #筋膜ケア #自分をいたわる時間 #千葉サロン",
   "cover": {
-    "lead": "月曜の朝のひと工夫",
-    "headline": "朝の光で\n【キレイ】の\nスイッチを"
+    "lead": "寝る前の3分呼吸ケア",
+    "headline": "1日の終わり、\n【骨盤底筋】も\nゆるめていますか？"
   },
   "slides": [
     {
-      "title": "朝の光が\n【味方】になる理由",
+      "title": "こんな感覚、\n【ありませんか】？",
       "numbered": false,
       "items": [
-        "体内時計が整うきっかけになる",
-        "夜の眠りにつながりやすい",
-        "気持ちが前向きになる方も多い",
-        "ゆらぎやすい時期の心の支えに"
+        "夕方になると下腹部が重だるく感じる",
+        "夜、腰や骨盤まわりがこわばっている",
+        "気づくとお尻やおなかに力が入っている",
+        "呼吸が浅く、なかなか寝つけない"
       ]
     },
     {
-      "title": "今日からできる\n【朝の光】習慣",
+      "title": "お布団でできる\n【仰向け呼吸ケア】",
       "numbered": true,
       "items": [
-        "起きたらまずカーテンを開ける",
-        "窓辺でゆっくり深呼吸を3回",
-        "明るい場所で朝ごはんを食べる",
-        "通勤は日なた側を少し歩いてみる"
+        "ひざを立てて仰向けになり、手をおなかに置く",
+        "鼻から吸い、おなかと骨盤の底がふくらむのを感じる",
+        "口から細く吐きながら、下からやさしく引き上げる",
+        "吐ききったら、ふっと力を抜いてゆるめる",
+        "心地よいペースで5回ほどくり返す"
       ]
     },
     {
       "title": "心地よく続ける\n【ポイント】",
       "numbered": false,
       "items": [
-        "外に出るときは日焼け止めを忘れずに",
-        "曇りや雨の日も窓辺の明るさでOK",
-        "夜はスマホの光を少し控えめに",
-        "できない日があっても大丈夫"
+        "照明を落として、深い呼吸を味わう",
+        "がんばりすぎず、ゆるめる感覚を大切に",
+        "痛みや違和感があればすぐにお休みする",
+        "つらい症状が続くときは婦人科へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "からだのこと\n【気軽に】\n話しませんか"
+    "lead": "がんばった今日の自分に",
+    "headline": "ひとりで\n抱えず\n【ご相談】くださいね"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, fresh morning atmosphere with gentle sunlight streaming in from one side, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, a sheer white curtain softly glowing with morning light at the edge, thin elegant gold lines and subtle sparkles, center left bright, airy and mostly empty with plenty of light negative space for overlaying text, refreshing, elegant, feminine design for adult women, clean and calm, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender sprigs, wisteria and lilac flowers placed only in the corners and along the left and right edges, delicate thin gold lines and gentle sparkles, a soft draped sheer fabric and a faint glow like calm nighttime relaxation before sleep, center area kept bright, airy and mostly empty with very light pale color for overlaying text, calm, clean and refined atmosphere, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261026-morning-1.jpg",
-    "posts/20261026-morning-2.jpg",
-    "posts/20261026-morning-3.jpg",
-    "posts/20261026-morning-4.jpg",
-    "posts/20261026-morning-5.jpg"
+    "posts/20261026-night-1.jpg",
+    "posts/20261026-night-2.jpg",
+    "posts/20261026-night-3.jpg",
+    "posts/20261026-night-4.jpg",
+    "posts/20261026-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18115719055840584",
-  "fb_post_id": "1411087672077869_122112368913506532"
+  "published": false
 }
