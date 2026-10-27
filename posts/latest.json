@@ -1,58 +1,57 @@
 {
   "date": "2026-10-27",
-  "slot": "morning",
-  "theme": "ゆらぎ世代の朝の頭皮いたわり習慣",
-  "caption": "最近、髪のハリや分け目が気になりませんか？\n\nおはようございます。\n年齢やホルモンバランスのゆらぎとともに、髪や頭皮の変化を感じる女性は少なくありません。\n「なんだか恥ずかしくて、誰にも言えない」という声もよく伺います。\n\nでも大丈夫ですよ。\nそれは、からだが変化しているというやさしいサイン。\n朝のほんの1〜2分で、頭皮をいたわる時間をつくってみませんか。\n\n指の腹でくるくるとほぐしたり、首や肩をゆるめてめぐりを意識したり。\n小さな習慣の積み重ねで、鏡を見る朝が少し楽しみになるはずです🌿\n\n今日からできるポイントを画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、明日の朝にも見返せます。\n\nサロンでは、メディセルの筋膜ケアで首・肩まわりのこわばりをゆるめ、すっきり感じる方も多くいらっしゃいます。\n気になる抜け毛が続くときは、皮膚科などへのご相談もおすすめです。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #更年期 #ゆらぎ世代 #頭皮ケア #ヘアケア #朝習慣 #セルフケア #大人女子 #メディセル #筋膜ケア #SalondeMoco",
+  "slot": "night",
+  "theme": "デリケートゾーンのやさしい洗い方",
+  "caption": "毎日なにげなく洗っているところ、実は「洗い方」で心地よさが変わるんです。\n\nデリケートゾーンの洗い方って、誰かに教わる機会がほとんどないですよね。\n「これで合っているのかな」と思いながらも、なかなか人には聞けない…そんな方も多いのではないでしょうか。\n\nこの部分の肌はとても繊細です。\nしっかり洗おうとゴシゴシこすったり、熱いお湯をかけたりすると、乾燥やかゆみにつながることもあります。\n\n大切なのは「落としすぎず、やさしく」。\nたっぷりの泡で包みこむように洗うだけでも、ふんわりと心地よく感じる方が多いですよ。\n\n今夜のバスタイムから取り入れられるポイントを、画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、見返すときに便利です。\n\nかゆみやにおいなど、気になる変化が続くときは、ひとりで我慢せず婦人科で相談してみてくださいね。\n\n言いにくいことも、ここでは「話していいこと」です。\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #千葉サロン #フェムケア #デリケートゾーンケア #デリケートゾーン #バスタイム #セルフケア #大人女子 #メディセル #筋膜ケア",
   "cover": {
-    "lead": "朝1分のいたわり習慣",
-    "headline": "髪のハリ、\n【ゆらぎ】の\nせいかも？"
+    "lead": "今夜のバスタイムに",
+    "headline": "その洗い方、\n【やさしく】\nできていますか？"
   },
   "slides": [
     {
-      "title": "こんな変化、\n【感じていませんか？】",
-      "numbered": false,
-      "items": [
-        "分け目や生え際が気になってきた",
-        "髪のハリやコシが変わった気がする",
-        "頭皮がつっぱる・かゆいと感じる",
-        "夕方になると頭や首が重い"
-      ]
-    },
-    {
-      "title": "朝の【頭皮いたわり】\n3ステップ",
+      "title": "【やさしい洗い方】\n5つのステップ",
       "numbered": true,
       "items": [
-        "起きたらまずコップ1杯のお水を",
-        "指の腹で頭皮をくるくる1分ほぐす",
-        "首と肩をゆっくり回してめぐりを意識",
-        "ドライヤーは少し離して温風→冷風で"
+        "低刺激な専用ソープを選ぶ",
+        "しっかり泡立てて、泡で包みこむ",
+        "指の腹でなでるようにそっと洗う",
+        "ぬるめのお湯で丁寧にすすぐ",
+        "清潔なタオルで押さえるように拭く"
       ]
     },
     {
-      "title": "毎日の【小さな心がけ】",
+      "title": "ついやりがちな\n【控えたいこと】",
       "numbered": false,
       "items": [
-        "きつく結ばず、分け目をときどき変える",
-        "朝ごはんにたんぱく質をひと品プラス",
-        "秋の紫外線にも帽子や日傘でいたわりを",
-        "抜け毛が続くときは皮膚科へ相談を"
+        "タオルやスポンジでゴシゴシこする",
+        "熱いお湯を長くかけ続ける",
+        "1日に何度も洗いすぎる",
+        "内側まで洗おうとする"
+      ]
+    },
+    {
+      "title": "こんなときは\n【無理せず相談を】",
+      "numbered": false,
+      "items": [
+        "かゆみや赤みが何日も続くとき",
+        "いつもと違うにおいが気になるとき",
+        "ヒリヒリした違和感があるとき",
+        "迷ったら婦人科で相談して大丈夫です"
       ]
     }
   ],
   "closing": {
-    "lead": "話していいんですよ",
+    "lead": "言いにくいことこそ",
     "headline": "お気軽に\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint color base, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged at the four corners and left and right edges, a soft silk ribbon and a wooden hair comb gently placed near the corner, morning sunlight glow, thin gold lines and gentle sparkles, fresh, clean and calm atmosphere, the center is bright and empty with lots of light negative space for overlaying text, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, delicate watercolor lavender sprigs, wisteria and lilac flowers placed in the corners and along the left and right edges, a soft white towel and a small dish of creamy foam bubbles subtly at the bottom corner, thin fine gold lines and gentle sparkles, calm relaxing night bath time atmosphere, clean and serene, large bright airy empty space in the center with very light pale color for overlaying text, no people's bodies, no text, no letters, no numbers, no logos, no watermark",
+  "palette": "night",
   "images": [
-    "posts/20261027-morning-1.jpg",
-    "posts/20261027-morning-2.jpg",
-    "posts/20261027-morning-3.jpg",
-    "posts/20261027-morning-4.jpg",
-    "posts/20261027-morning-5.jpg"
+    "posts/20261027-night-1.jpg",
+    "posts/20261027-night-2.jpg",
+    "posts/20261027-night-3.jpg",
+    "posts/20261027-night-4.jpg",
+    "posts/20261027-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18100141598432573",
-  "fb_post_id": "1411087672077869_122112818373506532"
+  "published": false
 }
