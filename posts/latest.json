@@ -1,59 +1,57 @@
 {
-  "date": "2026-10-27",
-  "slot": "night",
-  "theme": "デリケートゾーンのやさしい洗い方",
-  "caption": "毎日なにげなく洗っているところ、実は「洗い方」で心地よさが変わるんです。\n\nデリケートゾーンの洗い方って、誰かに教わる機会がほとんどないですよね。\n「これで合っているのかな」と思いながらも、なかなか人には聞けない…そんな方も多いのではないでしょうか。\n\nこの部分の肌はとても繊細です。\nしっかり洗おうとゴシゴシこすったり、熱いお湯をかけたりすると、乾燥やかゆみにつながることもあります。\n\n大切なのは「落としすぎず、やさしく」。\nたっぷりの泡で包みこむように洗うだけでも、ふんわりと心地よく感じる方が多いですよ。\n\n今夜のバスタイムから取り入れられるポイントを、画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、見返すときに便利です。\n\nかゆみやにおいなど、気になる変化が続くときは、ひとりで我慢せず婦人科で相談してみてくださいね。\n\n言いにくいことも、ここでは「話していいこと」です。\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #千葉サロン #フェムケア #デリケートゾーンケア #デリケートゾーン #バスタイム #セルフケア #大人女子 #メディセル #筋膜ケア",
+  "date": "2026-10-28",
+  "slot": "morning",
+  "theme": "待ち時間にできる骨盤底筋の朝習慣",
+  "caption": "お湯が沸くまでの1分、何をしていますか？\n\nおはようございます。\n今日は、朝の「ちょっとした待ち時間」にできる、骨盤底筋のやさしい習慣をご紹介します。\n\n骨盤底筋は、骨盤の底でからだを支えているハンモックのような筋肉です。\n年齢や出産、座りっぱなしの毎日でゆるみやすく、くしゃみの時の不安や、腰まわりの重さを感じる方も多いといわれています。\n\nでも大丈夫ですよ。\n特別な道具も、着替えも必要ありません。\nケトルを待つ間、歯みがき中、信号待ちなど、すき間時間に「キュッ」と意識するだけ。\n力みすぎず、呼吸を止めないのがポイントです。\n\nやり方とコツを画像にまとめたので、スワイプしてご覧くださいね。\n保存しておくと、毎朝の思い出しに便利です。\n\n当サロンでは、Medicell（メディセル）の筋膜ケアで、骨盤まわりのこわばりをやさしくゆるめるお手伝いもしています。\n気になる症状が続くときは、婦人科などの医療機関にもご相談くださいね。\n\n「こんなこと聞いていいのかな」と思うことも、ひとりで抱えず、お気軽にDMでご相談ください🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #骨盤底筋 #骨盤底筋トレーニング #尿もれ対策 #朝習慣 #セルフケア #ゆらぎ世代 #更年期ケア #メディセル #筋膜ケア #SalondeMoco",
   "cover": {
-    "lead": "今夜のバスタイムに",
-    "headline": "その洗い方、\n【やさしく】\nできていますか？"
+    "lead": "朝のすき間時間に",
+    "headline": "お湯を待つ間に\n【骨盤底筋】\nキュッと習慣"
   },
   "slides": [
     {
-      "title": "【やさしい洗い方】\n5つのステップ",
+      "title": "骨盤底筋って\nどんな筋肉？",
+      "numbered": false,
+      "items": [
+        "骨盤の底でからだを支えるハンモック",
+        "年齢や出産、座りすぎでゆるみやすい",
+        "くしゃみの不安や腰の重さに関わることも",
+        "意識するだけで、毎日のケアになります"
+      ]
+    },
+    {
+      "title": "【1分】でできる\nキュッとほぐし",
       "numbered": true,
       "items": [
-        "低刺激な専用ソープを選ぶ",
-        "しっかり泡立てて、泡で包みこむ",
-        "指の腹でなでるようにそっと洗う",
-        "ぬるめのお湯で丁寧にすすぐ",
-        "清潔なタオルで押さえるように拭く"
+        "足を腰幅に開き、背すじをすっと伸ばす",
+        "息を吐きながら、おなかの下をキュッと締める",
+        "そのまま3〜5秒、やさしくキープ",
+        "息を吸いながら、ふわっとゆるめる",
+        "これを5回ほど、ゆっくりくり返す"
       ]
     },
     {
-      "title": "ついやりがちな\n【控えたいこと】",
+      "title": "続けるための\n【小さなコツ】",
       "numbered": false,
       "items": [
-        "タオルやスポンジでゴシゴシこする",
-        "熱いお湯を長くかけ続ける",
-        "1日に何度も洗いすぎる",
-        "内側まで洗おうとする"
-      ]
-    },
-    {
-      "title": "こんなときは\n【無理せず相談を】",
-      "numbered": false,
-      "items": [
-        "かゆみや赤みが何日も続くとき",
-        "いつもと違うにおいが気になるとき",
-        "ヒリヒリした違和感があるとき",
-        "迷ったら婦人科で相談して大丈夫です"
+        "ケトル・歯みがき・信号待ちを合図に",
+        "呼吸は止めず、力みすぎないこと",
+        "お尻や太ももに力が入りすぎないように",
+        "ゆるめる時間も、締める時間と同じくらい大切"
       ]
     }
   ],
   "closing": {
-    "lead": "言いにくいことこそ",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "小さな悩みも\n【お気軽に】\nご相談ください"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, delicate watercolor lavender sprigs, wisteria and lilac flowers placed in the corners and along the left and right edges, a soft white towel and a small dish of creamy foam bubbles subtly at the bottom corner, thin fine gold lines and gentle sparkles, calm relaxing night bath time atmosphere, clean and serene, large bright airy empty space in the center with very light pale color for overlaying text, no people's bodies, no text, no letters, no numbers, no logos, no watermark",
-  "palette": "night",
+  "image_prompt": "Soft watercolor background in pale pastel green to mint, with delicate white chamomile and lily of the valley flowers and gentle eucalyptus and fresh young green leaves arranged only in the corners and along the left and right edges, a softly glowing morning light, a subtle hint of a white ceramic kettle and teacup at the bottom corner, thin elegant gold lines and gentle sparkles, refreshing, clean, feminine and elegant design for adult women, the center is bright, airy and mostly empty with a very pale tone for overlaying text, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261027-night-1.jpg",
-    "posts/20261027-night-2.jpg",
-    "posts/20261027-night-3.jpg",
-    "posts/20261027-night-4.jpg",
-    "posts/20261027-night-5.jpg"
+    "posts/20261028-morning-1.jpg",
+    "posts/20261028-morning-2.jpg",
+    "posts/20261028-morning-3.jpg",
+    "posts/20261028-morning-4.jpg",
+    "posts/20261028-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "17952859659323143",
-  "fb_post_id": "1411087672077869_122112981183506532"
+  "published": false
 }
