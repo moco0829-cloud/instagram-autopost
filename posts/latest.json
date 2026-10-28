@@ -1,59 +1,56 @@
 {
   "date": "2026-10-28",
-  "slot": "morning",
-  "theme": "待ち時間にできる骨盤底筋の朝習慣",
-  "caption": "お湯が沸くまでの1分、何をしていますか？\n\nおはようございます。\n今日は、朝の「ちょっとした待ち時間」にできる、骨盤底筋のやさしい習慣をご紹介します。\n\n骨盤底筋は、骨盤の底でからだを支えているハンモックのような筋肉です。\n年齢や出産、座りっぱなしの毎日でゆるみやすく、くしゃみの時の不安や、腰まわりの重さを感じる方も多いといわれています。\n\nでも大丈夫ですよ。\n特別な道具も、着替えも必要ありません。\nケトルを待つ間、歯みがき中、信号待ちなど、すき間時間に「キュッ」と意識するだけ。\n力みすぎず、呼吸を止めないのがポイントです。\n\nやり方とコツを画像にまとめたので、スワイプしてご覧くださいね。\n保存しておくと、毎朝の思い出しに便利です。\n\n当サロンでは、Medicell（メディセル）の筋膜ケアで、骨盤まわりのこわばりをやさしくゆるめるお手伝いもしています。\n気になる症状が続くときは、婦人科などの医療機関にもご相談くださいね。\n\n「こんなこと聞いていいのかな」と思うことも、ひとりで抱えず、お気軽にDMでご相談ください🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #骨盤底筋 #骨盤底筋トレーニング #尿もれ対策 #朝習慣 #セルフケア #ゆらぎ世代 #更年期ケア #メディセル #筋膜ケア #SalondeMoco",
+  "slot": "night",
+  "theme": "生理痛の夜を少しラクに過ごす工夫",
+  "caption": "生理痛で、なかなか眠れない夜はありませんか？\n\nおなかや腰がずーんと重くて、横になってもなんだか落ち着かない。\n「毎月のことだから」と、ひとりでじっと耐えている方も多いのではないでしょうか。\n\nでも、そのつらさは我慢しなくていいものです。\n今夜は、眠る前に少しでもからだをゆるめて、ラクに過ごすための工夫をまとめました。\n\n・おなかや腰をやさしく温める\n・締めつけの少ない服に着がえる\n・横向きで膝を曲げ、ゆっくり深呼吸\n\nどれも今夜からできることばかりです。画像をスワイプしてご覧くださいね。\n\nそして、痛みが強い・毎月眠れないほどつらい、という場合は、どうか婦人科で相談してみてください。相談することは、決して大げさではありませんよ。\n\nSalon de mocoでは、メディセル（Medicell）による筋膜ケアで、腰や骨盤まわりのこわばりをゆるめ、めぐりを整えるお手伝いをしています。「なんだか軽く感じる」とおっしゃる方も多いです🌙\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #生理痛 #生理痛ケア #PMS #女性の悩み #温活 #セルフケア #夜のリラックス #メディセル #Medicell #筋膜ケア #千葉サロン",
   "cover": {
-    "lead": "朝のすき間時間に",
-    "headline": "お湯を待つ間に\n【骨盤底筋】\nキュッと習慣"
+    "lead": "今夜を少しラクに",
+    "headline": "【生理痛】で\n眠れない\n夜のために"
   },
   "slides": [
     {
-      "title": "骨盤底筋って\nどんな筋肉？",
+      "title": "寝る前の\n【ゆるめる】準備",
       "numbered": false,
       "items": [
-        "骨盤の底でからだを支えるハンモック",
-        "年齢や出産、座りすぎでゆるみやすい",
-        "くしゃみの不安や腰の重さに関わることも",
-        "意識するだけで、毎日のケアになります"
+        "低温やけどに注意して、おなかや腰を温める",
+        "締めつけの少ないパジャマに着がえる",
+        "白湯やノンカフェインの温かい飲みものを",
+        "スマホは早めに置いて、明かりを落とす"
       ]
     },
     {
-      "title": "【1分】でできる\nキュッとほぐし",
+      "title": "ラクな姿勢で\n【深呼吸】",
       "numbered": true,
       "items": [
-        "足を腰幅に開き、背すじをすっと伸ばす",
-        "息を吐きながら、おなかの下をキュッと締める",
-        "そのまま3〜5秒、やさしくキープ",
-        "息を吸いながら、ふわっとゆるめる",
-        "これを5回ほど、ゆっくりくり返す"
+        "横向きになり、膝を軽く曲げて丸くなる",
+        "膝の間にクッションをはさむと腰がラクに",
+        "おなかに手を当て、鼻からゆっくり吸う",
+        "口から細く長く吐き、力を抜いていく"
       ]
     },
     {
-      "title": "続けるための\n【小さなコツ】",
+      "title": "【がまんしすぎ】\nないでくださいね",
       "numbered": false,
       "items": [
-        "ケトル・歯みがき・信号待ちを合図に",
-        "呼吸は止めず、力みすぎないこと",
-        "お尻や太ももに力が入りすぎないように",
-        "ゆるめる時間も、締める時間と同じくらい大切"
+        "痛みで眠れない日が毎月続く",
+        "いつもより痛みが強い・長引く",
+        "仕事や家事に支障が出ている",
+        "そんなときは婦人科で相談を"
       ]
     }
   ],
   "closing": {
     "lead": "ひとりで抱えないで",
-    "headline": "小さな悩みも\n【お気軽に】\nご相談ください"
+    "headline": "つらさも\n【話して】\nいいんですよ"
   },
-  "image_prompt": "Soft watercolor background in pale pastel green to mint, with delicate white chamomile and lily of the valley flowers and gentle eucalyptus and fresh young green leaves arranged only in the corners and along the left and right edges, a softly glowing morning light, a subtle hint of a white ceramic kettle and teacup at the bottom corner, thin elegant gold lines and gentle sparkles, refreshing, clean, feminine and elegant design for adult women, the center is bright, airy and mostly empty with a very pale tone for overlaying text, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "An elegant, feminine background design for adult women evoking a calm, cozy night of self-care. Soft pale lavender to lilac gradient background. Watercolor-style lavender sprigs, wisteria, and lilac flowers gently arranged in the corners and along the left and right edges, with a soft folded lilac blanket and a warm ceramic mug hinting at comfort in one corner. Thin delicate gold lines and gentle sparkles. The center is bright, airy, and left mostly empty with very pale color for overlaying a headline later. Calm, clean, refined, not flashy. No people's bodies shown. no text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261028-morning-1.jpg",
-    "posts/20261028-morning-2.jpg",
-    "posts/20261028-morning-3.jpg",
-    "posts/20261028-morning-4.jpg",
-    "posts/20261028-morning-5.jpg"
+    "posts/20261028-night-1.jpg",
+    "posts/20261028-night-2.jpg",
+    "posts/20261028-night-3.jpg",
+    "posts/20261028-night-4.jpg",
+    "posts/20261028-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18482345323112919",
-  "fb_post_id": "1411087672077869_122113225467506532"
+  "published": false
 }
