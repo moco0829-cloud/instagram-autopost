@@ -1,60 +1,47 @@
 {
-  "date": "2026-10-29",
-  "slot": "night",
-  "theme": "生理前のイライラに寄り添う夜",
-  "caption": "生理前になると、なぜか自分を好きになれない…そんな夜はありませんか？\n\nささいなことでイライラしてしまったり、急に涙が出たり。\nあとから「どうしてあんな言い方をしたんだろう」と落ち込んでしまう方も多いんです。\n\nでも、大丈夫ですよ。\nそれはあなたの性格のせいではなく、女性のからだのリズムによる心のゆらぎかもしれません。\n「今はそういう時期なんだ」と知るだけで、少し肩の力が抜けることもあります。\n\n今日の投稿では、\n・生理前に起こりやすい心とからだのサイン\n・夜にできるやさしいいたわり習慣\n・心がゆらいだ日に思い出してほしい言葉\nをまとめました。画像をスワイプしてご覧くださいね。\n\nサロンでは、メディセルで筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。からだがほぐれると、気持ちまでふっと軽く感じる方も多いですよ。\n\nつらさが強いときや長く続くときは、婦人科への相談もひとつの選択肢です。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #フェムケア #PMS #生理前 #生理前のイライラ #女性の悩み #セルフケア #自分をいたわる #メディセル #Medicell #筋膜ケア #成田市サロン #千葉サロン",
+  "date": "2026-10-30",
+  "slot": "morning",
+  "theme": "ゆらぎ世代の朝のだるさをほどく",
+  "caption": "目覚ましが鳴っても、なかなか体が起きてくれない朝はありませんか？\n\n季節の変わり目や、ゆらぎ世代に入ると、\n「しっかり寝たはずなのに、朝からだるい」と感じる方は少なくありません。\nそれは、なまけているのではなく、からだががんばっているサインかもしれませんね。\n\nそんな朝におすすめなのが、お布団の中でできる「目覚めストレッチ」。\n深呼吸や手足のグーパーで、指先からゆっくりめぐらせていくと、\n起き上がるのがラクに感じる方も多いんです🌿\n\nさらに、お水を一杯飲む、光を感じるなど、\n今日からできる小さな工夫もまとめました。\n画像をスワイプしてご覧くださいね。\n\nなお、だるさが長く続くときは、ひとりでがまんせず婦人科などの医療機関にも相談してみてください。\n\nSalon de mocoでは、メディセルの筋膜ケアで、こわばったからだをやさしくゆるめ、めぐりを整えるお手伝いをしています。\n「なんとなく不調」も、話していいことです。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #更年期 #ゆらぎ世代 #朝習慣 #朝ストレッチ #セルフケア #めぐりケア #筋膜ケア #メディセル #大人女性のキレイ",
   "cover": {
-    "lead": "今夜は自分にやさしく",
-    "headline": "生理前の\n【イライラ】、\n自分を責めないで"
+    "lead": "金曜の朝に、ひと呼吸",
+    "headline": "朝の【だるさ】、\nがまんして\nいませんか？"
   },
   "slides": [
     {
-      "title": "こんなこと\nありませんか？",
-      "numbered": false,
-      "items": [
-        "理由もなくイライラしてしまう",
-        "涙もろくなる、落ち込みやすい",
-        "甘いものが無性に欲しくなる",
-        "眠気やだるさが続く",
-        "生理が始まると、ふっとラクになる"
-      ]
-    },
-    {
-      "title": "夜にできる\n【いたわり習慣】",
+      "title": "お布団の中で\n【目覚めストレッチ】",
       "numbered": true,
       "items": [
-        "ぬるめのお湯にゆっくりつかる",
-        "温かいノンカフェインの飲み物を",
-        "寝る前はスマホを置いて深呼吸",
-        "首や肩をやさしく回してほぐす",
-        "予定は詰めず、早めにおやすみ"
+        "仰向けのまま、ゆっくり深呼吸を3回",
+        "手足をグーパーして、指先からめぐらせる",
+        "両ひざを抱えて、腰をやさしく左右にゆらす",
+        "両腕を頭の上へ伸ばし、全身で大きく伸び",
+        "横向きになってから、ゆっくり起き上がる"
       ]
     },
     {
-      "title": "心がゆらいだ日の\n【やさしい言葉】",
+      "title": "朝をラクにする\n【小さな工夫】",
       "numbered": false,
       "items": [
-        "「今はそういう時期」と知るだけで十分",
-        "イライラする自分を責めなくて大丈夫",
-        "身近な人に、そっと伝えてみる",
-        "つらさが続くときは婦人科にご相談を"
+        "起きたら常温のお水をコップ1杯",
+        "カーテンを開けて、朝の光を感じる",
+        "首元をあたためて、冷えをためない",
+        "「今日も起きられたね」と自分をほめる",
+        "だるさが長く続くときは婦人科にも相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "心もからだも\n【ご相談】\nくださいね"
+    "lead": "がんばる毎日に寄り添って",
+    "headline": "からだの声、\n【お聞かせ】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient backdrop, delicate watercolor lavender sprigs, wisteria and lilac flowers arranged at the corners and along the left and right edges, a softly draped sheer lilac fabric, a warm cup of herbal tea and a small candle glowing gently in one corner, thin fine gold lines and subtle sparkles, calm relaxing nighttime self-care mood, the center left bright, airy and mostly empty with a light pale tone for overlaying a headline, refined, clean, gentle, not flashy, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft pale pastel green to mint background, watercolor style illustration with delicate white chamomile and lily of the valley flowers and fresh eucalyptus and tender young green leaves arranged only at the corners and left and right edges, gentle morning sunlight feeling, a softly draped white linen blanket hint at the bottom corner, thin elegant gold lines and subtle sparkles, refreshing, clean, elegant and feminine design for adult women, large bright empty pale area in the center for overlaying text, calm and airy composition, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261029-night-1.jpg",
-    "posts/20261029-night-2.jpg",
-    "posts/20261029-night-3.jpg",
-    "posts/20261029-night-4.jpg",
-    "posts/20261029-night-5.jpg"
+    "posts/20261030-morning-1.jpg",
+    "posts/20261030-morning-2.jpg",
+    "posts/20261030-morning-3.jpg",
+    "posts/20261030-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "18168312316464496",
-  "fb_post_id": "1411087672077869_122113844169506532"
+  "published": false
 }
