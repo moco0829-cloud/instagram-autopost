@@ -1,60 +1,58 @@
 {
   "date": "2026-10-29",
-  "slot": "morning",
-  "theme": "通勤中に意識する朝の美姿勢習慣",
-  "caption": "信号待ちの数十秒が、キレイを育てる時間に変わるかもしれません。\n\nおはようございます。\n朝は家事に身支度に通勤にと、慌ただしいですよね。\n気づくと背中が丸くなっていたり、片足に体重をかけて立っていたり。\n実はそれ、とても多くの方に見られるクセなんです。\n\n姿勢がくずれた状態が続くと、肩や腰の重さ、めぐりの滞りを感じやすくなることも。\nでも大丈夫ですよ。\n特別な時間をつくらなくても、通勤や待ち時間に「ちょっと意識する」だけで、立ち姿はぐっと変わってきます。\n\n今日は、駅のホームや信号待ちでできる美姿勢のポイントと、30秒でできる姿勢リセットをまとめました。\n画像をスワイプしてご覧くださいね🌿\n\n姿勢がすっと整うと、呼吸も深くなり、気持ちまで前向きに感じる方も多いです。\nサロンでは、メディセルで筋膜のこわばりをやさしくゆるめ、整いやすいからだづくりをサポートしています。\n\n「姿勢のクセが気になる」「肩や腰がいつも重い」など、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #美姿勢 #姿勢改善習慣 #朝習慣 #ながらケア #メディセル #筋膜ケア #大人女性のキレイ #セルフケア #ゆらぎ世代",
+  "slot": "night",
+  "theme": "生理前のイライラに寄り添う夜",
+  "caption": "生理前になると、なぜか自分を好きになれない…そんな夜はありませんか？\n\nささいなことでイライラしてしまったり、急に涙が出たり。\nあとから「どうしてあんな言い方をしたんだろう」と落ち込んでしまう方も多いんです。\n\nでも、大丈夫ですよ。\nそれはあなたの性格のせいではなく、女性のからだのリズムによる心のゆらぎかもしれません。\n「今はそういう時期なんだ」と知るだけで、少し肩の力が抜けることもあります。\n\n今日の投稿では、\n・生理前に起こりやすい心とからだのサイン\n・夜にできるやさしいいたわり習慣\n・心がゆらいだ日に思い出してほしい言葉\nをまとめました。画像をスワイプしてご覧くださいね。\n\nサロンでは、メディセルで筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。からだがほぐれると、気持ちまでふっと軽く感じる方も多いですよ。\n\nつらさが強いときや長く続くときは、婦人科への相談もひとつの選択肢です。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #フェムケア #PMS #生理前 #生理前のイライラ #女性の悩み #セルフケア #自分をいたわる #メディセル #Medicell #筋膜ケア #成田市サロン #千葉サロン",
   "cover": {
-    "lead": "通勤中の30秒でOK",
-    "headline": "立ち姿から\n【キレイ】を\n育てませんか？"
+    "lead": "今夜は自分にやさしく",
+    "headline": "生理前の\n【イライラ】、\n自分を責めないで"
   },
   "slides": [
     {
-      "title": "立っているとき\n【ここ】をチェック",
+      "title": "こんなこと\nありませんか？",
       "numbered": false,
       "items": [
-        "両足に均等に体重をのせている",
-        "頭のてっぺんが糸で引かれるイメージ",
-        "あごは軽く引き、目線はまっすぐ前へ",
-        "肩の力を抜き、胸をふわっと開く",
-        "おへそを背骨に少し近づける意識で"
+        "理由もなくイライラしてしまう",
+        "涙もろくなる、落ち込みやすい",
+        "甘いものが無性に欲しくなる",
+        "眠気やだるさが続く",
+        "生理が始まると、ふっとラクになる"
       ]
     },
     {
-      "title": "信号待ちでできる\n【30秒】姿勢リセット",
+      "title": "夜にできる\n【いたわり習慣】",
       "numbered": true,
       "items": [
-        "肩をすくめて、ストンと力を抜く",
-        "肩を後ろにゆっくり3回まわす",
-        "かかとを軽く上げ下げして重心を確認",
-        "鼻から吸って、口から細く長く吐く",
-        "整った姿勢のまま一歩を踏み出す"
+        "ぬるめのお湯にゆっくりつかる",
+        "温かいノンカフェインの飲み物を",
+        "寝る前はスマホを置いて深呼吸",
+        "首や肩をやさしく回してほぐす",
+        "予定は詰めず、早めにおやすみ"
       ]
     },
     {
-      "title": "続けるための\n【小さなコツ】",
+      "title": "心がゆらいだ日の\n【やさしい言葉】",
       "numbered": false,
       "items": [
-        "「信号待ち」など合図を決めておく",
-        "駅の窓やガラスに映る姿で確認",
-        "完璧を目指さず、気づいたら直せばOK",
-        "バッグは左右で持ちかえる"
+        "「今はそういう時期」と知るだけで十分",
+        "イライラする自分を責めなくて大丈夫",
+        "身近な人に、そっと伝えてみる",
+        "つらさが続くときは婦人科にご相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "姿勢のお悩みも気軽に",
-    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
+    "lead": "ひとりで抱えないで",
+    "headline": "心もからだも\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with soft eucalyptus and fresh young green leaves placed only in the corners and along the left and right edges, thin gold lines and gentle sparkles, airy fresh morning light, calm and clean refined atmosphere, large bright empty light-colored space in the center for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient backdrop, delicate watercolor lavender sprigs, wisteria and lilac flowers arranged at the corners and along the left and right edges, a softly draped sheer lilac fabric, a warm cup of herbal tea and a small candle glowing gently in one corner, thin fine gold lines and subtle sparkles, calm relaxing nighttime self-care mood, the center left bright, airy and mostly empty with a light pale tone for overlaying a headline, refined, clean, gentle, not flashy, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261029-morning-1.jpg",
-    "posts/20261029-morning-2.jpg",
-    "posts/20261029-morning-3.jpg",
-    "posts/20261029-morning-4.jpg",
-    "posts/20261029-morning-5.jpg"
+    "posts/20261029-night-1.jpg",
+    "posts/20261029-night-2.jpg",
+    "posts/20261029-night-3.jpg",
+    "posts/20261029-night-4.jpg",
+    "posts/20261029-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18189293860409295",
-  "fb_post_id": "1411087672077869_122113657371506532"
+  "published": false
 }
