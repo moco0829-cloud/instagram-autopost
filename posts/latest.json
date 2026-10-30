@@ -1,49 +1,57 @@
 {
   "date": "2026-10-30",
-  "slot": "morning",
-  "theme": "ゆらぎ世代の朝のだるさをほどく",
-  "caption": "目覚ましが鳴っても、なかなか体が起きてくれない朝はありませんか？\n\n季節の変わり目や、ゆらぎ世代に入ると、\n「しっかり寝たはずなのに、朝からだるい」と感じる方は少なくありません。\nそれは、なまけているのではなく、からだががんばっているサインかもしれませんね。\n\nそんな朝におすすめなのが、お布団の中でできる「目覚めストレッチ」。\n深呼吸や手足のグーパーで、指先からゆっくりめぐらせていくと、\n起き上がるのがラクに感じる方も多いんです🌿\n\nさらに、お水を一杯飲む、光を感じるなど、\n今日からできる小さな工夫もまとめました。\n画像をスワイプしてご覧くださいね。\n\nなお、だるさが長く続くときは、ひとりでがまんせず婦人科などの医療機関にも相談してみてください。\n\nSalon de mocoでは、メディセルの筋膜ケアで、こわばったからだをやさしくゆるめ、めぐりを整えるお手伝いをしています。\n「なんとなく不調」も、話していいことです。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #更年期 #ゆらぎ世代 #朝習慣 #朝ストレッチ #セルフケア #めぐりケア #筋膜ケア #メディセル #大人女性のキレイ",
+  "slot": "night",
+  "theme": "寝る前のデリケートゾーン保湿習慣",
+  "caption": "お顔は毎晩保湿するのに、デリケートゾーンはそのまま…になっていませんか？\n\n秋から冬にかけては空気が乾燥し、デリケートゾーンもかさつきやすい季節です。\n年齢やホルモンのゆらぎによって、うるおいが少なくなったと感じる方も多いんですよ。\n\n「下着がこすれるとピリッとする」\n「なんとなくつっぱる」\n\nそんな小さな違和感は、からだからの大切なサイン。\n恥ずかしいことではなく、ケアしていいことなんです。\n\n今夜は、湯上がりにできるやさしい保湿の手順とポイントをまとめました。\n画像をスワイプして、保存してご覧くださいね🌙\n\nこすらず、手のひらで包むようになじませるだけ。\n1日の終わりに、自分をいたわる小さな時間にしてみてください。\n\nかゆみや痛みが続くときは、無理せず婦人科へご相談を。\n\nSalon de mocoでは、言いにくいお悩みもゆっくりお聞きしています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #デリケートゾーンケア #デリケートゾーン保湿 #乾燥対策 #ゆらぎ世代 #更年期 #自分をいたわる #夜のセルフケア #メディセル #Medicell #SalondeMoco",
   "cover": {
-    "lead": "金曜の朝に、ひと呼吸",
-    "headline": "朝の【だるさ】、\nがまんして\nいませんか？"
+    "lead": "秋冬の夜こそ",
+    "headline": "顔と同じように\n【うるおい】を\nあげていますか？"
   },
   "slides": [
     {
-      "title": "お布団の中で\n【目覚めストレッチ】",
-      "numbered": true,
+      "title": "こんなこと\n感じていませんか？",
+      "numbered": false,
       "items": [
-        "仰向けのまま、ゆっくり深呼吸を3回",
-        "手足をグーパーして、指先からめぐらせる",
-        "両ひざを抱えて、腰をやさしく左右にゆらす",
-        "両腕を頭の上へ伸ばし、全身で大きく伸び",
-        "横向きになってから、ゆっくり起き上がる"
+        "下着がこすれるとピリッとする",
+        "なんとなくつっぱる感じがする",
+        "秋冬になるとかゆみが気になる",
+        "年齢とともにかさつきを感じる"
       ]
     },
     {
-      "title": "朝をラクにする\n【小さな工夫】",
+      "title": "寝る前の\n【やさしい保湿】手順",
+      "numbered": true,
+      "items": [
+        "湯上がり、肌がやわらかいうちに",
+        "まずは手を清潔にしてから",
+        "専用の保湿アイテムを少量とる",
+        "こすらず手のひらで包むようになじませる",
+        "通気性のよい下着でおやすみ"
+      ]
+    },
+    {
+      "title": "続けるための\nポイント",
       "numbered": false,
       "items": [
-        "起きたら常温のお水をコップ1杯",
-        "カーテンを開けて、朝の光を感じる",
-        "首元をあたためて、冷えをためない",
-        "「今日も起きられたね」と自分をほめる",
-        "だるさが長く続くときは婦人科にも相談を"
+        "お顔と同じ「保湿していい場所」です",
+        "香りや刺激の少ないものを選ぶ",
+        "合わないと感じたら使用を控える",
+        "かゆみが続くときは婦人科へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "がんばる毎日に寄り添って",
-    "headline": "からだの声、\n【お聞かせ】\nくださいね"
+    "lead": "話していいことです",
+    "headline": "ひとりで\n悩まずに\n【ご相談】ください"
   },
-  "image_prompt": "Soft pale pastel green to mint background, watercolor style illustration with delicate white chamomile and lily of the valley flowers and fresh eucalyptus and tender young green leaves arranged only at the corners and left and right edges, gentle morning sunlight feeling, a softly draped white linen blanket hint at the bottom corner, thin elegant gold lines and subtle sparkles, refreshing, clean, elegant and feminine design for adult women, large bright empty pale area in the center for overlaying text, calm and airy composition, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, a soft folded silk cloth and a small glass bottle of moisturizing oil as subtle motifs near the edge, delicate thin gold lines and gentle sparkles, calm relaxing nighttime self-care atmosphere, clean and graceful, the center left bright, airy and empty with plenty of soft pale space for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261030-morning-1.jpg",
-    "posts/20261030-morning-2.jpg",
-    "posts/20261030-morning-3.jpg",
-    "posts/20261030-morning-4.jpg"
+    "posts/20261030-night-1.jpg",
+    "posts/20261030-night-2.jpg",
+    "posts/20261030-night-3.jpg",
+    "posts/20261030-night-4.jpg",
+    "posts/20261030-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18385481680237553",
-  "fb_post_id": "1411087672077869_122114085555506532"
+  "published": false
 }
