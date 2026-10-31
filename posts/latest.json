@@ -1,58 +1,47 @@
 {
-  "date": "2026-10-31",
-  "slot": "night",
-  "theme": "肋骨まわりをほどく深呼吸の夜",
-  "caption": "気づけば、呼吸が浅くなっていませんか？\n\n10月最後の夜ですね。\n1か月、本当におつかれさまでした。\n\n忙しい日が続くと、知らないうちに肩に力が入り、\n肋骨まわりがかたくなって、呼吸が浅くなりがちです。\n「ため息が増えた」「肩や首がずっと重い」と感じる方も多いんですよ。\n\nそんな夜におすすめしたいのが、寝る前の肋骨ほぐし。\n仰向けで手を肋骨に添えて、ゆっくり呼吸するだけのやさしいケアです。\n胸まわりがふわっとゆるんで、気持ちまで落ち着くのを感じる方も多いです。\n\nやり方とポイントを画像にまとめました。\nスワイプしてご覧くださいね。\n保存しておくと、眠る前に見返せますよ。\n\nサロンでは、メディセル（Medicell）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアを行っています。\n肩や背中の重さなど、言葉にしにくいつらさも大丈夫です。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #メディセル #Medicell #筋膜ケア #深呼吸 #肩こりケア #夜のセルフケア #自分をいたわる時間 #ゆらぎ世代 #大人女性のケア #SalondeMoco",
+  "date": "2026-11-01",
+  "slot": "morning",
+  "theme": "布団の中でできる寝起きの腰ほぐし",
+  "caption": "目覚めたとき、腰や背中がこわばって起き上がるのがつらい朝はありませんか？\n\n寒さが増す11月は、眠っている間にからだが縮こまりやすい季節。\n朝の腰の重さを感じる方も多いんです。\nそれは、あなただけではありませんよ。\n\n今日は日曜日。\nいつもより少しだけゆっくり、お布団の中でからだをほどいてみませんか🌿\n\n起き上がる前に、仰向けのまま深呼吸をして、ひざを抱えてゆらゆら。\nたったそれだけでも、からだがふっと軽く感じられることがあります。\n\nやり方は画像をスワイプしてご覧くださいね。\n保存しておくと、明日の朝にもすぐ見返せます。\n\n痛みを感じるときは無理をせず、気持ちいい範囲で大丈夫です。\nつらい痛みが続く場合は、医療機関にご相談くださいね。\n\nSalon de mocoでは、Medicell（メディセル）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアを行っています。\n腰の重さに、すっきり感を感じる方も多いですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #腰の重さ #朝ストレッチ #寝起きストレッチ #セルフケア #メディセル #筋膜ケア #冷え対策 #大人女子 #Salondemoco",
   "cover": {
-    "lead": "1日の終わりに",
-    "headline": "その肩の重さ、\n【呼吸】から\nほどきませんか"
+    "lead": "お布団の中で1分ケア",
+    "headline": "朝起きたら\n【腰が重い】\nそんな日は"
   },
   "slides": [
     {
-      "title": "こんなサイン\nありませんか？",
-      "numbered": false,
-      "items": [
-        "ため息が増えた気がする",
-        "肩や首がいつも重く感じる",
-        "夕方になると胸まわりが窮屈",
-        "考えごとをすると呼吸を忘れがち"
-      ]
-    },
-    {
-      "title": "寝る前の\n【肋骨ほぐし】",
+      "title": "起き上がる前に\n【寝起きの腰ほぐし】",
       "numbered": true,
       "items": [
-        "仰向けで膝を立て、両手を肋骨の横に添える",
-        "鼻から吸い、手を押し返すように横へ広げる",
-        "口から細く長く吐き、肋骨がしぼむのを感じる",
-        "心地よい範囲で、5回ほどくり返す"
+        "仰向けのまま、ゆっくり深呼吸を3回",
+        "両ひざを抱えて、左右にゆらゆら10秒",
+        "ひざを立てて、左右にゆっくり倒す",
+        "両手両足をぐーっと伸ばして脱力",
+        "横向きになってから、ゆっくり起き上がる"
       ]
     },
     {
       "title": "心地よく続ける\n【ポイント】",
       "numbered": false,
       "items": [
-        "痛みを感じたら無理せずお休み",
-        "食後すぐは避け、少し時間をあけて",
-        "照明を落とし、スマホは遠くに置いて",
-        "つらさが続くときは医療機関にも相談を"
+        "痛みを感じたら無理をせずお休みを",
+        "呼吸を止めず、吐きながら動かす",
+        "反動をつけず、ゆっくり動かす",
+        "お部屋を少し温めておくとより心地よく",
+        "つらい痛みが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "がんばった今日の自分へ",
-    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
+    "lead": "ひとりで抱えないで",
+    "headline": "からだの声、\nいつでも\n【ご相談】ください"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, delicate thin gold lines and soft sparkles, a sheer flowing lilac fabric suggesting a calm deep breath, relaxing nighttime atmosphere, calm and clean, the center kept bright, pale and mostly empty for overlaying a headline, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft watercolor background in pale pastel green to mint, with delicate white chamomile and lily of the valley flowers and soft eucalyptus and fresh young green leaves placed only at the corners and left and right edges, a cozy morning feeling with a hint of soft white linen bedding and gentle morning sunlight, thin elegant gold lines and subtle sparkles, fresh, refined, feminine design for adult women, the center left bright, airy and mostly empty with very light color for overlaying text, no people's bodies shown, no text, no letters, no logos, no numbers",
+  "palette": "morning",
   "images": [
-    "posts/20261031-night-1.jpg",
-    "posts/20261031-night-2.jpg",
-    "posts/20261031-night-3.jpg",
-    "posts/20261031-night-4.jpg",
-    "posts/20261031-night-5.jpg"
+    "posts/20261101-morning-1.jpg",
+    "posts/20261101-morning-2.jpg",
+    "posts/20261101-morning-3.jpg",
+    "posts/20261101-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "17945194431383023",
-  "fb_post_id": "1411087672077869_122114637087506532"
+  "published": false
 }
