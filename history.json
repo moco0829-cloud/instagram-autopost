@@ -797,5 +797,19 @@
     ],
     "media_id": "18349546291270359",
     "fb_post_id": "1411087672077869_122115020271506532"
+  },
+  {
+    "date": "2026-11-02",
+    "slot": "morning",
+    "theme": "冬支度の朝、3つの首を温める習慣",
+    "images": [
+      "posts/20261102-morning-1.jpg",
+      "posts/20261102-morning-2.jpg",
+      "posts/20261102-morning-3.jpg",
+      "posts/20261102-morning-4.jpg",
+      "posts/20261102-morning-5.jpg"
+    ],
+    "media_id": "18112283108211743",
+    "fb_post_id": "1411087672077869_122115300435506532"
   }
 ]
