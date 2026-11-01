@@ -1,49 +1,56 @@
 {
   "date": "2026-11-01",
-  "slot": "morning",
-  "theme": "布団の中でできる寝起きの腰ほぐし",
-  "caption": "目覚めたとき、腰や背中がこわばって起き上がるのがつらい朝はありませんか？\n\n寒さが増す11月は、眠っている間にからだが縮こまりやすい季節。\n朝の腰の重さを感じる方も多いんです。\nそれは、あなただけではありませんよ。\n\n今日は日曜日。\nいつもより少しだけゆっくり、お布団の中でからだをほどいてみませんか🌿\n\n起き上がる前に、仰向けのまま深呼吸をして、ひざを抱えてゆらゆら。\nたったそれだけでも、からだがふっと軽く感じられることがあります。\n\nやり方は画像をスワイプしてご覧くださいね。\n保存しておくと、明日の朝にもすぐ見返せます。\n\n痛みを感じるときは無理をせず、気持ちいい範囲で大丈夫です。\nつらい痛みが続く場合は、医療機関にご相談くださいね。\n\nSalon de mocoでは、Medicell（メディセル）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアを行っています。\n腰の重さに、すっきり感を感じる方も多いですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #腰の重さ #朝ストレッチ #寝起きストレッチ #セルフケア #メディセル #筋膜ケア #冷え対策 #大人女子 #Salondemoco",
+  "slot": "night",
+  "theme": "ゆらぎ世代の眠りが浅い夜に",
+  "caption": "夜中にふと目が覚めて、そのまま眠れない…そんな夜はありませんか？\n\n40代、50代になって「なんだか眠りが浅くなった」と感じる女性は、実はとても多いんです。\n女性ホルモンのゆらぎ、ほてりや汗、心配ごと、肩や首のこわばり。\n眠りにはいろいろなことが関わっています。\n\n「年齢のせいだから仕方ない」と、がまんしなくて大丈夫ですよ。\n寝る前に少しだけからだと心をゆるめる時間をつくるだけでも、ほっと落ち着く方も多いです。\n\n今夜からできる小さな習慣と、夜中に目が覚めたときの過ごし方をまとめました。\n画像をスワイプしてご覧くださいね。\n\n当サロンのメディセル（Medicell）の筋膜ケアでも、首や肩のこわばりがゆるんで「ぐっすり眠れた気がする」と感じる方も。\nつらい状態が続くときは、婦人科などの医療機関にも相談してみてくださいね。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #フェムケア #更年期 #ゆらぎ世代 #睡眠の悩み #眠りの質 #夜のセルフケア #自分をいたわる時間 #メディセル #筋膜ケア #Medicell #大人女子の美容 #千葉サロン",
   "cover": {
-    "lead": "お布団の中で1分ケア",
-    "headline": "朝起きたら\n【腰が重い】\nそんな日は"
+    "lead": "ゆらぎ世代のあなたへ",
+    "headline": "なんだか\n【眠りが浅い】\nそんな夜に"
   },
   "slides": [
     {
-      "title": "起き上がる前に\n【寝起きの腰ほぐし】",
-      "numbered": true,
+      "title": "眠りが浅くなる\n【理由】を知ろう",
+      "numbered": false,
       "items": [
-        "仰向けのまま、ゆっくり深呼吸を3回",
-        "両ひざを抱えて、左右にゆらゆら10秒",
-        "ひざを立てて、左右にゆっくり倒す",
-        "両手両足をぐーっと伸ばして脱力",
-        "横向きになってから、ゆっくり起き上がる"
+        "女性ホルモンのゆらぎが眠りに影響することも",
+        "ほてりや汗で夜中に目覚めやすくなる方も",
+        "心配ごとで頭が冴えてしまうことも",
+        "肩や首のこわばりで休まりにくいことも"
       ]
     },
     {
-      "title": "心地よく続ける\n【ポイント】",
+      "title": "寝る前の\n【ゆるめる習慣】",
+      "numbered": true,
+      "items": [
+        "寝る少し前に、ぬるめのお湯でひと息",
+        "照明を落として、スマホは早めにおやすみ",
+        "首と肩をゆっくり回して、こわばりをほどく",
+        "吸う息より長く吐く呼吸を、ゆっくりくり返す"
+      ]
+    },
+    {
+      "title": "目が覚めても\n【大丈夫】",
       "numbered": false,
       "items": [
-        "痛みを感じたら無理をせずお休みを",
-        "呼吸を止めず、吐きながら動かす",
-        "反動をつけず、ゆっくり動かす",
-        "お部屋を少し温めておくとより心地よく",
-        "つらい痛みが続くときは医療機関へ"
+        "時計は見ずに、目を閉じて深呼吸",
+        "眠れなくても、横になるだけで休息に",
+        "寝室は少し涼しめ、綿のパジャマで汗対策",
+        "つらい状態が続くときは婦人科へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "からだの声、\nいつでも\n【ご相談】ください"
+    "lead": "今夜はゆっくり休んでね",
+    "headline": "ひとりで\n抱えず\n【ご相談】ください"
   },
-  "image_prompt": "Soft watercolor background in pale pastel green to mint, with delicate white chamomile and lily of the valley flowers and soft eucalyptus and fresh young green leaves placed only at the corners and left and right edges, a cozy morning feeling with a hint of soft white linen bedding and gentle morning sunlight, thin elegant gold lines and subtle sparkles, fresh, refined, feminine design for adult women, the center left bright, airy and mostly empty with very light color for overlaying text, no people's bodies shown, no text, no letters, no logos, no numbers",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, a soft silk fabric and a faint crescent moon glow suggesting a calm restful night, thin delicate gold lines and gentle sparkles, the center left bright, airy and mostly empty in a very light pastel tone for overlaying text, refined, clean and calm atmosphere, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261101-morning-1.jpg",
-    "posts/20261101-morning-2.jpg",
-    "posts/20261101-morning-3.jpg",
-    "posts/20261101-morning-4.jpg"
+    "posts/20261101-night-1.jpg",
+    "posts/20261101-night-2.jpg",
+    "posts/20261101-night-3.jpg",
+    "posts/20261101-night-4.jpg",
+    "posts/20261101-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18099019502411613",
-  "fb_post_id": "1411087672077869_122114869293506532"
+  "published": false
 }
