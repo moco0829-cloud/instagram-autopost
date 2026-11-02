@@ -825,5 +825,19 @@
     ],
     "media_id": "17896897413612624",
     "fb_post_id": "1411087672077869_122115450813506532"
+  },
+  {
+    "date": "2026-11-03",
+    "slot": "morning",
+    "theme": "冷えの季節、朝の足首まわし習慣",
+    "images": [
+      "posts/20261103-morning-1.jpg",
+      "posts/20261103-morning-2.jpg",
+      "posts/20261103-morning-3.jpg",
+      "posts/20261103-morning-4.jpg",
+      "posts/20261103-morning-5.jpg"
+    ],
+    "media_id": "17914155753512045",
+    "fb_post_id": "1411087672077869_122115706239506532"
   }
 ]
