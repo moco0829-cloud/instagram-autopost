@@ -1,59 +1,56 @@
 {
   "date": "2026-11-03",
-  "slot": "morning",
-  "theme": "冷えの季節、朝の足首まわし習慣",
-  "caption": "朝、布団から出た足先がひんやり…そんな季節になりましたね。\n\n今日は文化の日。ゆっくり過ごせる朝にこそ始めてほしい、「足首まわし」をご紹介します。\n\n足首は、からだの中でも冷えを感じやすい場所のひとつ。\nくるくるとやさしく動かすことで、足先までぽかぽかとめぐりを感じる方も多いんです。\n\nむくみやすい方、生理前に腰やおなかが重くなりやすい方にも、気軽に取り入れていただけますよ。\n\n椅子に座ったままでも、歯みがきの前後でも大丈夫。\n画像をスワイプして、やり方とコツをご覧くださいね。\n\n「冷えくらい…」とがまんしがちですが、からだからの大切なサインです。\nサロンでは、Medicell（メディセル）で脚まわりのこわばりをやさしくゆるめるケアも行っています。\n\n冷えやむくみのお悩みも、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #冷え対策 #足首まわし #朝習慣 #セルフケア #めぐり習慣 #むくみケア #メディセル #筋膜ケア #大人女子のからだケア #SalondeMoco",
+  "slot": "night",
+  "theme": "寒い日の肩のこわばりを夜にほどく",
+  "caption": "「なんだか今日、肩が重いな…」と感じていませんか？\n\n寒くなってくると、無意識に首をすくめたり、からだを縮めたりしがちですよね。\nそのぶん肩まわりに力が入り、夜にはガチガチ…という方も多いんです。\n\nそれは、毎日がんばっている証。\n決してあなただけではありませんよ。\n\n今夜は、お風呂上がりのからだが温まっているタイミングで、\nやさしく肩をほどいてあげましょう。\n肩をすくめてストンと落とす、ゆっくり回す。\nそれだけでも、ふっと軽く感じる方も多いです。\n\nやり方と、眠る前のひと工夫を画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、こわばりを感じた夜にすぐ見返せます。\n\nSalon de mocoでは、メディセル（Medicell）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアをしています。\nなお、痛みやしびれが続くときは、無理せず医療機関にご相談くださいね。\n\n肩のつらさも、ひとりで抱えず、お気軽にDMでご相談ください🌙\n\n#成田市 #成田サロン #フェムケア #肩こり #肩こりケア #冷え対策 #夜のセルフケア #筋膜ケア #メディセル #Medicell #ゆらぎ世代 #自分をいたわる時間 #SalondeMoco",
   "cover": {
-    "lead": "今日から始める朝習慣",
-    "headline": "足先の【冷え】、\n朝から\n感じていませんか？"
+    "lead": "今夜はゆっくり、自分時間",
+    "headline": "寒い日の\n【肩のこわばり】\n今夜ほどきましょう"
   },
   "slides": [
     {
-      "title": "座ったままできる\n【足首まわし】",
+      "title": "寒い日に肩がこる\nのはなぜ？",
+      "numbered": false,
+      "items": [
+        "寒さで首や肩に力が入りやすい",
+        "からだを縮める姿勢がクセになりがち",
+        "冷えでめぐりが滞りやすくなる",
+        "スマホやPCで同じ姿勢が続きがち"
+      ]
+    },
+    {
+      "title": "お風呂上がりの\n【肩ほどき】ステップ",
       "numbered": true,
       "items": [
-        "椅子に浅く座り、片足を反対のひざにのせる",
-        "足の指に手の指をからめて、やさしく握る",
-        "足首を外まわしにゆっくり10回まわす",
-        "内まわしも10回。反対の足も同じように",
-        "最後に足先をさすって、ぬくもりを感じて"
+        "首の後ろに温かいタオルを当てて深呼吸",
+        "両肩をすくめて、ストンと力を抜く",
+        "肩をゆっくり後ろへ大きく回す",
+        "胸の前で手を組み、背中を丸めて伸ばす"
       ]
     },
     {
-      "title": "心地よく続ける\n【3つのコツ】",
+      "title": "眠る前の\n【ゆるめる】ひと工夫",
       "numbered": false,
       "items": [
-        "痛みのない範囲で、小さな円からでOK",
-        "呼吸を止めず、ゆったり吐きながら",
-        "朝の1回だけでも、毎日続けることが大切",
-        "つらい痛みやしびれがあれば無理せずお休みを"
-      ]
-    },
-    {
-      "title": "足首を冷やさない\n【朝のひと工夫】",
-      "numbered": false,
-      "items": [
-        "起きたらまず、靴下やルームソックスを",
-        "家事の間はレッグウォーマーでくるぶしを包む",
-        "白湯を一杯、内側からもぽかぽかに",
-        "くるぶしが出る服の日は、足元に一枚プラス"
+        "首元はタオルなどで冷やさないように",
+        "枕の高さを見直して首をラクに",
+        "温かい飲み物でほっとひと息",
+        "痛みやしびれが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "冷えはがまんしないで",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "がんばった肩に、ありがとう",
+    "headline": "ひとりで抱えず\n【お気軽に】\nご相談くださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint color backdrop, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, a cozy knitted cream wool sock and soft fabric subtly placed at the bottom corner, warm gentle morning sunlight, thin gold line accents and subtle sparkles, fresh, clean and refined atmosphere, large bright empty light-colored space in the center for text overlay, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender, wisteria and lilac flowers arranged in the four corners and along the left and right edges, a soft folded light knit shawl and a warm cup of herbal tea subtly placed at the bottom corner, thin delicate gold lines and gentle sparkles, calm relaxing evening atmosphere, clean and refined, the center left bright, airy and mostly empty with plenty of pale space for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261103-morning-1.jpg",
-    "posts/20261103-morning-2.jpg",
-    "posts/20261103-morning-3.jpg",
-    "posts/20261103-morning-4.jpg",
-    "posts/20261103-morning-5.jpg"
+    "posts/20261103-night-1.jpg",
+    "posts/20261103-night-2.jpg",
+    "posts/20261103-night-3.jpg",
+    "posts/20261103-night-4.jpg",
+    "posts/20261103-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17914155753512045",
-  "fb_post_id": "1411087672077869_122115706239506532"
+  "published": false
 }
