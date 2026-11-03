@@ -853,5 +853,19 @@
     ],
     "media_id": "18141253492715540",
     "fb_post_id": "1411087672077869_122115862041506532"
+  },
+  {
+    "date": "2026-11-04",
+    "slot": "morning",
+    "theme": "生理前の朝、予定に余白をつくる習慣",
+    "images": [
+      "posts/20261104-morning-1.jpg",
+      "posts/20261104-morning-2.jpg",
+      "posts/20261104-morning-3.jpg",
+      "posts/20261104-morning-4.jpg",
+      "posts/20261104-morning-5.jpg"
+    ],
+    "media_id": "18016468685987631",
+    "fb_post_id": "1411087672077869_122116112985506532"
   }
 ]
