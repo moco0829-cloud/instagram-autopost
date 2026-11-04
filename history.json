@@ -867,5 +867,19 @@
     ],
     "media_id": "18016468685987631",
     "fb_post_id": "1411087672077869_122116112985506532"
+  },
+  {
+    "date": "2026-11-05",
+    "slot": "morning",
+    "theme": "乾燥の季節、朝のこまめな水分補給",
+    "images": [
+      "posts/20261105-morning-1.jpg",
+      "posts/20261105-morning-2.jpg",
+      "posts/20261105-morning-3.jpg",
+      "posts/20261105-morning-4.jpg",
+      "posts/20261105-morning-5.jpg"
+    ],
+    "media_id": "18174502177489682",
+    "fb_post_id": "1411087672077869_122116482015506532"
   }
 ]
