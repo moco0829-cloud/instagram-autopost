@@ -1,45 +1,56 @@
 {
   "date": "2026-11-05",
   "slot": "morning",
-  "theme": "乾燥の季節、朝の白湯でうるおい習慣",
-  "caption": "朝いちばんの一杯、何を飲んでいますか？\n\n空気が乾きはじめる11月。\n肌のつっぱりや、からだの冷えを感じる朝が増えてきましたね。\n\nそんな季節におすすめしたいのが「朝の白湯」です。\nお湯をゆっくり飲むだけで、内側からほっと温まり、すっきり目覚める感覚を味わう方も多いんですよ。\n\n特別な道具はいりません。\nいつものケトルと、お気に入りのマグカップがあれば大丈夫です。\n\n大切なのは、がんばりすぎないこと。\n一気に飲まず、ひと口ずつ味わうように。\n深呼吸しながら飲めば、朝のちょっとしたセルフケア時間になります。\n\n作り方と続けるコツを画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、明日の朝に見返せて便利です。\n\n内側からのうるおいは、外側のキレイにもつながっていきます。\nからだのめぐりや冷えが気になる方は、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #白湯習慣 #朝活 #内側からキレイ #乾燥対策 #冷え対策 #温活 #セルフケア #大人女子 #メディセル #SalondeMoco",
+  "theme": "乾燥の季節、朝のこまめな水分補給",
+  "caption": "「なんだか最近、肌も唇もカサカサ…」そんな朝はありませんか？\n\n空気が乾き、暖房を使い始めるこの季節。\n気づかないうちに、からだの水分が不足しがちになります。\n\n肌のつっぱりやのどの渇きだけでなく、\nデリケートな部分のムズムズや乾燥が気になる方も、実は少なくありません。\n人には言いにくいけれど、「私だけかな」と悩まなくて大丈夫ですよ。\n\n今日からできるのは、朝の「ひと口」から始めるうるおい習慣。\n起きてすぐの白湯や、こまめな水分補給は、内側からのめぐりを支えるやさしいケアです🌿\n\nチェックリストと朝の3ステップ、続けるコツを画像にまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、忘れた日の目安にもなります。\n\nかゆみやつらさが続くときは、ひとりで我慢せず婦人科にも相談してみてくださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアでめぐりを整えるお手伝いをしています。\nからだの乾燥や冷えのこと、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #乾燥対策 #白湯習慣 #朝習慣 #水分補給 #内側からキレイ #デリケートゾーンケア #ゆらぎ世代 #メディセル #Medicell #セルフケア",
   "cover": {
     "lead": "乾燥が気になる季節に",
-    "headline": "朝いちばんの\n【白湯】で\nうるおう私へ"
+    "headline": "朝の【ひと口】で\nうるおう\nからだへ"
   },
   "slides": [
     {
-      "title": "朝の【白湯】\nかんたんな飲み方",
-      "numbered": true,
+      "title": "冬は【かくれ乾燥】に\nご用心",
+      "numbered": false,
       "items": [
-        "お湯を沸かし、少し冷まして飲みやすい温度に",
-        "マグカップ1杯を目安に用意する",
-        "深呼吸してから、ひと口ずつゆっくり飲む",
-        "10分ほどかけて、ぬくもりを味わう"
+        "肌や唇のカサつきが気になる",
+        "のどが渇いてから水を飲んでいる",
+        "暖房の効いた部屋で長く過ごす",
+        "デリケートゾーンの乾燥が気になる",
+        "トイレが心配で飲む量を控えがち"
       ]
     },
     {
-      "title": "無理なく続ける\n【小さなコツ】",
+      "title": "朝の【うるおい習慣】\n3ステップ",
+      "numbered": true,
+      "items": [
+        "起きたらコップ1杯の白湯をゆっくり",
+        "マイボトルを持って家を出る",
+        "家事や仕事の区切りにひと口"
+      ]
+    },
+    {
+      "title": "続けるための\n【ちょっとしたコツ】",
       "numbered": false,
       "items": [
-        "熱すぎない温度で、やけどに気をつけて",
-        "飲みきれない日は半分でも大丈夫",
-        "お気に入りのカップで気分を上げる",
-        "窓辺で朝日を感じながら飲むのもおすすめ"
+        "冷たいものより常温や温かい飲み物を",
+        "一度にたくさんより、こまめに少しずつ",
+        "カフェインの多い飲み物はほどほどに",
+        "汁物や果物でも水分はとれます"
       ]
     }
   ],
   "closing": {
-    "lead": "内側から、やさしく",
-    "headline": "気になることは\nお気軽に\n【ご相談】ください"
+    "lead": "ひとりで抱えないで",
+    "headline": "乾燥の悩みも\n【お気軽に】\nご相談を"
   },
-  "image_prompt": "Elegant feminine watercolor background with a soft pale pastel green to mint color base. A delicate white ceramic cup of warm water with gentle steam placed at the lower right corner, surrounded by white chamomile flowers, lily of the valley, eucalyptus leaves and soft fresh young green leaves arranged along the left and right edges and corners. Thin gold lines and subtle sparkles, morning sunlight softly glowing. The center is bright, airy and mostly empty with a light pale color for overlaying text. Refreshing, clean, calm, sophisticated design for adult women. No people's bodies, no text, no letters, no numbers, no logos.",
+  "image_prompt": "Elegant feminine watercolor background for a morning wellness post about hydration, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, a clear glass cup of warm water with gentle steam and soft morning light placed at the lower corner, thin gold lines and subtle sparkles, airy and clean, refreshing and graceful mood for adult women, large bright empty space in the center for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
   "palette": "morning",
   "images": [
     "posts/20261105-morning-1.jpg",
     "posts/20261105-morning-2.jpg",
     "posts/20261105-morning-3.jpg",
-    "posts/20261105-morning-4.jpg"
+    "posts/20261105-morning-4.jpg",
+    "posts/20261105-morning-5.jpg"
   ],
   "published": false
 }
