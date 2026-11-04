@@ -1,59 +1,45 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "slot": "morning",
-  "theme": "生理前の朝、予定に余白をつくる習慣",
-  "caption": "生理前の朝、なんだか気持ちが追いつかない…そんな日はありませんか？\n\n生理前は、ホルモンのゆらぎで心もからだも揺れやすい時期。\nいつも通りにこなせないのは、あなたががんばれていないからではありません。大丈夫ですよ。\n\nそんな時期こそおすすめしたいのが、朝のうちに「予定に余白をつくる」小さな習慣です。\n・今日やることを3つにしぼる\n・人と会う予定は少しゆとりを持たせる\n・「できなくてもOK」を自分に許す\n\nほんの少し手放すだけで、気持ちがふっと軽くなる方も多いんですよ🌿\n\n生理前のサインのチェックリストと、朝にできる余白づくりの手順を画像にまとめました。スワイプしてご覧くださいね。保存しておくと、ゆらぎの時期に見返せます。\n\nつらさが強い、毎月日常生活に支障がある…という場合は、婦人科への相談も心強い選択肢です。\n\nSalon de mocoでは、メディセルでめぐりを整え、からだをゆるめる時間をご用意しています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #PMS #生理前 #ゆらぎケア #セルフケア #朝習慣 #メディセル #筋膜ケア #女性の悩み #自分を大切に",
+  "theme": "乾燥の季節、朝の白湯でうるおい習慣",
+  "caption": "朝いちばんの一杯、何を飲んでいますか？\n\n空気が乾きはじめる11月。\n肌のつっぱりや、からだの冷えを感じる朝が増えてきましたね。\n\nそんな季節におすすめしたいのが「朝の白湯」です。\nお湯をゆっくり飲むだけで、内側からほっと温まり、すっきり目覚める感覚を味わう方も多いんですよ。\n\n特別な道具はいりません。\nいつものケトルと、お気に入りのマグカップがあれば大丈夫です。\n\n大切なのは、がんばりすぎないこと。\n一気に飲まず、ひと口ずつ味わうように。\n深呼吸しながら飲めば、朝のちょっとしたセルフケア時間になります。\n\n作り方と続けるコツを画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、明日の朝に見返せて便利です。\n\n内側からのうるおいは、外側のキレイにもつながっていきます。\nからだのめぐりや冷えが気になる方は、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #白湯習慣 #朝活 #内側からキレイ #乾燥対策 #冷え対策 #温活 #セルフケア #大人女子 #メディセル #SalondeMoco",
   "cover": {
-    "lead": "今日からできる朝のひと工夫",
-    "headline": "生理前の朝は\n【予定に余白】\nつくりませんか？"
+    "lead": "乾燥が気になる季節に",
+    "headline": "朝いちばんの\n【白湯】で\nうるおう私へ"
   },
   "slides": [
     {
-      "title": "こんなサイン\n【感じていませんか？】",
-      "numbered": false,
-      "items": [
-        "朝からなんとなく気分が重い",
-        "いつもより疲れやすい",
-        "小さなことが気になりやすい",
-        "眠気やだるさが抜けにくい",
-        "生理前のよくあるサイン。あなただけではありません"
-      ]
-    },
-    {
-      "title": "朝にできる\n【余白づくり】3ステップ",
+      "title": "朝の【白湯】\nかんたんな飲み方",
       "numbered": true,
       "items": [
-        "深呼吸をして、今の気分を確かめる",
-        "今日やることを3つにしぼる",
-        "予定と予定の間に15分のゆとりを",
-        "「できなくてもOK」と自分に声をかける"
+        "お湯を沸かし、少し冷まして飲みやすい温度に",
+        "マグカップ1杯を目安に用意する",
+        "深呼吸してから、ひと口ずつゆっくり飲む",
+        "10分ほどかけて、ぬくもりを味わう"
       ]
     },
     {
-      "title": "余白の時間は\n【自分のため】に",
+      "title": "無理なく続ける\n【小さなコツ】",
       "numbered": false,
       "items": [
-        "温かい飲みものをゆっくり味わう",
-        "肩や首をやさしく回してほぐす",
-        "好きな香りでひと息つく",
-        "つらさが続くときは婦人科にも相談を"
+        "熱すぎない温度で、やけどに気をつけて",
+        "飲みきれない日は半分でも大丈夫",
+        "お気に入りのカップで気分を上げる",
+        "窓辺で朝日を感じながら飲むのもおすすめ"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "ゆらぐ日も\n【あなたらしく】\nいられますように"
+    "lead": "内側から、やさしく",
+    "headline": "気になることは\nお気軽に\n【ご相談】ください"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, delicate white chamomile and lily of the valley flowers with soft eucalyptus leaves and fresh young green leaves arranged at the four corners and left and right edges, a steaming cup of herbal tea and a soft linen cloth in a corner, gentle morning light, thin elegant gold lines and subtle sparkles, fresh, calm, elegant and feminine design for adult women, center left bright and empty with lots of pale negative space for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine watercolor background with a soft pale pastel green to mint color base. A delicate white ceramic cup of warm water with gentle steam placed at the lower right corner, surrounded by white chamomile flowers, lily of the valley, eucalyptus leaves and soft fresh young green leaves arranged along the left and right edges and corners. Thin gold lines and subtle sparkles, morning sunlight softly glowing. The center is bright, airy and mostly empty with a light pale color for overlaying text. Refreshing, clean, calm, sophisticated design for adult women. No people's bodies, no text, no letters, no numbers, no logos.",
   "palette": "morning",
   "images": [
-    "posts/20261104-morning-1.jpg",
-    "posts/20261104-morning-2.jpg",
-    "posts/20261104-morning-3.jpg",
-    "posts/20261104-morning-4.jpg",
-    "posts/20261104-morning-5.jpg"
+    "posts/20261105-morning-1.jpg",
+    "posts/20261105-morning-2.jpg",
+    "posts/20261105-morning-3.jpg",
+    "posts/20261105-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "18016468685987631",
-  "fb_post_id": "1411087672077869_122116112985506532"
+  "published": false
 }
