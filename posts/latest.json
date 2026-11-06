@@ -1,50 +1,49 @@
 {
   "date": "2026-11-07",
   "slot": "morning",
-  "theme": "朝の顔のむくみをほどく1分習慣",
-  "caption": "鏡を見て「あれ、なんだか顔が重たい…」と感じる朝、ありませんか？\n\n朝の顔のむくみは、寝ている間に首やフェイスラインまわりのめぐりがゆっくりになることで、感じやすくなるといわれています。\n実は多くの女性が経験していること。ご自分を責めなくて大丈夫ですよ。\n\n今日は、身支度の合間にできる「朝1分のやさしいほぐし」をまとめました。\nポイントは、強くこすらず、指の腹でなでるように。\n鎖骨から首、耳まわり、フェイスラインへと順番にほぐすと、すっきり感じる方も多いんです🌿\n\nむくみにくい日々の小さな習慣もご紹介していますので、画像をスワイプしてご覧くださいね。\n保存しておくと、明日の朝にも見返せます。\n\nなお、むくみが長く続く、急にひどくなったなど気になる場合は、無理をせず医療機関にご相談ください。\n\nサロンでは、Medicell（メディセル）で首やデコルテまわりの筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #むくみケア #顔のむくみ #朝習慣 #セルフケア #めぐりケア #メディセル #筋膜ケア #大人の美容 #千葉サロン",
+  "theme": "立冬の朝、表情をほぐす笑顔習慣",
+  "caption": "寒い朝、鏡の中の自分の顔、少しこわばって見えませんか？\n\n今日は立冬。暦の上では冬の始まりです。\n寒さで肩や首がすくむと、顔まわりにも力が入りやすくなります。\n「なんだか疲れて見える」「笑顔がぎこちない」と感じるのは、あなただけではありませんよ。\n\nそこで今朝は、洗顔やスキンケアのついでにできる「1分の表情ほぐし」をご紹介します。\n手のひらで頬を包んで温めるだけでも、ふっと顔がゆるむのを感じる方も多いんです。\n\nやり方とチェックポイントは、画像をスワイプしてご覧くださいね。保存しておくと、明日の朝も見返せます🌿\n\n力を入れすぎず「気持ちいい」と感じるくらいが目安です。\n\nサロンでは、メディセルで首や肩まわりの筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。\nからだがほぐれると、自然と表情もやわらぐ方が多いですよ。\n\n笑顔は、自分へのいちばんのケア。\nひとりで抱えず、気になることがあればお気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #表情ほぐし #朝習慣 #セルフケア #立冬 #笑顔習慣 #大人の美容 #メディセル #筋膜ケア #ゆらぎ世代 #salondemoco",
   "cover": {
-    "lead": "週末の朝の1分ケア",
-    "headline": "朝の【顔のむくみ】、\nやさしく\nほどきませんか？"
+    "lead": "立冬の朝に、1分だけ",
+    "headline": "寒さで【表情】、\nこわばって\nいませんか？"
   },
   "slides": [
     {
-      "title": "こんな朝、\n【ありませんか？】",
-      "numbered": false,
-      "items": [
-        "起きたらまぶたが重たく感じる",
-        "フェイスラインがぼんやりして見える",
-        "首や肩まわりがこわばっている",
-        "前の晩、塩分やお酒が多めだった"
-      ]
-    },
-    {
-      "title": "朝1分の\n【やさしいほぐし】",
+      "title": "朝1分の\n【表情ほぐし】",
       "numbered": true,
       "items": [
-        "鎖骨のくぼみを指先でやさしくなでる",
-        "耳の前後を指の腹で軽くくるくるほぐす",
-        "耳の下から鎖骨へ、首筋をなでおろす",
-        "あご先から耳の下へフェイスラインを流す",
-        "最後に深呼吸を3回、肩の力を抜く"
+        "両手のひらで頬を包み、温めながら深呼吸",
+        "耳を軽くつまみ、後ろへくるくる回す",
+        "こめかみを指の腹でやさしく円を描く",
+        "口角をきゅっと上げて5秒キープ"
       ]
     },
     {
-      "title": "むくみにくい\n【小さな習慣】",
+      "title": "表情がこわばる\n【サイン】チェック",
       "numbered": false,
       "items": [
-        "起きたら常温のお水をコップ1杯",
-        "夜の塩分やお酒はほどほどに",
-        "枕の高さを見直して首をラクに",
-        "蒸しタオルで首元をじんわり温める"
+        "気づくと奥歯をかみしめている",
+        "鏡の自分が少し疲れて見える",
+        "寒さで肩や首がすくみがち",
+        "画面を見ていると眉間に力が入る"
+      ]
+    },
+    {
+      "title": "今日から意識する\n【小さなコツ】",
+      "numbered": false,
+      "items": [
+        "鏡を見たら、まず口角をきゅっと",
+        "寒い朝は首元を温めてからほぐす",
+        "力まず「気持ちいい」くらいが目安",
+        "笑顔は自分へのいちばんのケア"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "気になることは\n【お気軽に】\nご相談ください"
+    "lead": "あなたの笑顔のために",
+    "headline": "お気軽に\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, fresh and elegant feminine design for adult women. Delicate white chamomile and lily of the valley flowers with soft eucalyptus leaves and young green foliage arranged gently in the corners and along the left and right edges. Thin elegant gold lines and subtle gentle sparkles, soft morning light feeling, clean and calm atmosphere. The center is bright, airy, and mostly empty with a light pale color for overlaying text later. No people, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Elegant feminine watercolor background for an adult women's beauty salon, soft pale pastel green to mint color base, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, a hint of gentle morning sunlight and a soft linen fabric, thin delicate gold lines and subtle sparkles, fresh, calm, clean and refined mood evoking a bright early winter morning and a gentle smile, the center left bright, airy and mostly empty with plenty of light pale space for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos",
   "palette": "morning",
   "images": [
     "posts/20261107-morning-1.jpg",
