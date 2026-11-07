@@ -1,46 +1,57 @@
 {
   "date": "2026-11-08",
   "slot": "morning",
-  "theme": "日曜の朝に知るフェムケアの一歩",
-  "caption": "「フェムケアって、なんだか難しそう」そう感じていませんか？\n\nおはようございます。Salon de mocoです。\n\nフェムケアとは、女性特有のからだと心をいたわること。\n生理やPMS、更年期のゆらぎ、デリケートゾーンのこと…\n人には言いにくいお悩みも、すべて大切なケアの対象なんです。\n\n特別な道具や難しい知識がなくても大丈夫ですよ。\n朝にからだの調子を感じてみる、温かい飲み物でおなかをぬくめる。\nそんな小さな習慣から、フェムケアは始まります。\n\n今日は、フェムケアのきほんと、今日からできる小さな一歩をまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、ふと思い出したときに見返せます。\n\nゆったりした日曜の朝、ご自分のからだに「いつもありがとう」と声をかけてみてください🌸\n\n「恥ずかしい」は、もう手放して大丈夫。\nつらい症状が続くときは婦人科へのご相談もおすすめです。\nちょっと話を聞いてほしいときは、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #女性の健康 #セルフケア #朝習慣 #更年期 #PMS #デリケートゾーンケア #メディセル #筋膜ケア #千葉サロン #Salondemoco",
+  "theme": "朝からはじめるフェムケア入門",
+  "caption": "「フェムケア」、気になるけれど何から始めたらいいの？\n\nおはようございます。\nゆっくり迎える日曜の朝、少しだけご自分のからだと心に目を向けてみませんか🌸\n\nフェムケアは、生理や更年期のゆらぎ、デリケートゾーンのことなど、女性特有のからだと心をいたわるケアのこと。\n特別な道具や時間がなくても、毎日の小さな習慣から始められます。\n\n起きたら体調をひと言メモする。\n白湯をひと口飲んで、おなかからぬくもりを感じる。\n深呼吸しながら、骨盤まわりをふっとゆるめる。\nそれだけでも、立派な一歩ですよ。\n\nそして、生理痛やモレ、乾燥やかゆみなどのお悩みは「恥ずかしいこと」ではなく「話していいこと」。\nあなただけではありませんので、大丈夫ですよ。\nつらい症状が続くときは、婦人科などの医療機関にもご相談くださいね。\n\n画像をスワイプして、保存して見返してみてください。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムケア習慣 #セルフケア #朝習慣 #女性の健康 #更年期 #生理痛 #PMS #メディセル #Medicell #筋膜ケア #salondemoco",
   "cover": {
-    "lead": "日曜の朝に、ちょっと知りたい",
-    "headline": "【フェムケア】\nはじめの\n一歩、何から？"
+    "lead": "日曜の朝に読みたい",
+    "headline": "今日からできる\n【フェムケア】\nはじめの一歩"
   },
   "slides": [
     {
-      "title": "フェムケアって\n【どんなこと？】",
+      "title": "そもそも\n【フェムケア】って？",
       "numbered": false,
       "items": [
-        "女性特有のからだと心をいたわること",
-        "生理・更年期・デリケートゾーンの悩みも対象",
+        "女性特有のからだと心をいたわるケアのこと",
+        "生理・更年期・デリケートゾーンなどが対象",
         "特別なことではなく、毎日の小さな習慣",
-        "「恥ずかしい」ではなく「大切なこと」"
+        "「恥ずかしい」より「大切」なことです"
       ]
     },
     {
-      "title": "今日からできる\n【小さな一歩】",
+      "title": "朝にできる\n【小さな一歩】",
       "numbered": true,
       "items": [
-        "朝、からだの調子をひと言で感じてみる",
-        "温かい飲み物でおなかからぬくもりを",
-        "締めつけの少ない服でゆったり過ごす",
-        "気になることをメモに書き出してみる",
-        "つらいときは婦人科やサロンに相談を"
+        "起きたら今日の体調をひと言メモ",
+        "白湯をひと口、おなかからぬくもりを",
+        "深呼吸しながら骨盤まわりをゆるめる",
+        "肌ざわりのやさしい下着を選ぶ"
+      ]
+    },
+    {
+      "title": "こんなお悩みは\n【話していいこと】",
+      "numbered": false,
+      "items": [
+        "生理痛やPMSがつらい",
+        "くしゃみや笑ったときのモレが気になる",
+        "デリケートゾーンの乾燥やかゆみ",
+        "更年期のゆらぎで気分が沈みがち",
+        "つらい症状が続くときは婦人科へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "DMでお気軽にどうぞ",
-    "headline": "お悩みは\n【話していい】\nことですよ"
+    "lead": "ひとりで抱えないで",
+    "headline": "お気軽に\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for adult women, bright cream to pale soft pink tones, delicate pink peonies and roses painted in soft watercolor style gathered in the corners and along the left and right edges, thin elegant gold lines and gentle sparkles, soft morning light feeling, calm and clean atmosphere, the center left bright, airy and mostly empty with pale color for overlaying a headline later, no people, no body parts, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine watercolor background for an adult women's wellness salon, bright cream to soft baby pink tones, delicate pink peonies and roses painted in soft watercolor placed only in the corners and along the left and right edges, thin gold lines and gentle sparkles, soft morning light, calm clean and refined mood, large bright empty pale area in the center for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
   "palette": "femcare",
   "images": [
     "posts/20261108-morning-1.jpg",
     "posts/20261108-morning-2.jpg",
     "posts/20261108-morning-3.jpg",
-    "posts/20261108-morning-4.jpg"
+    "posts/20261108-morning-4.jpg",
+    "posts/20261108-morning-5.jpg"
   ],
   "published": false
 }
