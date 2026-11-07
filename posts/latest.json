@@ -1,58 +1,46 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "slot": "morning",
-  "theme": "立冬の朝、表情をほぐす笑顔習慣",
-  "caption": "寒い朝、鏡の中の自分の顔、少しこわばって見えませんか？\n\n今日は立冬。暦の上では冬の始まりです。\n寒さで肩や首がすくむと、顔まわりにも力が入りやすくなります。\n「なんだか疲れて見える」「笑顔がぎこちない」と感じるのは、あなただけではありませんよ。\n\nそこで今朝は、洗顔やスキンケアのついでにできる「1分の表情ほぐし」をご紹介します。\n手のひらで頬を包んで温めるだけでも、ふっと顔がゆるむのを感じる方も多いんです。\n\nやり方とチェックポイントは、画像をスワイプしてご覧くださいね。保存しておくと、明日の朝も見返せます🌿\n\n力を入れすぎず「気持ちいい」と感じるくらいが目安です。\n\nサロンでは、メディセルで首や肩まわりの筋膜をやさしくゆるめ、めぐりを整えるケアを行っています。\nからだがほぐれると、自然と表情もやわらぐ方が多いですよ。\n\n笑顔は、自分へのいちばんのケア。\nひとりで抱えず、気になることがあればお気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #表情ほぐし #朝習慣 #セルフケア #立冬 #笑顔習慣 #大人の美容 #メディセル #筋膜ケア #ゆらぎ世代 #salondemoco",
+  "theme": "日曜の朝に知るフェムケアの一歩",
+  "caption": "「フェムケアって、なんだか難しそう」そう感じていませんか？\n\nおはようございます。Salon de mocoです。\n\nフェムケアとは、女性特有のからだと心をいたわること。\n生理やPMS、更年期のゆらぎ、デリケートゾーンのこと…\n人には言いにくいお悩みも、すべて大切なケアの対象なんです。\n\n特別な道具や難しい知識がなくても大丈夫ですよ。\n朝にからだの調子を感じてみる、温かい飲み物でおなかをぬくめる。\nそんな小さな習慣から、フェムケアは始まります。\n\n今日は、フェムケアのきほんと、今日からできる小さな一歩をまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、ふと思い出したときに見返せます。\n\nゆったりした日曜の朝、ご自分のからだに「いつもありがとう」と声をかけてみてください🌸\n\n「恥ずかしい」は、もう手放して大丈夫。\nつらい症状が続くときは婦人科へのご相談もおすすめです。\nちょっと話を聞いてほしいときは、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #フェムテック #女性の健康 #セルフケア #朝習慣 #更年期 #PMS #デリケートゾーンケア #メディセル #筋膜ケア #千葉サロン #Salondemoco",
   "cover": {
-    "lead": "立冬の朝に、1分だけ",
-    "headline": "寒さで【表情】、\nこわばって\nいませんか？"
+    "lead": "日曜の朝に、ちょっと知りたい",
+    "headline": "【フェムケア】\nはじめの\n一歩、何から？"
   },
   "slides": [
     {
-      "title": "朝1分の\n【表情ほぐし】",
+      "title": "フェムケアって\n【どんなこと？】",
+      "numbered": false,
+      "items": [
+        "女性特有のからだと心をいたわること",
+        "生理・更年期・デリケートゾーンの悩みも対象",
+        "特別なことではなく、毎日の小さな習慣",
+        "「恥ずかしい」ではなく「大切なこと」"
+      ]
+    },
+    {
+      "title": "今日からできる\n【小さな一歩】",
       "numbered": true,
       "items": [
-        "両手のひらで頬を包み、温めながら深呼吸",
-        "耳を軽くつまみ、後ろへくるくる回す",
-        "こめかみを指の腹でやさしく円を描く",
-        "口角をきゅっと上げて5秒キープ"
-      ]
-    },
-    {
-      "title": "表情がこわばる\n【サイン】チェック",
-      "numbered": false,
-      "items": [
-        "気づくと奥歯をかみしめている",
-        "鏡の自分が少し疲れて見える",
-        "寒さで肩や首がすくみがち",
-        "画面を見ていると眉間に力が入る"
-      ]
-    },
-    {
-      "title": "今日から意識する\n【小さなコツ】",
-      "numbered": false,
-      "items": [
-        "鏡を見たら、まず口角をきゅっと",
-        "寒い朝は首元を温めてからほぐす",
-        "力まず「気持ちいい」くらいが目安",
-        "笑顔は自分へのいちばんのケア"
+        "朝、からだの調子をひと言で感じてみる",
+        "温かい飲み物でおなかからぬくもりを",
+        "締めつけの少ない服でゆったり過ごす",
+        "気になることをメモに書き出してみる",
+        "つらいときは婦人科やサロンに相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "あなたの笑顔のために",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "DMでお気軽にどうぞ",
+    "headline": "お悩みは\n【話していい】\nことですよ"
   },
-  "image_prompt": "Elegant feminine watercolor background for an adult women's beauty salon, soft pale pastel green to mint color base, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the corners and along the left and right edges, a hint of gentle morning sunlight and a soft linen fabric, thin delicate gold lines and subtle sparkles, fresh, calm, clean and refined mood evoking a bright early winter morning and a gentle smile, the center left bright, airy and mostly empty with plenty of light pale space for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine watercolor background for adult women, bright cream to pale soft pink tones, delicate pink peonies and roses painted in soft watercolor style gathered in the corners and along the left and right edges, thin elegant gold lines and gentle sparkles, soft morning light feeling, calm and clean atmosphere, the center left bright, airy and mostly empty with pale color for overlaying a headline later, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "femcare",
   "images": [
-    "posts/20261107-morning-1.jpg",
-    "posts/20261107-morning-2.jpg",
-    "posts/20261107-morning-3.jpg",
-    "posts/20261107-morning-4.jpg",
-    "posts/20261107-morning-5.jpg"
+    "posts/20261108-morning-1.jpg",
+    "posts/20261108-morning-2.jpg",
+    "posts/20261108-morning-3.jpg",
+    "posts/20261108-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "17968772316197898",
-  "fb_post_id": "1411087672077869_122117245653506532"
+  "published": false
 }
