@@ -923,5 +923,19 @@
     ],
     "media_id": "18181275217437782",
     "fb_post_id": "1411087672077869_122117654757506532"
+  },
+  {
+    "date": "2026-11-09",
+    "slot": "morning",
+    "theme": "ほてりに備える朝の重ね着習慣",
+    "images": [
+      "posts/20261109-morning-1.jpg",
+      "posts/20261109-morning-2.jpg",
+      "posts/20261109-morning-3.jpg",
+      "posts/20261109-morning-4.jpg",
+      "posts/20261109-morning-5.jpg"
+    ],
+    "media_id": "18114859310605063",
+    "fb_post_id": "1411087672077869_122117971251506532"
   }
 ]
