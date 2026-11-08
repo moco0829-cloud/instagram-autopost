@@ -1,59 +1,56 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "slot": "morning",
-  "theme": "朝からはじめるフェムケア入門",
-  "caption": "「フェムケア」、気になるけれど何から始めたらいいの？\n\nおはようございます。\nゆっくり迎える日曜の朝、少しだけご自分のからだと心に目を向けてみませんか🌸\n\nフェムケアは、生理や更年期のゆらぎ、デリケートゾーンのことなど、女性特有のからだと心をいたわるケアのこと。\n特別な道具や時間がなくても、毎日の小さな習慣から始められます。\n\n起きたら体調をひと言メモする。\n白湯をひと口飲んで、おなかからぬくもりを感じる。\n深呼吸しながら、骨盤まわりをふっとゆるめる。\nそれだけでも、立派な一歩ですよ。\n\nそして、生理痛やモレ、乾燥やかゆみなどのお悩みは「恥ずかしいこと」ではなく「話していいこと」。\nあなただけではありませんので、大丈夫ですよ。\nつらい症状が続くときは、婦人科などの医療機関にもご相談くださいね。\n\n画像をスワイプして、保存して見返してみてください。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムケア習慣 #セルフケア #朝習慣 #女性の健康 #更年期 #生理痛 #PMS #メディセル #Medicell #筋膜ケア #salondemoco",
+  "theme": "ほてりに備える朝の重ね着習慣",
+  "caption": "急に顔がカッと熱くなる…そんな朝、ありませんか？\n\nおはようございます。\n新しい一週間のはじまりですね。\n\n更年期のゆらぎの時期は、急なほてりや汗に戸惑う方も少なくありません。\n寒い季節は特に、外は冷えるのに電車や室内では暑くなり、服装に悩みますよね。\n\n実はこれ、多くの女性が経験していることなんです。\n「私だけかな」と思わなくて大丈夫ですよ。\n\n朝の服選びとバッグの中身を少し工夫するだけで、ほてりへの不安が和らぐ方も多いんです。\n\n・脱ぎ着しやすい薄手の重ね着\n・首元で調整できるスカーフ\n・バッグにハンカチや飲み物を\n\n詳しいポイントは、画像をスワイプしてご覧くださいね。\n保存しておくと、明日の朝の身支度にも役立ちます🌿\n\nつらさが続くときは、婦人科への相談も選択肢のひとつです。\nからだのめぐりやこわばりが気になるときは、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #更年期 #ゆらぎ世代 #ほてり対策 #重ね着コーデ #朝習慣 #セルフケア #大人女子 #メディセル #筋膜ケア #SalondeMoco",
   "cover": {
-    "lead": "日曜の朝に読みたい",
-    "headline": "今日からできる\n【フェムケア】\nはじめの一歩"
+    "lead": "月曜の朝のちいさな準備",
+    "headline": "急な【ほてり】、\n朝の服選びで\n備えませんか？"
   },
   "slides": [
     {
-      "title": "そもそも\n【フェムケア】って？",
+      "title": "脱ぎ着しやすい\n【重ね着】のコツ",
       "numbered": false,
       "items": [
-        "女性特有のからだと心をいたわるケアのこと",
-        "生理・更年期・デリケートゾーンなどが対象",
-        "特別なことではなく、毎日の小さな習慣",
-        "「恥ずかしい」より「大切」なことです"
+        "厚手1枚より、薄手を重ねて調整しやすく",
+        "前開きの羽織りなら、さっと脱げて安心",
+        "首元はスカーフやストールで温度調整を",
+        "肌に触れる一枚は、綿など吸湿のよい素材に"
       ]
     },
     {
-      "title": "朝にできる\n【小さな一歩】",
-      "numbered": true,
+      "title": "バッグにひとつ\n【安心アイテム】",
+      "numbered": false,
       "items": [
-        "起きたら今日の体調をひと言メモ",
-        "白湯をひと口、おなかからぬくもりを",
-        "深呼吸しながら骨盤まわりをゆるめる",
-        "肌ざわりのやさしい下着を選ぶ"
+        "汗をそっと押さえるハンカチやミニタオル",
+        "こまめに飲める常温の飲み物",
+        "さっぱりできる汗ふきシート",
+        "さっとあおげる小さな扇子"
       ]
     },
     {
-      "title": "こんなお悩みは\n【話していいこと】",
+      "title": "ほてりを感じたら\n【ひと呼吸】",
       "numbered": false,
       "items": [
-        "生理痛やPMSがつらい",
-        "くしゃみや笑ったときのモレが気になる",
-        "デリケートゾーンの乾燥やかゆみ",
-        "更年期のゆらぎで気分が沈みがち",
-        "つらい症状が続くときは婦人科へ相談を"
+        "ゆっくり長く息を吐いて、呼吸を整える",
+        "首の後ろを冷たいタオルでそっと冷やす",
+        "「ゆらぎの時期だから」と自分を責めない",
+        "つらさが続くときは婦人科に相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "ゆらぎも、あなたの一部",
+    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
   },
-  "image_prompt": "Elegant feminine watercolor background for an adult women's wellness salon, bright cream to soft baby pink tones, delicate pink peonies and roses painted in soft watercolor placed only in the corners and along the left and right edges, thin gold lines and gentle sparkles, soft morning light, calm clean and refined mood, large bright empty pale area in the center for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "femcare",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale pastel green to mint watercolor background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves painted in watercolor style, a light airy scarf draped softly, thin gold lines and gentle sparkles, fresh refreshing morning atmosphere, calm and clean, motifs placed in the corners and left and right edges, center left bright and empty with lots of soft light space for text overlay, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261108-morning-1.jpg",
-    "posts/20261108-morning-2.jpg",
-    "posts/20261108-morning-3.jpg",
-    "posts/20261108-morning-4.jpg",
-    "posts/20261108-morning-5.jpg"
+    "posts/20261109-morning-1.jpg",
+    "posts/20261109-morning-2.jpg",
+    "posts/20261109-morning-3.jpg",
+    "posts/20261109-morning-4.jpg",
+    "posts/20261109-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18181275217437782",
-  "fb_post_id": "1411087672077869_122117654757506532"
+  "published": false
 }
