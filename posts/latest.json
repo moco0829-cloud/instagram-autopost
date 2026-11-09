@@ -1,58 +1,47 @@
 {
   "date": "2026-11-09",
-  "slot": "morning",
-  "theme": "ほてりに備える朝の重ね着習慣",
-  "caption": "朝は寒いのに、急にカーッと暑くなる…そんな日はありませんか？\n\nおはようございます。\n冷え込む季節なのに、電車の中や家事の途中で急にほてって汗ばむ。\nゆらぎ世代の女性から、よくうかがうお悩みです。\n\n「私だけかな」と思いがちですが、同じように感じている方はたくさんいらっしゃいます。\n大丈夫ですよ。\n\n今日は、朝の服選びと持ち物で、ほてりと上手につきあう小さな工夫をまとめました。\n\n・脱ぎ着しやすい重ね着のコツ\n・バッグに入れておきたいお助けアイテム\n・ほてりを感じたときのひと呼吸\n\n画像をスワイプしてご覧くださいね🌿\n\n上は調節しやすく、おなかや足元は冷やさないのがポイントです。\n準備があるだけで、気持ちにも少し余裕が生まれますよ。\n\nほてりや汗が続いてつらいときは、婦人科などの医療機関に相談するのもひとつの安心です。\n\nからだのゆらぎも、話していいこと。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #更年期 #ゆらぎ世代 #ほてり #更年期ケア #重ね着コーデ #朝習慣 #セルフケア #大人女子 #メディセル #SalondeMoco",
+  "slot": "night",
+  "theme": "冬の夜、めぐりを整える入浴時間",
+  "caption": "シャワーだけで済ませる夜が、続いていませんか？\n\n寒さが深まるこの季節。\n忙しい日ほど、お風呂はさっと済ませてしまいがちですよね。\n\nでも、湯船にゆっくり浸かる時間は、\n冷えたからだをじんわり温め、めぐりを整えるやさしい習慣。\n肩の力がふっと抜けて、ぐっすり眠れたと感じる方も多いんです。\n\n今回は、今夜からできる\n「めぐりを整える入浴のポイント」と\n「湯上がりのいたわり方」をまとめました。\n画像をスワイプしてご覧くださいね。\n\n特別なことは必要ありません。\nぬるめのお湯に浸かって、深呼吸をひとつ。\nそれだけで、今日がんばった自分をいたわる時間になります🌙\n\nのぼせやすい方、体調がすぐれない日は無理をせず、\nご自分のペースで大丈夫ですよ。\n\n冷えやむくみ、からだの重さが気になる方は、\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #冷え対策 #めぐり #入浴習慣 #セルフケア #夜のリラックス #大人女性 #メディセル #Medicell #サロンドモコ",
   "cover": {
-    "lead": "ゆらぎ世代の朝に",
-    "headline": "急な【ほてり】、\n朝の服選びで\nラクにしませんか？"
+    "lead": "冷えた一日の終わりに",
+    "headline": "今夜は\n【湯船】で\nほっとしませんか？"
   },
   "slides": [
     {
-      "title": "脱ぎ着しやすい\n【重ね着】のコツ",
-      "numbered": false,
-      "items": [
-        "前開きのカーディガンで、さっと脱ぎ着",
-        "インナーは汗を吸いやすい綿素材を",
-        "首元はストールで温度調節",
-        "おなかと足元は冷やさず温めて"
-      ]
-    },
-    {
-      "title": "バッグに入れたい\n【お助けアイテム】",
-      "numbered": false,
-      "items": [
-        "汗をふけるハンカチやミニタオル",
-        "さっと使える小さな扇子",
-        "常温のお水でこまめに水分補給",
-        "替えのインナーがあると安心"
-      ]
-    },
-    {
-      "title": "ほてりを感じたら\n【ひと呼吸】",
+      "title": "めぐりを整える\n【入浴のポイント】",
       "numbered": true,
       "items": [
-        "涼しい場所へ移って、ひと息つく",
-        "鼻から吸って、口からゆっくり吐く",
-        "首すじをひんやりタオルで冷やす",
-        "「大丈夫」と自分に声をかける"
+        "入浴前にコップ1杯のお水を飲む",
+        "熱すぎない、ぬるめのお湯を選ぶ",
+        "肩まで浸かり、ゆっくり深呼吸",
+        "お湯の中で足首や手首をくるくる回す",
+        "のぼせる前に、無理せず上がる"
+      ]
+    },
+    {
+      "title": "湯上がりの\n【いたわり習慣】",
+      "numbered": false,
+      "items": [
+        "すぐに靴下やルームウェアで保温",
+        "乾燥しやすい肌は早めに保湿",
+        "白湯や常温のお水で水分補給",
+        "スマホを置いて、灯りを落とす",
+        "温かいうちに、お布団へ"
       ]
     }
   ],
   "closing": {
-    "lead": "ゆらぎも話していいこと",
-    "headline": "ひとりで\n抱えず【ご相談】\nくださいね"
+    "lead": "今日もおつかれさまでした",
+    "headline": "ひとりで\n抱えずに\n【ご相談】くださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale pastel green to mint watercolor background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves in watercolor style placed only at the corners and left and right edges, a light airy cardigan-like soft fabric draped gently at one edge, thin gold lines and gentle sparkles, fresh morning light, calm and clean atmosphere, large bright empty space in the center with very light color for overlaying text, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender sprigs, wisteria and lilac flowers placed in the corners and along the left and right edges, a few soft folded towels and a delicate candle glow near the edge evoking a relaxing evening bath time, thin fine gold lines and gentle sparkles, calm and clean nighttime relaxation atmosphere, center area bright, pale and mostly empty with plenty of space for overlaying a headline, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261109-morning-1.jpg",
-    "posts/20261109-morning-2.jpg",
-    "posts/20261109-morning-3.jpg",
-    "posts/20261109-morning-4.jpg",
-    "posts/20261109-morning-5.jpg"
+    "posts/20261109-night-1.jpg",
+    "posts/20261109-night-2.jpg",
+    "posts/20261109-night-3.jpg",
+    "posts/20261109-night-4.jpg"
   ],
-  "published": true,
-  "media_id": "18114859310605063",
-  "fb_post_id": "1411087672077869_122117971251506532"
+  "published": false
 }
