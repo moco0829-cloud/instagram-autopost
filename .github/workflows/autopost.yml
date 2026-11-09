@@ -3,15 +3,13 @@ name: Instagram 自動投稿
 on:
   schedule:
     # 投稿は1日2回（朝 8:00・夜 19:00）。
-    # GitHub Actions の cron は UTC（日本時間 = UTC + 9 時間）で、混雑すると数時間遅れることがある。
-    # そこで投稿時刻より前に3回ずつ仕掛け、最初に動いた回が画像と文章を作り、投稿時刻まで待ってから投稿する。
+    # GitHub Actions の cron は混雑すると大きく遅れる。2026-11 には毎日 7 時間ほど遅れ、夕方の回が深夜に動いて
+    # 11/4 から夜の投稿が何日も出なかった。そこで毎時 23 分に仕掛け、何時間遅れても、どれかの回が
+    # 投稿時刻の 3.5 時間前〜見送りの時刻（朝は 4:30〜10:00、夜は 15:30〜21:00）のあいだに動けば、
+    # その回が画像と文章を作って投稿時刻まで待ってから投稿する。それ以外の時刻に動いた回や、
+    # もう投稿が済んだあとの回は、何もせずに終わる（画像生成代はかからない。公開リポジトリなので Actions も無料）。
     # 区切りのいい時刻（毎時0分）は混みやすいので避ける。
-    - cron: "23 20 * * *"  # 朝の枠 05:23 JST
-    - cron: "23 21 * * *"  # 朝の枠 06:23 JST
-    - cron: "7 22 * * *"   # 朝の枠 07:07 JST
-    - cron: "23 7 * * *"   # 夜の枠 16:23 JST
-    - cron: "23 8 * * *"   # 夜の枠 17:23 JST
-    - cron: "7 9 * * *"    # 夜の枠 18:07 JST
+    - cron: "23 * * * *"
   workflow_dispatch:
     inputs:
       slot:
@@ -77,6 +75,12 @@ jobs:
               elif now.hour >= give_up:
                   # 実行が大きく遅れたときは、時間外に投稿しないよう見送る
                   skip, reason = True, f"開始が {now:%H:%M} と遅すぎるので、今日の{name}の投稿は見送ります"
+              else:
+                  target = now.replace(hour=int(post_at[:2]), minute=int(post_at[3:]), second=0, microsecond=0)
+                  if (target - now).total_seconds() > 3.5 * 3600:
+                      # 投稿時刻まで待ちきれない（上限 4 時間）ほど早く動いた回は、作らずに後の回にまかせる。
+                      # 前の日の夜の回が真夜中過ぎに遅れて動いたときも、ここで止まる（朝の枠の画像だけ作って止まるのを防ぐ）
+                      skip, reason = True, f"開始が {now:%H:%M} と早すぎるので、後の回にまかせます"
           print(reason or f"{now:%H:%M} 開始。{name}（{post_at}）の投稿を作ります")
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
               f.write(f"skip={'true' if skip else 'false'}\nslot={slot}\npost_at={post_at}\n")
