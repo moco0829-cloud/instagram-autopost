@@ -1,49 +1,57 @@
 {
-  "date": "2026-11-09",
-  "slot": "night",
-  "theme": "冬の夜、めぐりを整える入浴時間",
-  "caption": "シャワーだけで済ませる夜が、続いていませんか？\n\n寒さが深まるこの季節。\n忙しい日ほど、お風呂はさっと済ませてしまいがちですよね。\n\nでも、湯船にゆっくり浸かる時間は、\n冷えたからだをじんわり温め、めぐりを整えるやさしい習慣。\n肩の力がふっと抜けて、ぐっすり眠れたと感じる方も多いんです。\n\n今回は、今夜からできる\n「めぐりを整える入浴のポイント」と\n「湯上がりのいたわり方」をまとめました。\n画像をスワイプしてご覧くださいね。\n\n特別なことは必要ありません。\nぬるめのお湯に浸かって、深呼吸をひとつ。\nそれだけで、今日がんばった自分をいたわる時間になります🌙\n\nのぼせやすい方、体調がすぐれない日は無理をせず、\nご自分のペースで大丈夫ですよ。\n\n冷えやむくみ、からだの重さが気になる方は、\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #冷え対策 #めぐり #入浴習慣 #セルフケア #夜のリラックス #大人女性 #メディセル #Medicell #サロンドモコ",
+  "date": "2026-11-10",
+  "slot": "morning",
+  "theme": "朝のスマホ首リセットで肩こりケア",
+  "caption": "朝いちばんのスマホ、首が前に出ていませんか？\n\n目覚ましを止めて、そのままニュースやメッセージをチェック。\n実はその姿勢、首や肩にじわじわと負担がかかりやすいんです。\n\n「朝から首が重い」「夕方になると頭までどんより…」\nそんな方は、私だけかな？と思わなくて大丈夫ですよ。\n同じように感じている女性はとても多いんです。\n\n今日は、朝の1分でできる首まわりリセットをまとめました。\n歯みがきの前や、コーヒーを待つ間にもできるので、ぜひ画像をスワイプしてご覧くださいね。\n保存しておくと、思い出したときにすぐ見返せます。\n\nスマホを目の高さに近づけるだけでも、首はぐっとラクに感じる方が多いですよ。\nしびれや強い痛みが続く場合は、無理せず医療機関にご相談くださいね。\n\nSalon de mocoでは、メディセルの筋膜ケアで、こわばった首や肩まわりのめぐりを整えるお手伝いをしています。\n施術後に「肩が軽く感じる」とお声をいただくことも。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #肩こりケア #スマホ首 #ストレートネック対策 #朝習慣 #セルフケア #メディセル #筋膜ケア #大人女子 #Salondemoco",
   "cover": {
-    "lead": "冷えた一日の終わりに",
-    "headline": "今夜は\n【湯船】で\nほっとしませんか？"
+    "lead": "今日からできる朝1分ケア",
+    "headline": "朝のスマホで\n【首と肩】が\nお疲れでは？"
   },
   "slides": [
     {
-      "title": "めぐりを整える\n【入浴のポイント】",
-      "numbered": true,
+      "title": "【スマホ首】の\nサインチェック",
+      "numbered": false,
       "items": [
-        "入浴前にコップ1杯のお水を飲む",
-        "熱すぎない、ぬるめのお湯を選ぶ",
-        "肩まで浸かり、ゆっくり深呼吸",
-        "お湯の中で足首や手首をくるくる回す",
-        "のぼせる前に、無理せず上がる"
+        "朝起きると首や肩が重たい",
+        "気づくと顔が前に出ている",
+        "夕方になると頭が重く感じる",
+        "呼吸が浅い気がする"
       ]
     },
     {
-      "title": "湯上がりの\n【いたわり習慣】",
+      "title": "朝1分\n【首まわりリセット】",
+      "numbered": true,
+      "items": [
+        "背すじを伸ばし、肩の力をふっと抜く",
+        "あごを軽く引いて、首の後ろを伸ばす",
+        "肩を後ろへゆっくり5回まわす",
+        "頭を左右にゆっくり傾けて深呼吸",
+        "痛みを感じたら無理せずストップ"
+      ]
+    },
+    {
+      "title": "今日から意識したい\n【小さなコツ】",
       "numbered": false,
       "items": [
-        "すぐに靴下やルームウェアで保温",
-        "乾燥しやすい肌は早めに保湿",
-        "白湯や常温のお水で水分補給",
-        "スマホを置いて、灯りを落とす",
-        "温かいうちに、お布団へ"
+        "スマホは目の高さに近づけて見る",
+        "画面を見る時間は区切りよく短めに",
+        "首元を温めてこわばりを防ぐ",
+        "しびれや強い痛みが続く時は医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "今日もおつかれさまでした",
-    "headline": "ひとりで\n抱えずに\n【ご相談】くださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "肩のつらさも\n【お気軽に】\nご相談を"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender sprigs, wisteria and lilac flowers placed in the corners and along the left and right edges, a few soft folded towels and a delicate candle glow near the edge evoking a relaxing evening bath time, thin fine gold lines and gentle sparkles, calm and clean nighttime relaxation atmosphere, center area bright, pale and mostly empty with plenty of space for overlaying a headline, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft watercolor illustration background with a pale pastel green to mint color, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves arranged at the corners and left and right edges, a soft cream scarf draped gently, morning sunlight softly glowing, thin elegant gold lines and gentle sparkles, refreshing, elegant and feminine design for adult women, the center is bright, light and left empty with plenty of space for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261109-night-1.jpg",
-    "posts/20261109-night-2.jpg",
-    "posts/20261109-night-3.jpg",
-    "posts/20261109-night-4.jpg"
+    "posts/20261110-morning-1.jpg",
+    "posts/20261110-morning-2.jpg",
+    "posts/20261110-morning-3.jpg",
+    "posts/20261110-morning-4.jpg",
+    "posts/20261110-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "17868119022678546",
-  "fb_post_id": "1411087672077869_122118139263506532"
+  "published": false
 }
