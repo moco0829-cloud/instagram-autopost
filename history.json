@@ -950,5 +950,19 @@
     ],
     "media_id": "17868119022678546",
     "fb_post_id": "1411087672077869_122118139263506532"
+  },
+  {
+    "date": "2026-11-10",
+    "slot": "morning",
+    "theme": "朝のスマホ首リセットで肩こりケア",
+    "images": [
+      "posts/20261110-morning-1.jpg",
+      "posts/20261110-morning-2.jpg",
+      "posts/20261110-morning-3.jpg",
+      "posts/20261110-morning-4.jpg",
+      "posts/20261110-morning-5.jpg"
+    ],
+    "media_id": "18039270989842380",
+    "fb_post_id": "1411087672077869_122118291387506532"
   }
 ]
