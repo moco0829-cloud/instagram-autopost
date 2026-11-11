@@ -1,59 +1,56 @@
 {
-  "date": "2026-11-11",
-  "slot": "night",
-  "theme": "言いにくい悩みを書き出す夜時間",
-  "caption": "誰にも言えないからだの悩み、心の中にしまったままになっていませんか？\n\n「こんなこと、恥ずかしくて聞けない」\n「私だけかもしれない」\nそう感じて、ひとりで抱えている女性はとても多いんです。\n\nそこで今夜は、言いにくい悩みを“書き出してみる”時間のご提案です。\n口に出すのは勇気がいっても、ノートやスマホのメモなら、自分だけのペースで向き合えますよね。\n\n書いてみると、気持ちが少し軽くなったり、からだの変化に気づけたりする方も多いですよ。\nそのメモは、婦人科で症状を伝えるときにも心強い味方になってくれます。\n\n画像では、書き出し方の手順と、話していい悩みの例、メモの活かし方をまとめました。スワイプしてご覧くださいね。\n\nどんな悩みも、恥ずかしいことではありません。\nつらい症状が続くときは、無理せず婦人科などの医療機関にご相談くださいね。\n\nSalon de mocoでは、言葉にしにくいお悩みも、ゆっくり伺います。\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #女性の悩み #更年期 #PMS #デリケートゾーンケア #尿もれ #自分をいたわる #夜時間 #メディセル #筋膜ケア #千葉サロン",
+  "date": "2026-11-12",
+  "slot": "morning",
+  "theme": "朝ごはんで鉄分を意識する習慣",
+  "caption": "なんだか顔色が冴えない朝、ありませんか？\n\nおはようございます。Salon de mocoです。\n\n朝起きるのがつらい、鏡を見るとくすんで見える…。\nそんな日が続くと、少し気持ちも沈みますよね。\n\n毎月の生理がある女性は、鉄分が不足しがちといわれています。\n「疲れているだけかな」と見過ごしやすいからこそ、\n朝ごはんで少しだけ意識してみませんか。\n\nいつもの納豆やヨーグルトに、ひと品ちょい足しするだけでも大丈夫ですよ。\nビタミンCの果物と一緒にとったり、コーヒーは少し時間をずらしたり。\n小さな工夫が、内側からのキレイにつながります🌿\n\n今日から取り入れやすいアイデアをまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、朝の献立に迷ったときに便利です。\n\nなお、だるさや息切れが続くときは、ひとりで我慢せず婦人科や内科で相談してみてくださいね。\n\nからだのこと、気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #鉄分補給 #朝ごはん #内側からキレイ #女性の健康 #セルフケア #メディセル #Medicell #筋膜ケア #salondemoco",
   "cover": {
-    "lead": "今夜は自分と向き合う時間",
-    "headline": "言いにくい\n【その悩み】\n書いてみませんか？"
+    "lead": "朝ごはんから内側のキレイ",
+    "headline": "なんだか\n【顔色】が冴えない\n朝はありませんか？"
   },
   "slides": [
     {
-      "title": "悩みを【書き出す】\n夜のステップ",
-      "numbered": true,
+      "title": "こんなサイン、\nありませんか？",
+      "numbered": false,
       "items": [
-        "寝る前に、静かな5分をつくる",
-        "気になるからだの変化をそのまま書く",
-        "「いつから」「どんな時」も添える",
-        "書けた自分に「えらいね」と声をかける"
+        "朝起きるのがつらく、だるさが残る",
+        "顔色がくすんで見える日が多い",
+        "階段で息が上がりやすい",
+        "爪が割れやすい・髪がパサつく"
       ]
     },
     {
-      "title": "こんなこと\n【話していいんです】",
+      "title": "朝ごはんで【鉄分】を\nちょい足し",
       "numbered": false,
       "items": [
-        "生理の量や痛みの変化",
-        "デリケートゾーンの乾燥やかゆみ",
-        "くしゃみをした時の尿もれ",
-        "ほてりや気分のゆらぎ",
-        "なんとなく続くからだの重さ"
+        "納豆や卵に小松菜・ほうれん草をひと添え",
+        "ヨーグルトにきな粉やプルーンをのせて",
+        "お味噌汁にあさりや青のりをプラス",
+        "卵やツナでたんぱく質も一緒にとる"
       ]
     },
     {
-      "title": "書いたメモの\n【やさしい活かし方】",
+      "title": "吸収を助ける\n【ひと工夫】",
       "numbered": false,
       "items": [
-        "婦人科で症状を伝えるメモに",
-        "信頼できる人に話すきっかけに",
-        "サロンでのご相談のときにも",
-        "つらい症状が続く時は医療機関へ"
+        "キウイやいちごなどビタミンCと一緒に",
+        "食事中のコーヒー・緑茶は少し時間をずらす",
+        "完璧を目指さず「1品だけ」から始める",
+        "だるさが続くときは医療機関で相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "あなたの声を\n【聞かせて】\nくださいね"
+    "lead": "内側からのキレイを応援",
+    "headline": "小さな不調も\n【お気軽に】\nご相談くださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers arranged only in the corners and along the left and right edges, a small open notebook and a fountain pen with a soft candle glow placed at the bottom corner, thin delicate gold lines and gentle sparkles, calm and relaxing nighttime mood, clean and refined, center area bright, airy and mostly empty pale color for overlaying text later, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Soft watercolor background in pale pastel green to mint, fresh and elegant feminine design for adult women. Delicate white chamomile and lily of the valley flowers with soft eucalyptus leaves and young green sprigs arranged at the four corners and left and right edges, with a few subtle hints of a morning breakfast mood such as a small bowl of fresh strawberries and a sliced kiwi placed at a lower corner. Thin gold lines and gentle sparkles, soft morning light. The center is bright, airy, with plenty of empty light-colored space for overlaying text. Clean, calm, refined, not flashy. No people's bodies, no text, no letters, no numbers, no logos.",
+  "palette": "morning",
   "images": [
-    "posts/20261111-night-1.jpg",
-    "posts/20261111-night-2.jpg",
-    "posts/20261111-night-3.jpg",
-    "posts/20261111-night-4.jpg",
-    "posts/20261111-night-5.jpg"
+    "posts/20261112-morning-1.jpg",
+    "posts/20261112-morning-2.jpg",
+    "posts/20261112-morning-3.jpg",
+    "posts/20261112-morning-4.jpg",
+    "posts/20261112-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18134357473743572",
-  "fb_post_id": "1411087672077869_122118754353506532"
+  "published": false
 }
