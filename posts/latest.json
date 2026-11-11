@@ -1,58 +1,57 @@
 {
   "date": "2026-11-11",
-  "slot": "morning",
-  "theme": "骨盤を立てる朝のデスク座り習慣",
-  "caption": "今日は1が並ぶ日。背すじも「1」のように、すっと伸ばしてみませんか？\n\nデスクワークやスマホ時間が長いと、気づかないうちに腰が丸まり、骨盤が後ろに倒れた座り方になりがちです。\nその姿勢が続くと、腰や肩の重さ、おなかまわりのめぐりの滞りにつながることも。\n\nでも大丈夫ですよ。\n座り方を少し意識するだけで、背すじが伸びて表情まで明るく見えると感じる方も多いんです。\n\n今日の投稿では\n・座り姿勢のセルフチェック\n・骨盤を立てる座り方のコツ\n・がんばりすぎずに続けるコツ\nをまとめました。画像をスワイプしてご覧くださいね🌿\n\n完璧を目指さなくて大丈夫。「あ、丸まってた」と気づいたら戻す、その繰り返しで十分です。\n\nSalon de mocoでは、メディセル（Medicell）の筋膜ケアで、こわばりをやさしくゆるめ、めぐりを整えるお手伝いをしています。\nからだの重さが気になるときは、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #骨盤ケア #美姿勢 #姿勢改善習慣 #デスクワーク女性 #腰の重さ #肩こりケア #朝習慣 #セルフケア #メディセル #筋膜ケア #大人女子 #Salondemoco",
+  "slot": "night",
+  "theme": "言いにくい悩みを書き出す夜時間",
+  "caption": "誰にも言えないからだの悩み、心の中にしまったままになっていませんか？\n\n「こんなこと、恥ずかしくて聞けない」\n「私だけかもしれない」\nそう感じて、ひとりで抱えている女性はとても多いんです。\n\nそこで今夜は、言いにくい悩みを“書き出してみる”時間のご提案です。\n口に出すのは勇気がいっても、ノートやスマホのメモなら、自分だけのペースで向き合えますよね。\n\n書いてみると、気持ちが少し軽くなったり、からだの変化に気づけたりする方も多いですよ。\nそのメモは、婦人科で症状を伝えるときにも心強い味方になってくれます。\n\n画像では、書き出し方の手順と、話していい悩みの例、メモの活かし方をまとめました。スワイプしてご覧くださいね。\n\nどんな悩みも、恥ずかしいことではありません。\nつらい症状が続くときは、無理せず婦人科などの医療機関にご相談くださいね。\n\nSalon de mocoでは、言葉にしにくいお悩みも、ゆっくり伺います。\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #女性の悩み #更年期 #PMS #デリケートゾーンケア #尿もれ #自分をいたわる #夜時間 #メディセル #筋膜ケア #千葉サロン",
   "cover": {
-    "lead": "1が並ぶ今日は背すじの日",
-    "headline": "座るとき、\n【骨盤】立って\nいますか？"
+    "lead": "今夜は自分と向き合う時間",
+    "headline": "言いにくい\n【その悩み】\n書いてみませんか？"
   },
   "slides": [
     {
-      "title": "まずはチェック\n【座り姿勢】",
-      "numbered": false,
-      "items": [
-        "背もたれに寄りかかり、腰が丸まりがち",
-        "気づくと脚を組んで座っている",
-        "夕方になると腰や肩が重く感じる",
-        "画面をのぞきこみ、あごが前に出ている"
-      ]
-    },
-    {
-      "title": "骨盤を立てる\n【座り方のコツ】",
+      "title": "悩みを【書き出す】\n夜のステップ",
       "numbered": true,
       "items": [
-        "椅子に浅めに座り、足裏を床にしっかりつける",
-        "左右のおしりの骨に、体重を均等にのせる",
-        "頭のてっぺんを糸で引かれるように背すじを伸ばす",
-        "肩の力を抜いて、ゆっくり深呼吸"
+        "寝る前に、静かな5分をつくる",
+        "気になるからだの変化をそのまま書く",
+        "「いつから」「どんな時」も添える",
+        "書けた自分に「えらいね」と声をかける"
       ]
     },
     {
-      "title": "がんばりすぎない\n【続けるコツ】",
+      "title": "こんなこと\n【話していいんです】",
       "numbered": false,
       "items": [
-        "1時間に1度は立ち上がって、ひと伸び",
-        "腰にクッションやタオルを当てるのもおすすめ",
-        "完璧より「気づいたら戻す」でOK",
-        "足元を温めて、めぐりをやさしく保つ"
+        "生理の量や痛みの変化",
+        "デリケートゾーンの乾燥やかゆみ",
+        "くしゃみをした時の尿もれ",
+        "ほてりや気分のゆらぎ",
+        "なんとなく続くからだの重さ"
+      ]
+    },
+    {
+      "title": "書いたメモの\n【やさしい活かし方】",
+      "numbered": false,
+      "items": [
+        "婦人科で症状を伝えるメモに",
+        "信頼できる人に話すきっかけに",
+        "サロンでのご相談のときにも",
+        "つらい症状が続く時は医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "あなたらしい毎日のために",
-    "headline": "からだの声、\n【気軽に】\nお聞かせくださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "あなたの声を\n【聞かせて】\nくださいね"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green to mint tones, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged only in the corners and along the left and right edges, a hint of a bright morning salon corner with a simple elegant chair and sheer curtain with gentle sunlight on one side, thin elegant gold lines and subtle sparkles, fresh, clean, refined and feminine design for adult women, the center left bright, airy and mostly empty with a very light pale color for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers arranged only in the corners and along the left and right edges, a small open notebook and a fountain pen with a soft candle glow placed at the bottom corner, thin delicate gold lines and gentle sparkles, calm and relaxing nighttime mood, clean and refined, center area bright, airy and mostly empty pale color for overlaying text later, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261111-morning-1.jpg",
-    "posts/20261111-morning-2.jpg",
-    "posts/20261111-morning-3.jpg",
-    "posts/20261111-morning-4.jpg",
-    "posts/20261111-morning-5.jpg"
+    "posts/20261111-night-1.jpg",
+    "posts/20261111-night-2.jpg",
+    "posts/20261111-night-3.jpg",
+    "posts/20261111-night-4.jpg",
+    "posts/20261111-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18116275844584043",
-  "fb_post_id": "1411087672077869_122118622293506532"
+  "published": false
 }
