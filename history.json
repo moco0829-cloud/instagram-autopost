@@ -992,5 +992,19 @@
     ],
     "media_id": "18134357473743572",
     "fb_post_id": "1411087672077869_122118754353506532"
+  },
+  {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "朝ごはんで鉄分を意識する習慣",
+    "images": [
+      "posts/20261112-morning-1.jpg",
+      "posts/20261112-morning-2.jpg",
+      "posts/20261112-morning-3.jpg",
+      "posts/20261112-morning-4.jpg",
+      "posts/20261112-morning-5.jpg"
+    ],
+    "media_id": "18101414861093233",
+    "fb_post_id": "1411087672077869_122118924129506532"
   }
 ]
