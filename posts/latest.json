@@ -1,58 +1,55 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "slot": "morning",
-  "theme": "朝ごはんで鉄分を意識する習慣",
-  "caption": "なんだか顔色が冴えない朝、ありませんか？\n\nおはようございます。Salon de mocoです。\n\n朝起きるのがつらい、鏡を見るとくすんで見える…。\nそんな日が続くと、少し気持ちも沈みますよね。\n\n毎月の生理がある女性は、鉄分が不足しがちといわれています。\n「疲れているだけかな」と見過ごしやすいからこそ、\n朝ごはんで少しだけ意識してみませんか。\n\nいつもの納豆やヨーグルトに、ひと品ちょい足しするだけでも大丈夫ですよ。\nビタミンCの果物と一緒にとったり、コーヒーは少し時間をずらしたり。\n小さな工夫が、内側からのキレイにつながります🌿\n\n今日から取り入れやすいアイデアをまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、朝の献立に迷ったときに便利です。\n\nなお、だるさや息切れが続くときは、ひとりで我慢せず婦人科や内科で相談してみてくださいね。\n\nからだのこと、気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #鉄分補給 #朝ごはん #内側からキレイ #女性の健康 #セルフケア #メディセル #Medicell #筋膜ケア #salondemoco",
+  "theme": "朝1分のからだメモで周期を知る",
+  "caption": "「なんだか今日はゆらぎやすいな」その理由、からだのリズムにあるかもしれません。\n\nおはようございます。\n金曜日の朝、いかがお過ごしですか？\n\n気分が沈む日、むくみやすい日、眠気が続く日。\n実はそれ、生理周期と関係していることも多いんです。\n\nそこでおすすめしたいのが、朝1分の「からだメモ」習慣。\n目覚めたときの気分や体調を、ひと言書き留めるだけでOKです🌿\n\n続けていくと、\n「この時期はゆらぎやすいんだ」\n「私のせいじゃなかったんだ」\nと、自分のリズムが見えてきて、心がふっと軽くなる方も多いですよ。\n\n気になる変化が続くときは、メモがあると婦人科でも伝えやすくなります。\n\n具体的なやり方と続けるコツを画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、明日の朝から始めやすいですよ。\n\nからだのことで気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #生理周期 #PMSケア #セルフケア #朝習慣 #からだメモ #ゆらぎ世代 #女性の健康 #メディセル #Medicell #SalondeMoco",
   "cover": {
-    "lead": "朝ごはんから内側のキレイ",
-    "headline": "なんだか\n【顔色】が冴えない\n朝はありませんか？"
+    "lead": "今日からできる朝の習慣",
+    "headline": "自分の【周期】、\n知って\nいますか？"
   },
   "slides": [
     {
-      "title": "こんなサイン、\nありませんか？",
-      "numbered": false,
+      "title": "朝1分の\n【からだメモ】習慣",
+      "numbered": true,
       "items": [
-        "朝起きるのがつらく、だるさが残る",
-        "顔色がくすんで見える日が多い",
-        "階段で息が上がりやすい",
-        "爪が割れやすい・髪がパサつく"
+        "目覚めたら、布団の中でひと呼吸",
+        "気分・眠気・むくみをひと言メモ",
+        "生理の始まりと終わりの日も記録",
+        "アプリや手帳など続けやすい方法で"
       ]
     },
     {
-      "title": "朝ごはんで【鉄分】を\nちょい足し",
+      "title": "記録すると\n【気づけること】",
       "numbered": false,
       "items": [
-        "納豆や卵に小松菜・ほうれん草をひと添え",
-        "ヨーグルトにきな粉やプルーンをのせて",
-        "お味噌汁にあさりや青のりをプラス",
-        "卵やツナでたんぱく質も一緒にとる"
+        "ゆらぎやすい時期がわかってくる",
+        "予定や休息を前もって調整しやすい",
+        "「私のせいじゃない」と心が軽くなる",
+        "気になる変化を婦人科で伝えやすい"
       ]
     },
     {
-      "title": "吸収を助ける\n【ひと工夫】",
+      "title": "ゆるく続ける\n【コツ】",
       "numbered": false,
       "items": [
-        "キウイやいちごなどビタミンCと一緒に",
-        "食事中のコーヒー・緑茶は少し時間をずらす",
-        "完璧を目指さず「1品だけ」から始める",
-        "だるさが続くときは医療機関で相談を"
+        "毎日完璧に書かなくて大丈夫",
+        "天気マークや絵文字ひとつでもOK",
+        "書けた日は自分をほめてあげる"
       ]
     }
   ],
   "closing": {
-    "lead": "内側からのキレイを応援",
-    "headline": "小さな不調も\n【お気軽に】\nご相談くださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "いつでも\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Soft watercolor background in pale pastel green to mint, fresh and elegant feminine design for adult women. Delicate white chamomile and lily of the valley flowers with soft eucalyptus leaves and young green sprigs arranged at the four corners and left and right edges, with a few subtle hints of a morning breakfast mood such as a small bowl of fresh strawberries and a sliced kiwi placed at a lower corner. Thin gold lines and gentle sparkles, soft morning light. The center is bright, airy, with plenty of empty light-colored space for overlaying text. Clean, calm, refined, not flashy. No people's bodies, no text, no letters, no numbers, no logos.",
+  "image_prompt": "Soft watercolor illustration background for an elegant feminine design aimed at adult women, pale pastel green to mint color gradient, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged only in the corners and along the left and right edges, a small open blank notebook and a cup of herbal tea placed subtly in a lower corner, morning sunlight feeling, thin gold lines and gentle sparkles, fresh, clean, calm and refined atmosphere, large bright empty light-colored space in the center for text overlay, no text, no letters, no numbers, no logos, no people's bodies",
   "palette": "morning",
   "images": [
-    "posts/20261112-morning-1.jpg",
-    "posts/20261112-morning-2.jpg",
-    "posts/20261112-morning-3.jpg",
-    "posts/20261112-morning-4.jpg",
-    "posts/20261112-morning-5.jpg"
+    "posts/20261113-morning-1.jpg",
+    "posts/20261113-morning-2.jpg",
+    "posts/20261113-morning-3.jpg",
+    "posts/20261113-morning-4.jpg",
+    "posts/20261113-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18101414861093233",
-  "fb_post_id": "1411087672077869_122118924129506532"
+  "published": false
 }
