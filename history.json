@@ -1006,5 +1006,19 @@
     ],
     "media_id": "18101414861093233",
     "fb_post_id": "1411087672077869_122118924129506532"
+  },
+  {
+    "date": "2026-11-13",
+    "slot": "morning",
+    "theme": "朝1分のからだメモで周期を知る",
+    "images": [
+      "posts/20261113-morning-1.jpg",
+      "posts/20261113-morning-2.jpg",
+      "posts/20261113-morning-3.jpg",
+      "posts/20261113-morning-4.jpg",
+      "posts/20261113-morning-5.jpg"
+    ],
+    "media_id": "17912326974665146",
+    "fb_post_id": "1411087672077869_122119337031506532"
   }
 ]
