@@ -1034,5 +1034,19 @@
     ],
     "media_id": "17916710916515559",
     "fb_post_id": "1411087672077869_122119498215506532"
+  },
+  {
+    "date": "2026-11-14",
+    "slot": "morning",
+    "theme": "週末の朝、猫のポーズで背中ほぐし",
+    "images": [
+      "posts/20261114-morning-1.jpg",
+      "posts/20261114-morning-2.jpg",
+      "posts/20261114-morning-3.jpg",
+      "posts/20261114-morning-4.jpg",
+      "posts/20261114-morning-5.jpg"
+    ],
+    "media_id": "18472181233189718",
+    "fb_post_id": "1411087672077869_122119691343506532"
   }
 ]
