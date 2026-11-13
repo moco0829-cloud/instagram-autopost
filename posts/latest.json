@@ -1,57 +1,57 @@
 {
   "date": "2026-11-13",
-  "slot": "morning",
-  "theme": "朝1分のからだメモで周期を知る",
-  "caption": "「なんだか今日はゆらぎやすいな」その理由、からだのリズムにあるかもしれません。\n\nおはようございます。\n金曜日の朝、いかがお過ごしですか？\n\n気分が沈む日、むくみやすい日、眠気が続く日。\n実はそれ、生理周期と関係していることも多いんです。\n\nそこでおすすめしたいのが、朝1分の「からだメモ」習慣。\n目覚めたときの気分や体調を、ひと言書き留めるだけでOKです🌿\n\n続けていくと、\n「この時期はゆらぎやすいんだ」\n「私のせいじゃなかったんだ」\nと、自分のリズムが見えてきて、心がふっと軽くなる方も多いですよ。\n\n気になる変化が続くときは、メモがあると婦人科でも伝えやすくなります。\n\n具体的なやり方と続けるコツを画像にまとめました。\nスワイプしてご覧くださいね。保存しておくと、明日の朝から始めやすいですよ。\n\nからだのことで気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #生理周期 #PMSケア #セルフケア #朝習慣 #からだメモ #ゆらぎ世代 #女性の健康 #メディセル #Medicell #SalondeMoco",
+  "slot": "night",
+  "theme": "ゆらぎ世代の冬のかゆみに寄り添う夜",
+  "caption": "夜、お布団に入るとからだがムズムズ…そんなことはありませんか？\n\n寒さが深まるこの季節。\n暖房や冷たい外気で空気が乾き、肌のかゆみに悩む方が増えてきます。\n\n特にゆらぎ世代は、女性ホルモンの変化で肌のうるおいを保ちにくくなることも。\n「年齢のせいだから」とがまんしなくて大丈夫ですよ。\n人に話しにくい小さな不調も、ちゃんといたわっていいことです。\n\n今夜からできる\n・乾きやすくなる理由\n・お風呂上がりのいたわり保湿\n・眠りを守る寝室の工夫\nを画像にまとめました。\n画像をスワイプしてご覧くださいね。\n\nあたたかさとうるおいを味方に、からだのめぐりを整えることも、心地よい肌への第一歩です🌙\n\nなお、かゆみや赤みが長く続くときは、無理せず皮膚科など医療機関にご相談くださいね。\n\nSalon de mocoでは、Medicell（メディセル）での筋膜ケアで、めぐりを整える時間をご用意しています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #ゆらぎ世代 #更年期ケア #冬の乾燥対策 #乾燥肌ケア #保湿習慣 #夜のセルフケア #自分をいたわる時間 #メディセル #Medicell #大人女性の美容 #千葉サロン",
   "cover": {
-    "lead": "今日からできる朝の習慣",
-    "headline": "自分の【周期】、\n知って\nいますか？"
+    "lead": "冬の夜、肌がムズムズ…",
+    "headline": "その【かゆみ】、\nがまんして\nいませんか？"
   },
   "slides": [
     {
-      "title": "朝1分の\n【からだメモ】習慣",
+      "title": "ゆらぎ世代の肌が\n【乾きやすい】理由",
+      "numbered": false,
+      "items": [
+        "ホルモンのゆらぎで、うるおいを保ちにくくなることも",
+        "暖房や冷たい外気で、冬は空気がとても乾燥",
+        "熱いお湯や洗いすぎで、うるおいが流れやすい",
+        "衣類の締めつけやこすれも、ムズムズのきっかけに"
+      ]
+    },
+    {
+      "title": "お風呂上がりの\n【いたわり保湿】",
       "numbered": true,
       "items": [
-        "目覚めたら、布団の中でひと呼吸",
-        "気分・眠気・むくみをひと言メモ",
-        "生理の始まりと終わりの日も記録",
-        "アプリや手帳など続けやすい方法で"
+        "お湯はぬるめにして、ゆったりと温まる",
+        "からだは泡でなでるように、ゴシゴシしない",
+        "タオルは押し当てて、水分をやさしく吸わせる",
+        "肌がしっとりしているうちに、保湿をたっぷり",
+        "すねや背中、腰まわりは重ねてていねいに"
       ]
     },
     {
-      "title": "記録すると\n【気づけること】",
+      "title": "眠りを守る\n【寝室】の小さな工夫",
       "numbered": false,
       "items": [
-        "ゆらぎやすい時期がわかってくる",
-        "予定や休息を前もって調整しやすい",
-        "「私のせいじゃない」と心が軽くなる",
-        "気になる変化を婦人科で伝えやすい"
-      ]
-    },
-    {
-      "title": "ゆるく続ける\n【コツ】",
-      "numbered": false,
-      "items": [
-        "毎日完璧に書かなくて大丈夫",
-        "天気マークや絵文字ひとつでもOK",
-        "書けた日は自分をほめてあげる"
+        "加湿器や濡れタオルで、お部屋にうるおいを",
+        "パジャマは綿など、肌あたりのやさしい素材に",
+        "電気毛布は寝る前に切って、温めすぎない",
+        "かゆみや赤みが続くときは、皮膚科に相談を"
       ]
     }
   ],
   "closing": {
     "lead": "ひとりで抱えないで",
-    "headline": "いつでも\n【ご相談】\nくださいね"
+    "headline": "小さな悩みも\n気軽に【ご相談】\nくださいね"
   },
-  "image_prompt": "Soft watercolor illustration background for an elegant feminine design aimed at adult women, pale pastel green to mint color gradient, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged only in the corners and along the left and right edges, a small open blank notebook and a cup of herbal tea placed subtly in a lower corner, morning sunlight feeling, thin gold lines and gentle sparkles, fresh, clean, calm and refined atmosphere, large bright empty light-colored space in the center for text overlay, no text, no letters, no numbers, no logos, no people's bodies",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, delicate watercolor lavender, wisteria and lilac flowers arranged only in the corners and along the left and right edges, a soft folded cotton cloth and a small glass of water hinting at moisturizing night care, thin fine gold lines and gentle subtle sparkles, calm relaxing nighttime mood, clean and refined, the center left bright, airy and mostly empty with plenty of pale negative space for overlaying a headline, no people's bare skin, no text, no letters, no numbers, no logos, no watermark",
+  "palette": "night",
   "images": [
-    "posts/20261113-morning-1.jpg",
-    "posts/20261113-morning-2.jpg",
-    "posts/20261113-morning-3.jpg",
-    "posts/20261113-morning-4.jpg",
-    "posts/20261113-morning-5.jpg"
+    "posts/20261113-night-1.jpg",
+    "posts/20261113-night-2.jpg",
+    "posts/20261113-night-3.jpg",
+    "posts/20261113-night-4.jpg",
+    "posts/20261113-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17912326974665146",
-  "fb_post_id": "1411087672077869_122119337031506532"
+  "published": false
 }
