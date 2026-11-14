@@ -1062,5 +1062,19 @@
     ],
     "media_id": "17965557516246404",
     "fb_post_id": "1411087672077869_122119840167506532"
+  },
+  {
+    "date": "2026-11-15",
+    "slot": "morning",
+    "theme": "日曜の朝、白湯でめぐりを整える習慣",
+    "images": [
+      "posts/20261115-morning-1.jpg",
+      "posts/20261115-morning-2.jpg",
+      "posts/20261115-morning-3.jpg",
+      "posts/20261115-morning-4.jpg",
+      "posts/20261115-morning-5.jpg"
+    ],
+    "media_id": "18186484309425249",
+    "fb_post_id": "1411087672077869_122120010477506532"
   }
 ]
