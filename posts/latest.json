@@ -1,57 +1,56 @@
 {
   "date": "2026-11-14",
-  "slot": "morning",
-  "theme": "週末の朝、猫のポーズで背中ほぐし",
-  "caption": "週末の朝、背中や腰が少し重たく感じていませんか？\n\nおはようございます。Salon de mocoです🌿\n\n平日のデスクワークや家事で、背中や腰は知らないうちにこわばりがち。\n寒さが増すこの季節は、なおさら縮こまりやすくなります。\n\nそこで今朝おすすめしたいのが、四つ這いでできる「猫のポーズ」。\n呼吸に合わせて背中を丸めたり、ゆるやかに反らしたりするだけのシンプルな動きです。\n\n背骨まわりがほぐれて、腰や下腹部の重さが和らぐと感じる方も多いですよ。\n上手にできなくても大丈夫。「気持ちいい」と感じる範囲で、ゆっくり続けてみてくださいね。\n\nやり方とポイントをまとめたので、画像をスワイプしてご覧ください。\n保存しておくと、週末の朝にすぐ見返せます。\n\nからだのこわばりが気になるときは、Medicell（メディセル）の筋膜ケアでめぐりを整えるのもおすすめです。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #猫のポーズ #朝ストレッチ #腰の重さ #背中ほぐし #生理痛ケア #セルフケア習慣 #メディセル #筋膜ケア #大人の女性",
+  "slot": "night",
+  "theme": "週末の夜、脚の重だるさをいたわる",
+  "caption": "夕方になると、脚が重たく感じませんか？\n\n立ちっぱなしの家事やお仕事、座りっぱなしのデスクワーク。\n一週間がんばった脚は、思っている以上にお疲れかもしれません。\n\n「むくみくらいで」と見過ごしがちですが、脚の重だるさや冷えは、眠りにくさや腰の重さにつながると感じる方も多いんです。\n小さなつらさも、ちゃんといたわっていいことなんですよ。\n\n今夜は、お布団に入る前にできるやさしい脚ほぐしと、眠るときの工夫をまとめました。\n画像をスワイプしてご覧くださいね。保存しておくと、疲れた夜にすぐ見返せます。\n\nサロンでは、メディセル（Medicell）で皮膚をやさしく吸い上げ、筋膜のこわばりをゆるめてめぐりを整えるケアを行っています。脚が軽やかに感じたとおっしゃる方も多いですよ。\n\n痛みや強いむくみが続くときは、無理せず医療機関にもご相談くださいね。\n\nひとりで抱えず、お気軽にDMでご相談くださいね🌙\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #メディセル #Medicell #筋膜ケア #むくみケア #冷え対策 #脚のむくみ #セルフケア #夜のリラックス時間 #大人女性の美容 #SalondeMoco",
   "cover": {
-    "lead": "週末の朝の1分ストレッチ",
-    "headline": "背中と腰を\n【猫のポーズ】で\nゆるめませんか？"
+    "lead": "一週間おつかれさまでした",
+    "headline": "その脚の\n【重だるさ】、\nがまんしないで"
   },
   "slides": [
     {
-      "title": "【猫のポーズ】の\nやり方",
+      "title": "脚の【重だるさ】\nこんなサインありませんか",
+      "numbered": false,
+      "items": [
+        "夕方になると靴がきつく感じる",
+        "靴下のあとがくっきり残る",
+        "ふくらはぎが張って重たい",
+        "足先が冷えて寝つきにくい"
+      ]
+    },
+    {
+      "title": "寝る前にできる\n【やさしい脚ほぐし】",
       "numbered": true,
       "items": [
-        "四つ這いになり、手は肩の下、ひざは腰の下に",
-        "息を吐きながら、おへそをのぞくように背中を丸める",
-        "息を吸いながら、胸をひらいて背中をゆるやかに反らす",
-        "呼吸に合わせて、ゆっくり5回ほどくり返す"
+        "足の指をグーパーして指先をほぐす",
+        "足首をゆっくり大きく回す",
+        "ふくらはぎを下から上へやさしくさする",
+        "仰向けで脚を少し高くして深呼吸"
       ]
     },
     {
-      "title": "心地よく続ける\n【ポイント】",
+      "title": "眠る前の\n【いたわりポイント】",
       "numbered": false,
       "items": [
-        "反らしすぎず「気持ちいい」範囲でOK",
-        "ひざが痛い日はタオルやマットを敷いて",
-        "だるい日や生理中は、回数を減らしても大丈夫",
-        "つらい痛みが続く時は、婦人科など医療機関へ"
-      ]
-    },
-    {
-      "title": "こんな朝に\n【おすすめ】です",
-      "numbered": false,
-      "items": [
-        "寝起きに背中や腰がこわばっているとき",
-        "生理前で下腹部の重さを感じるとき",
-        "週末、ゆっくり自分を整えたいとき"
+        "クッションで足を少し高くして休む",
+        "締めつけの少ない靴下で足元を温める",
+        "白湯でからだを内側から温める",
+        "痛みや強いむくみが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "週末も自分をいたわって",
-    "headline": "からだの重さ\nお気軽に\n【ご相談】ください"
+    "lead": "がんばった脚にありがとう",
+    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
   },
-  "image_prompt": "Soft watercolor illustration background in pale pastel green and mint tones, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, thin elegant gold lines and gentle sparkles, morning sunlight feeling, a soft folded yoga mat and light linen fabric subtly placed near the bottom corner, fresh, calm, clean and feminine design for adult women, the center is bright, airy and mostly empty with plenty of light space for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender sprigs, wisteria and lilac flowers gently placed in the corners and along the left and right edges, a soft folded lilac blanket and a small cushion hinting at relaxing evening rest, thin delicate gold lines and subtle sparkles, calm cozy night atmosphere, the center left bright, airy and mostly empty in a pale soft color for overlaying a headline, refined and clean, no people's bare skin, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261114-morning-1.jpg",
-    "posts/20261114-morning-2.jpg",
-    "posts/20261114-morning-3.jpg",
-    "posts/20261114-morning-4.jpg",
-    "posts/20261114-morning-5.jpg"
+    "posts/20261114-night-1.jpg",
+    "posts/20261114-night-2.jpg",
+    "posts/20261114-night-3.jpg",
+    "posts/20261114-night-4.jpg",
+    "posts/20261114-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18472181233189718",
-  "fb_post_id": "1411087672077869_122119691343506532"
+  "published": false
 }
