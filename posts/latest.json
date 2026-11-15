@@ -1,59 +1,45 @@
 {
-  "date": "2026-11-15",
-  "slot": "night",
-  "theme": "婦人科へ行く勇気をそっと後押し",
-  "caption": "「婦人科、行ったほうがいいのかな…」そう思いながら、後回しにしていませんか？\n\n恥ずかしい、何を聞かれるか不安、こんなことで行っていいのかな。\nそう感じるのは、あなただけではありません。\n実は、同じ気持ちを抱えている女性はとても多いんです。\n\nでも、婦人科は「病気になってから行く場所」だけではなく、\n自分のからだを知り、安心するための場所でもあります。\n\n今日は、相談を考えたいサインと、\n受診の前にしておくと気持ちがラクになる準備をまとめました。\n画像をスワイプしてご覧くださいね。\n\n症状をメモしておくだけでも、伝えるハードルはぐっと下がります。\n\"話していいこと\"として、どうぞ大切に扱ってあげてください。\n\n日曜の夜、明日からの1週間を少し軽やかに迎えられますように🌙\n\nSalon de mocoでは、日々のからだのこわばりやめぐりのケアを通して、\n女性の毎日に寄り添っています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #婦人科 #女性の悩み #生理痛 #更年期 #ゆらぎ世代 #自分をいたわる #メディセル #Medicell #筋膜ケア #千葉サロン",
+  "date": "2026-11-16",
+  "slot": "morning",
+  "theme": "月曜の朝、自分にやさしい声かけ習慣",
+  "caption": "月曜の朝、鏡の中の自分に何と声をかけていますか？\n\n「あ〜、また1週間が始まる…」\n「なんだか今日もからだが重い」\n\nそんなふうに、つい自分にきびしい言葉を向けていませんか。\n\n生理前のゆらぎや、更年期の不調がある日は、思うように動けないこともありますよね。\nでもそれは、あなたのからだが毎日がんばっているサイン。責めなくて大丈夫ですよ。\n\n今日は、朝の数秒でできる「自分へのやさしい声かけ習慣」をまとめました。\n鏡の前で笑いかけるだけでも、気持ちがふっとほどけるのを感じる方も多いんです🌿\n\n不調の日は予定をひとつ減らすのも、立派なセルフケア。\n気になる変化はメモしておくと、誰かに話すときの助けにもなります。\nつらさが続くときは、婦人科などの医療機関にも相談してくださいね。\n\n画像をスワイプしてご覧くださいね。\n保存して、月曜の朝のお守りにしていただけたらうれしいです。\n\n言いにくいからだの悩みも、ここでは「話していいこと」。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #セルフケア #朝習慣 #月曜日の朝 #ゆらぎ世代 #更年期ケア #PMSケア #女性の健康 #メディセル #Medicell #筋膜ケア #salondemoco",
   "cover": {
-    "lead": "日曜の夜に、少しだけ",
-    "headline": "【婦人科】って\n行きにくい\nですよね"
+    "lead": "月曜の朝に、ひと呼吸",
+    "headline": "今日の自分に\n【やさしい言葉】\nかけていますか？"
   },
   "slides": [
     {
-      "title": "こんなときは\n【相談のサイン】",
-      "numbered": false,
-      "items": [
-        "生理痛で日常生活がつらい",
-        "経血の量や周期が急に変わった",
-        "生理以外の出血が気になる",
-        "かゆみやにおいが続いている",
-        "ゆらぎの不調で眠れない日が続く"
-      ]
-    },
-    {
-      "title": "受診の前に\n【準備しておくこと】",
+      "title": "朝のやさしい\n【声かけ習慣】",
       "numbered": true,
       "items": [
-        "最近の生理開始日をメモする",
-        "気になる症状といつからかを書き出す",
-        "聞きたいことを箇条書きにしておく",
-        "脱ぎ着しやすい服を選ぶ"
+        "鏡の前で「おはよう」と笑いかける",
+        "「今日のからだはどう？」と聞いてみる",
+        "不調の日は「無理しなくていいよ」",
+        "小さくできたことを「えらいね」とほめる"
       ]
     },
     {
-      "title": "心が軽くなる\n【考え方のヒント】",
+      "title": "【ゆらぎの日】の\n心の置きどころ",
       "numbered": false,
       "items": [
-        "「こんなことで」と思わなくて大丈夫",
-        "うまく話せなくてもメモを見せればOK",
-        "相談はからだを知るための一歩",
-        "通いやすい場所を選んでいい"
+        "不調は「がんばっているサイン」と捉える",
+        "予定をひとつ減らすのも立派なセルフケア",
+        "気になる変化はメモして誰かに話す",
+        "つらさが続く時は婦人科にも相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "いつでも\n【ご相談】\nくださいね"
+    "lead": "話していいことだから",
+    "headline": "いつでも\n【ご相談】\nお待ちしています"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, thin delicate gold lines and soft subtle sparkles, calm relaxing evening atmosphere, a softly glowing teacup and a small notebook with a pen near the bottom corner suggesting quiet self-care, center kept bright, airy and empty with plenty of pale negative space for text overlay, clean, refined, gentle, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint gradient background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, a small round vintage mirror softly suggested among the flowers at one corner, gentle morning sunlight, thin fine gold lines and subtle sparkles, fresh, calm and clean atmosphere, large bright empty space in the center with very light airy color for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261115-night-1.jpg",
-    "posts/20261115-night-2.jpg",
-    "posts/20261115-night-3.jpg",
-    "posts/20261115-night-4.jpg",
-    "posts/20261115-night-5.jpg"
+    "posts/20261116-morning-1.jpg",
+    "posts/20261116-morning-2.jpg",
+    "posts/20261116-morning-3.jpg",
+    "posts/20261116-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "18026743880925474",
-  "fb_post_id": "1411087672077869_122120159259506532"
+  "published": false
 }
