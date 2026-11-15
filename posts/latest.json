@@ -1,58 +1,57 @@
 {
   "date": "2026-11-15",
-  "slot": "morning",
-  "theme": "日曜の朝、白湯でめぐりを整える習慣",
-  "caption": "日曜の朝、まずは一杯の「白湯」から始めてみませんか。\n\nおはようございます。Salon de mocoです。\n11月も半ばになり、朝の空気がぐっと冷たくなってきましたね。\n布団から出てもなかなかからだが目覚めない…そんな朝はありませんか？\n\n寝起きのからだは、思っている以上に冷えていることも。\nそんなときにおすすめしたいのが、朝いちばんの白湯です。\n\nおなかの内側からぽかぽかと温まり、\n「めぐりを感じやすくなった」「朝がすっきりする」という方も多いんですよ。\nほっとひと息つく時間は、心にもやさしいご褒美になります。\n\nつくり方や飲み方のコツを画像にまとめましたので、\nスワイプしてご覧くださいね。保存しておくと、明日の朝にも役立ちます。\n\n内側からのキレイは、小さな習慣の積み重ねから。\n完璧でなくて大丈夫です。できる日に、心地よい分だけ続けてみてくださいね。\n\n冷えやめぐりのことで気になることがあれば、\nひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #白湯 #朝習慣 #温活 #冷え対策 #めぐりケア #内側からキレイ #セルフケア #大人女子 #メディセル #SalondeMoco",
+  "slot": "night",
+  "theme": "婦人科へ行く勇気をそっと後押し",
+  "caption": "「婦人科、行ったほうがいいのかな…」そう思いながら、後回しにしていませんか？\n\n恥ずかしい、何を聞かれるか不安、こんなことで行っていいのかな。\nそう感じるのは、あなただけではありません。\n実は、同じ気持ちを抱えている女性はとても多いんです。\n\nでも、婦人科は「病気になってから行く場所」だけではなく、\n自分のからだを知り、安心するための場所でもあります。\n\n今日は、相談を考えたいサインと、\n受診の前にしておくと気持ちがラクになる準備をまとめました。\n画像をスワイプしてご覧くださいね。\n\n症状をメモしておくだけでも、伝えるハードルはぐっと下がります。\n\"話していいこと\"として、どうぞ大切に扱ってあげてください。\n\n日曜の夜、明日からの1週間を少し軽やかに迎えられますように🌙\n\nSalon de mocoでは、日々のからだのこわばりやめぐりのケアを通して、\n女性の毎日に寄り添っています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #婦人科 #女性の悩み #生理痛 #更年期 #ゆらぎ世代 #自分をいたわる #メディセル #Medicell #筋膜ケア #千葉サロン",
   "cover": {
-    "lead": "日曜の朝のやさしい習慣",
-    "headline": "朝いちばんの\n【白湯】、\n始めませんか？"
+    "lead": "日曜の夜に、少しだけ",
+    "headline": "【婦人科】って\n行きにくい\nですよね"
   },
   "slides": [
     {
-      "title": "白湯のうれしい\n【ポイント】",
+      "title": "こんなときは\n【相談のサイン】",
       "numbered": false,
       "items": [
-        "寝起きのからだを内側からやさしく温める",
-        "おなかがぽかぽかして、目覚めがすっきり",
-        "めぐりを感じやすくなる方も多い",
-        "ほっとひと息、心も穏やかな一日のスタートに"
+        "生理痛で日常生活がつらい",
+        "経血の量や周期が急に変わった",
+        "生理以外の出血が気になる",
+        "かゆみやにおいが続いている",
+        "ゆらぎの不調で眠れない日が続く"
       ]
     },
     {
-      "title": "おいしい白湯の\n【つくり方】",
+      "title": "受診の前に\n【準備しておくこと】",
       "numbered": true,
       "items": [
-        "やかんにお水を入れて火にかける",
-        "沸騰したら火を弱め、数分ほど沸かし続ける",
-        "人肌より少し温かいくらいまで冷ます",
-        "忙しい朝は電子レンジで手軽につくってもOK"
+        "最近の生理開始日をメモする",
+        "気になる症状といつからかを書き出す",
+        "聞きたいことを箇条書きにしておく",
+        "脱ぎ着しやすい服を選ぶ"
       ]
     },
     {
-      "title": "飲むときの\nちょっとしたコツ",
+      "title": "心が軽くなる\n【考え方のヒント】",
       "numbered": false,
       "items": [
-        "時間をかけて、少しずつゆっくりすする",
-        "熱すぎない温度で、やけどに気をつける",
-        "深呼吸しながら、温かさをじんわり味わう",
-        "無理に量を増やさず、心地よい分だけでOK"
+        "「こんなことで」と思わなくて大丈夫",
+        "うまく話せなくてもメモを見せればOK",
+        "相談はからだを知るための一歩",
+        "通いやすい場所を選んでいい"
       ]
     }
   ],
   "closing": {
-    "lead": "自分をいたわる朝に",
-    "headline": "気になることは\n【DM】で\nお気軽に"
+    "lead": "ひとりで抱えないで",
+    "headline": "いつでも\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine background design for adult women, soft pale pastel green to mint watercolor background, delicate white small flowers such as chamomile and lily of the valley with eucalyptus and soft young green leaves painted in watercolor style, a simple white ceramic cup with gentle steam rising placed near the lower corner, soft morning sunlight, thin gold lines and gentle sparkles, fresh, calm, clean and refined atmosphere. All motifs placed at the four corners and left and right edges, the center kept bright, light-colored and mostly empty with plenty of open space for text overlay. No people's body parts, no text, no letters, no numbers, no logos, no watermark.",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender, wisteria and lilac flowers gently arranged in the corners and along the left and right edges, thin delicate gold lines and soft subtle sparkles, calm relaxing evening atmosphere, a softly glowing teacup and a small notebook with a pen near the bottom corner suggesting quiet self-care, center kept bright, airy and empty with plenty of pale negative space for text overlay, clean, refined, gentle, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261115-morning-1.jpg",
-    "posts/20261115-morning-2.jpg",
-    "posts/20261115-morning-3.jpg",
-    "posts/20261115-morning-4.jpg",
-    "posts/20261115-morning-5.jpg"
+    "posts/20261115-night-1.jpg",
+    "posts/20261115-night-2.jpg",
+    "posts/20261115-night-3.jpg",
+    "posts/20261115-night-4.jpg",
+    "posts/20261115-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18186484309425249",
-  "fb_post_id": "1411087672077869_122120010477506532"
+  "published": false
 }
