@@ -1117,5 +1117,19 @@
     ],
     "media_id": "18137429083665010",
     "fb_post_id": "1411087672077869_122120478165506532"
+  },
+  {
+    "date": "2026-11-17",
+    "slot": "morning",
+    "theme": "朝のトイレ時間をいたわる習慣",
+    "images": [
+      "posts/20261117-morning-1.jpg",
+      "posts/20261117-morning-2.jpg",
+      "posts/20261117-morning-3.jpg",
+      "posts/20261117-morning-4.jpg",
+      "posts/20261117-morning-5.jpg"
+    ],
+    "media_id": "18155655229497131",
+    "fb_post_id": "1411087672077869_122120618655506532"
   }
 ]
