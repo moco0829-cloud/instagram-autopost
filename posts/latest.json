@@ -1,47 +1,57 @@
 {
   "date": "2026-11-16",
-  "slot": "morning",
-  "theme": "月曜の朝、自分にやさしい声かけ習慣",
-  "caption": "月曜の朝、鏡の中の自分に何と声をかけていますか？\n\n「あ〜、また1週間が始まる…」\n「なんだか今日もからだが重い」\n\nそんなふうに、つい自分にきびしい言葉を向けていませんか。\n\n生理前のゆらぎや、更年期の不調がある日は、思うように動けないこともありますよね。\nでもそれは、あなたのからだが毎日がんばっているサイン。責めなくて大丈夫ですよ。\n\n今日は、朝の数秒でできる「自分へのやさしい声かけ習慣」をまとめました。\n鏡の前で笑いかけるだけでも、気持ちがふっとほどけるのを感じる方も多いんです🌿\n\n不調の日は予定をひとつ減らすのも、立派なセルフケア。\n気になる変化はメモしておくと、誰かに話すときの助けにもなります。\nつらさが続くときは、婦人科などの医療機関にも相談してくださいね。\n\n画像をスワイプしてご覧くださいね。\n保存して、月曜の朝のお守りにしていただけたらうれしいです。\n\n言いにくいからだの悩みも、ここでは「話していいこと」。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #セルフケア #朝習慣 #月曜日の朝 #ゆらぎ世代 #更年期ケア #PMSケア #女性の健康 #メディセル #Medicell #筋膜ケア #salondemoco",
+  "slot": "night",
+  "theme": "座り疲れのお尻をほどく夜",
+  "caption": "腰が重いのは、実は「お尻」のこわばりのせいかもしれません。\n\n月曜日、おつかれさまでした。\n一日座りっぱなしだった方も多いのではないでしょうか。\n\nお尻まわりの筋肉は、座る時間が長いほど縮こまりやすく、\n腰や骨盤まわりの重さにつながることがあるんです。\n冷えやすいこれからの季節や、生理前後のゆらぎやすい時期は、なおさら感じやすいかもしれません。\n\nでも大丈夫ですよ。\n寝る前に布団の上で、ほんの数分お尻をのばしてあげるだけで、\nすっきり軽やかに感じる方も多いんです。\n\n画像をスワイプして、やさしいストレッチの手順をご覧くださいね。\n保存しておくと、今夜からすぐに試せます🌙\n\nSalon de mocoでは、メディセル（Medicell）で筋膜のこわばりをやさしくゆるめ、めぐりを整えるケアをおこなっています。\n腰やお尻まわりの重さに、心地よさを感じていただける方も多いですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #腰の重さ #お尻ストレッチ #骨盤ケア #寝る前ストレッチ #筋膜ケア #メディセル #Medicell #ゆらぎ世代 #自分をいたわる時間 #千葉サロン",
   "cover": {
-    "lead": "月曜の朝に、ひと呼吸",
-    "headline": "今日の自分に\n【やさしい言葉】\nかけていますか？"
+    "lead": "月曜の夜にそっと",
+    "headline": "その【腰の重さ】、\nお尻の疲れ\nかもしれません"
   },
   "slides": [
     {
-      "title": "朝のやさしい\n【声かけ習慣】",
+      "title": "寝る前の\n【お尻ほぐし】ストレッチ",
       "numbered": true,
       "items": [
-        "鏡の前で「おはよう」と笑いかける",
-        "「今日のからだはどう？」と聞いてみる",
-        "不調の日は「無理しなくていいよ」",
-        "小さくできたことを「えらいね」とほめる"
+        "仰向けで両ひざを立て、深呼吸をひとつ",
+        "右足首を左ひざにのせ、4の字の形をつくる",
+        "左ももを両手で抱え、胸へやさしく引き寄せる",
+        "お尻の伸びを感じながら、ゆっくり5呼吸",
+        "反対側も同じように。痛みのない範囲で"
       ]
     },
     {
-      "title": "【ゆらぎの日】の\n心の置きどころ",
+      "title": "お尻がこわばりやすい\n【こんなとき】に",
       "numbered": false,
       "items": [
-        "不調は「がんばっているサイン」と捉える",
-        "予定をひとつ減らすのも立派なセルフケア",
-        "気になる変化はメモして誰かに話す",
-        "つらさが続く時は婦人科にも相談を"
+        "長時間のデスクワークや運転のあと",
+        "寒さでからだが縮こまりがちな季節",
+        "生理前後で、腰まわりが重く感じる日",
+        "脚を組む・片側に体重をかけるクセがある"
+      ]
+    },
+    {
+      "title": "夜の【いたわり】ポイント",
+      "numbered": false,
+      "items": [
+        "入浴後、からだが温かいうちに行う",
+        "反動をつけず、呼吸を止めずにゆっくりと",
+        "ブランケットを敷いて、冷えから守る",
+        "つらい痛みが続くときは医療機関へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "話していいことだから",
-    "headline": "いつでも\n【ご相談】\nお待ちしています"
+    "lead": "今日もおつかれさまでした",
+    "headline": "ひとりで\n抱えずに\n【ご相談】ください"
   },
-  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint gradient background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, a small round vintage mirror softly suggested among the flowers at one corner, gentle morning sunlight, thin fine gold lines and subtle sparkles, fresh, calm and clean atmosphere, large bright empty space in the center with very light airy color for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient background, watercolor-style lavender, wisteria and lilac flowers arranged only in the corners and along the left and right edges, a soft folded light blanket and a cozy cushion hinting at a relaxing bedtime stretch, thin delicate gold lines and gentle sparkles, calm evening relaxation atmosphere, clean and serene, the center left bright and empty with plenty of pale negative space for overlaying a headline, no people's bodies shown, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261116-morning-1.jpg",
-    "posts/20261116-morning-2.jpg",
-    "posts/20261116-morning-3.jpg",
-    "posts/20261116-morning-4.jpg"
+    "posts/20261116-night-1.jpg",
+    "posts/20261116-night-2.jpg",
+    "posts/20261116-night-3.jpg",
+    "posts/20261116-night-4.jpg",
+    "posts/20261116-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18645818947031238",
-  "fb_post_id": "1411087672077869_122120319009506532"
+  "published": false
 }
