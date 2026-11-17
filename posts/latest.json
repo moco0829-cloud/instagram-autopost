@@ -1,58 +1,47 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "slot": "morning",
-  "theme": "朝のトイレ時間をいたわる習慣",
-  "caption": "朝のトイレ、バタバタと急いで済ませていませんか？\n\n出かける前の慌ただしい時間。\nつい力んだり、「時間がないから」と我慢したまま家を出たり。\n実はそんな方、とても多いんです。\n\nトイレのことは、なかなか人と話題にしにくいですよね。\nでも、毎日のことだからこそ、ちょっとした意識で\nからだへのやさしさが変わります。\n\n・急がず、ゆっくり座る\n・いきまず、深呼吸しながら自然にまかせる\n・我慢しすぎず、行けるときに行っておく\n・冷えやすい季節は、おなかと腰を温める\n\nどれも今日からすぐにできることばかりです。\n詳しくは画像をスワイプしてご覧くださいね。\n\nなお、痛みや違和感がある、回数が急に増えたなど、\n気になる状態が続くときは、婦人科や泌尿器科へご相談くださいね。\n\n「こんなこと聞いていいのかな」と思うことも、大丈夫ですよ。\nひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #セルフケア #朝習慣 #尿もれ #骨盤底筋 #冷え対策 #メディセル #Medicell #更年期 #ゆらぎ世代 #salondemoco",
+  "theme": "歯みがき中のかかと上げ朝習慣",
+  "caption": "歯みがきの2分間、足もとはどうしていますか？\n\n週の真ん中の水曜日。\n少しずつ疲れがたまって、脚が重く感じたり、足先が冷えたりする朝もありますよね。\n\nそんな日におすすめなのが、歯みがきをしながらの「かかと上げ」です。\nふくらはぎは「第二の心臓」とも呼ばれ、動かすことでめぐりを後押ししてくれると言われています。\n\nやり方はとてもシンプル。\n洗面台に軽く手を添えて、ゆっくりかかとを上げて、ゆっくり下ろすだけ。\nお尻をきゅっと意識すると、姿勢もすっと整う感覚を感じる方も多いですよ🌿\n\n「わざわざ運動の時間をつくるのはむずかしい」という方でも、毎朝の歯みがきとセットにすれば、自然と続けやすくなります。\n\n手順とポイントを画像にまとめましたので、スワイプしてご覧くださいね。\n保存して、明日の朝の歯みがきタイムにどうぞ。\n\nむくみや冷え、脚の重だるさなど、気になることがあれば、ひとりで抱えずお気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #朝習慣 #ながらケア #かかと上げ #むくみケア #冷え対策 #めぐりケア #メディセル #Medicell #大人女子のセルフケア",
   "cover": {
-    "lead": "朝のトイレ、急いでいませんか",
-    "headline": "【トイレ時間】も\nやさしい\nセルフケア"
+    "lead": "週の折り返しの朝に",
+    "headline": "歯みがき中に\n【かかと上げ】\nしませんか？"
   },
   "slides": [
     {
-      "title": "朝のトイレ時間を\n【ゆったり】と",
-      "numbered": false,
+      "title": "歯みがきしながら\n【かかと上げ】の手順",
+      "numbered": true,
       "items": [
-        "起きたら急がず、ゆっくり座る",
-        "いきまず、深呼吸しながら自然にまかせる",
-        "背すじを軽く伸ばし、足裏を床につける",
-        "終わったら前から後ろへ、やさしく拭く"
+        "足を腰幅にひらき、洗面台に軽く手を添えます",
+        "息を吐きながら、ゆっくりかかとを上げます",
+        "上げたところで2秒ほど、ふんわりキープ",
+        "ゆっくりかかとを下ろします",
+        "10回を目安に、無理のない回数で大丈夫です"
       ]
     },
     {
-      "title": "通勤・家事の合間の\n【小さな工夫】",
+      "title": "心地よく続ける\n【ポイント】",
       "numbered": false,
       "items": [
-        "出かける前に、ひと息ついてトイレへ",
-        "我慢しすぎず、行けるときに行っておく",
-        "冷えやすい季節は、おなかと腰を温める",
-        "水分はこまめに、少しずつとる"
-      ]
-    },
-    {
-      "title": "こんなときは\n【専門家】へ相談を",
-      "numbered": false,
-      "items": [
-        "排尿のときに痛みや違和感がある",
-        "トイレの回数が急に増えた",
-        "残っている感じがずっと続く",
-        "婦人科や泌尿器科で相談してみましょう"
+        "ふらつくときは、両手で洗面台を支えて",
+        "お尻をきゅっと意識すると姿勢もすっきり",
+        "冷える朝は靴下をはいてから行いましょう",
+        "痛みや違和感がある日は、お休みしてOK",
+        "毎朝の歯みがきとセットにして習慣に"
       ]
     }
   ],
   "closing": {
-    "lead": "話していいことですよ",
-    "headline": "気になることは\n【気軽に】\nご相談ください"
+    "lead": "からだの声に耳をすませて",
+    "headline": "気になることは\n【DM】で\nお気軽に"
   },
-  "image_prompt": "Elegant feminine watercolor illustration for adult women, soft pale pastel green to mint background, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged only in the corners and along the left and right edges, thin gold lines and gentle sparkles, fresh morning light, clean and calm atmosphere, the center left bright, light and mostly empty for overlaying text, no people's bodies, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine watercolor illustration background for an adult woman's morning self-care post. Soft pale pastel green to mint gradient background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, thin gold lines and gentle sparkles, soft morning light, fresh, clean, calm and refined atmosphere. The center is bright, airy and mostly empty pale space for overlaying a headline later. No people, no body parts, no text, no letters, no numbers, no logos.",
   "palette": "morning",
   "images": [
-    "posts/20261117-morning-1.jpg",
-    "posts/20261117-morning-2.jpg",
-    "posts/20261117-morning-3.jpg",
-    "posts/20261117-morning-4.jpg",
-    "posts/20261117-morning-5.jpg"
+    "posts/20261118-morning-1.jpg",
+    "posts/20261118-morning-2.jpg",
+    "posts/20261118-morning-3.jpg",
+    "posts/20261118-morning-4.jpg"
   ],
-  "published": true,
-  "media_id": "18155655229497131",
-  "fb_post_id": "1411087672077869_122120618655506532"
+  "published": false
 }
