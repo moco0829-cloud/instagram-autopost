@@ -1157,5 +1157,19 @@
     ],
     "media_id": "18034922168906952",
     "fb_post_id": "1411087672077869_122121197181506532"
+  },
+  {
+    "date": "2026-11-20",
+    "slot": "morning",
+    "theme": "金曜の朝、肩甲骨で胸をひらく習慣",
+    "images": [
+      "posts/20261120-morning-1.jpg",
+      "posts/20261120-morning-2.jpg",
+      "posts/20261120-morning-3.jpg",
+      "posts/20261120-morning-4.jpg",
+      "posts/20261120-morning-5.jpg"
+    ],
+    "media_id": "18355225561283871",
+    "fb_post_id": "1411087672077869_122121535881506532"
   }
 ]
