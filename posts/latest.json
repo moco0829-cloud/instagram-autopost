@@ -1,48 +1,57 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "slot": "morning",
-  "theme": "朝のおなか「の」の字さすり習慣",
-  "caption": "朝いちばん、ご自分のおなかに触れていますか？\n\n寒さが深まるこの季節、朝のおなかがひんやりしていることはありませんか。\nおなかは、からだの中心。冷えやすく、気持ちのゆらぎも映しやすい場所といわれています。\n\nそこでおすすめしたいのが、布団の中でできる「の」の字さすり。\n手のひらでやさしく円を描くだけで、じんわり温かさを感じたり、ほっと気持ちがゆるんだりする方も多いですよ🌿\n\nやり方とコツを画像にまとめましたので、スワイプしてご覧くださいね。\n\n大切なのは、強く押さないこと。\n「今日もよろしくね」と声をかけるような気持ちで、そっと触れてあげてください。\n内側からのキレイは、こうした小さないたわりの積み重ねから育っていきます。\n\nおなかの張りや重さ、生理まわりのことなど、なかなか人に話しにくいお悩みも大丈夫です。\nつらい症状が続くときは、婦人科などの医療機関にもご相談くださいね。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #フェムケア #千葉フェムケア #朝習慣 #セルフケア #おなか温活 #冷え対策 #内側からキレイ #めぐりケア #メディセル #Medicell #筋膜ケア #Salondemoco",
+  "theme": "金曜の朝、肩甲骨で胸をひらく習慣",
+  "caption": "1週間がんばった背中、少し丸まっていませんか？\n\nおはようございます。Salon de mocoです。\n\n金曜日の朝は、平日の疲れが背中や肩まわりにたまりやすいころ。\nデスクワークやスマホ、家事で前かがみの時間が続くと、肩甲骨まわりがこわばり、呼吸まで浅くなりがちです。\n\nそこで今朝は、たった1分の「肩甲骨ほぐし」をご紹介します。\nひじで大きく円を描くだけでも、胸がふわっとひらいて、背すじがすっと伸びる心地よさを感じる方も多いですよ。\n\n姿勢が整うと、顔まわりの印象も明るく見えやすくなります。\n内側から気持ちよく整えることも、大切なキレイ習慣のひとつです。\n\n画像をスワイプして、こわばりサインのチェックと手順をご覧くださいね。保存して、着替えのついでに試していただけたらうれしいです。\n\nサロンでは、Medicell（メディセル）で筋膜をやさしく吸い上げ、背中のこわばりをゆるめるケアも行っています。\n背中や肩の重さが続くときは、ひとりで抱えず、お気軽にDMでご相談くださいね🌿\n\n#成田市 #成田サロン #フェムケア #肩甲骨はがし #肩こりケア #美姿勢 #朝習慣 #セルフケア #メディセル #筋膜ケア #大人女子 #ゆらぎ世代 #Salondemoco",
   "cover": {
-    "lead": "布団の中でたった1分",
-    "headline": "朝いちばんに\n【おなか】を\nなでてみて"
+    "lead": "1週間がんばった朝に",
+    "headline": "丸まった背中、\n【肩甲骨】から\nほどきませんか？"
   },
   "slides": [
     {
-      "title": "【の】の字さすりの\nやり方",
-      "numbered": true,
+      "title": "肩甲骨まわりの\n【こわばりサイン】",
+      "numbered": false,
       "items": [
-        "仰向けになり、ひざを軽く立てます",
-        "手のひらをこすり合わせて温めます",
-        "おへそのまわりに手をそっと置きます",
-        "時計回りに「の」の字をゆっくり10回",
-        "深い呼吸に合わせて、やさしい力で"
+        "気づくと肩が前に入っている",
+        "深呼吸しても胸がひらきにくい",
+        "背中に手を回すと届きにくい",
+        "夕方になると首や肩が重く感じる"
       ]
     },
     {
-      "title": "続けるための\n【ちょっとしたコツ】",
+      "title": "朝1分\n【肩甲骨ほぐし】",
+      "numbered": true,
+      "items": [
+        "両手を肩にのせ、ひじで大きく円を描く",
+        "後ろ回しを5回、ゆっくり呼吸しながら",
+        "胸の前で手を組み、背中を丸めて伸ばす",
+        "背中で手を組み、胸をひらいて3呼吸",
+        "痛みがあれば無理せず心地よい範囲で"
+      ]
+    },
+    {
+      "title": "胸がひらくと\n【うれしいこと】",
       "numbered": false,
       "items": [
-        "押さずに「なでる」くらいの力加減で",
-        "手が冷たい日は服の上からでもOK",
-        "「今日もありがとう」と心の中で声かけ",
-        "痛みや違和感がある日はお休みしましょう"
+        "呼吸が深くなり、気分も前向きに",
+        "背すじがすっと伸びて見える",
+        "顔まわりが明るい印象になりやすい",
+        "肩まわりが軽く感じる方も多い"
       ]
     }
   ],
   "closing": {
-    "lead": "内側から、キレイに",
-    "headline": "おなかの悩みも\n【気軽に】\nご相談くださいね"
+    "lead": "背中が重いときは",
+    "headline": "ひとりで抱えず\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for a morning self-care post, soft pale pastel green to mint gradient, small white chamomile and lily of the valley flowers with fresh young eucalyptus leaves and tender green sprigs arranged only in the corners and along the left and right edges, a soft folded cream linen blanket and gentle morning sunlight glow in one corner, thin delicate gold lines and subtle sparkles, airy refreshing graceful mood for adult women, the center left bright, clean and mostly empty with plenty of light negative space for text overlay, no people, no body parts, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh young green leaves arranged in the corners and along the left and right edges, thin gold lines and gentle sparkles, fresh morning light feeling, airy and refreshing, center left bright, empty and pale with plenty of negative space for text overlay, clean and calm, no people, no body parts, no text, no letters, no numbers, no logos",
   "palette": "morning",
   "images": [
-    "posts/20261119-morning-1.jpg",
-    "posts/20261119-morning-2.jpg",
-    "posts/20261119-morning-3.jpg",
-    "posts/20261119-morning-4.jpg"
+    "posts/20261120-morning-1.jpg",
+    "posts/20261120-morning-2.jpg",
+    "posts/20261120-morning-3.jpg",
+    "posts/20261120-morning-4.jpg",
+    "posts/20261120-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18034922168906952",
-  "fb_post_id": "1411087672077869_122121197181506532"
+  "published": false
 }
