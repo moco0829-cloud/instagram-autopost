@@ -1,59 +1,57 @@
 {
-  "date": "2026-11-21",
-  "slot": "night",
-  "theme": "ゆらぎ世代の気分の落ち込みに寄り添う夜",
-  "caption": "理由もなく、なんだか心が沈んでしまう夜はありませんか？\n\n好きだったことが億劫に感じたり、小さなことで自分を責めてしまったり。\n40代・50代のゆらぎの時期には、そんな気持ちの波を感じる方も少なくありません。\n\nそれは、あなたの気持ちが弱いからではないんです。\nホルモンのゆらぎや、季節の変わり目の疲れも重なって、心が少しお休みを求めているのかもしれません。\n\n今夜は照明を落として、温かい飲み物をひと口。\n「今日もよくがんばったね」と、ご自分にやさしく声をかけてあげてくださいね🌙\n\n気分のゆらぎのサインと、今夜からできるいたわり方を画像にまとめました。\nスワイプしてご覧くださいね。\n\nつらい気持ちが長く続くときは、どうかがまんせず、婦人科などの医療機関にも相談してみてください。\n\nSalon de mocoでは、メディセルでからだのこわばりをゆるめながら、ゆっくりお話を伺う時間も大切にしています。\nからだがほぐれると、気持ちまで軽く感じる方も多いですよ。\n\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #更年期 #ゆらぎ世代 #更年期ケア #自分をいたわる #心のケア #夜のセルフケア #大人女子 #メディセル #Medicell #筋膜ケア #salondemoco",
+  "date": "2026-11-22",
+  "slot": "morning",
+  "theme": "日曜の朝、よく噛む朝ごはん習慣",
+  "caption": "「朝ごはん、気づけば数分で食べ終わっていませんか？」\n\n平日の朝は時間との勝負ですよね。\nでも今日は日曜日。明日は勤労感謝の日で、少しゆったりできる方も多いのではないでしょうか。\n\nそんな朝におすすめしたいのが、「よく噛んで食べる」小さな習慣です。\nゆっくり噛むことで、食事の時間そのものがほっとひと息つける時間に。\nおなかが満たされた感覚を得やすく、食べすぎ防止や、内側からのキレイを意識するきっかけにもなります。\n\n噛むコツや、噛みごたえのある食材を画像にまとめました。\nスワイプしてご覧くださいね。\n\n完璧でなくて大丈夫です。\n「最初のひと口だけ、ゆっくり味わう」から始めてみてください🌿\n\nからだのこと、ゆらぎのこと、人に言いにくいお悩みも、Salon de mocoでは「話していいこと」です。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #ビューティーケア #メディセル #筋膜ケア #朝習慣 #朝ごはん #よく噛む #内側からキレイ #セルフケア #ゆらぎ世代 #大人女子",
   "cover": {
-    "lead": "ゆらぎ世代のあなたへ",
-    "headline": "理由もなく\n【心が沈む】夜、\nありませんか？"
+    "lead": "日曜の朝のセルフケア",
+    "headline": "朝ごはん、\n【ゆっくり噛んで】\nいますか？"
   },
   "slides": [
     {
-      "title": "こんなサイン、\nありませんか？",
-      "numbered": false,
-      "items": [
-        "理由もなく涙が出そうになる",
-        "好きだったことが億劫に感じる",
-        "小さなことで自分を責めてしまう",
-        "人と会うのが少し面倒に思える"
-      ]
-    },
-    {
-      "title": "今夜の自分を\n【いたわる】時間",
+      "title": "今日からできる\n【よく噛む】コツ",
       "numbered": true,
       "items": [
-        "照明を落として、温かい飲み物をひと口",
-        "「今日もよくがんばった」と声をかける",
-        "湯船でゆっくり、からだを温める",
-        "深い呼吸を5回、ゆっくり繰り返す",
-        "スマホを置いて、早めにお布団へ"
+        "最初のひと口は目を閉じて味わう",
+        "ひと口ごとに箸をそっと置く",
+        "口に入れる量を少なめにする",
+        "テレビやスマホは少しだけお休み"
       ]
     },
     {
-      "title": "どうか【覚えて】\nいてくださいね",
+      "title": "噛みごたえのある\n【朝ごはん食材】",
       "numbered": false,
       "items": [
-        "気分のゆらぎはホルモンの変化も関係します",
-        "気持ちが弱いせいではありません",
-        "「今つらい」と身近な人に伝えていいんです",
-        "長く続くときは婦人科などに相談を"
+        "玄米や雑穀入りのごはん",
+        "根菜たっぷりのお味噌汁",
+        "全粒粉パンやライ麦パン",
+        "ナッツや小魚をひとつまみ",
+        "りんごは皮ごと少し厚めに"
+      ]
+    },
+    {
+      "title": "ゆっくり噛むと\n【うれしいこと】",
+      "numbered": false,
+      "items": [
+        "満たされた感覚を得やすい",
+        "食べすぎを防ぐきっかけに",
+        "口元を動かして表情もほぐれやすい",
+        "朝の気持ちに余白が生まれる"
       ]
     }
   ],
   "closing": {
     "lead": "ひとりで抱えないで",
-    "headline": "あなたの心も\n【大切に】\nしてくださいね"
+    "headline": "お気軽に\n【ご相談】\nくださいね"
   },
-  "image_prompt": "Soft watercolor illustration with a pale lavender to lilac background, delicate lavender sprigs, wisteria, and lilac flowers gently arranged in the corners and along the left and right edges, a softly glowing warm cup of tea and a draped light fabric near one corner, thin elegant gold lines and gentle sparkles, calm and cozy nighttime relaxation mood, elegant and feminine design for adult women, the center left bright, airy, and mostly empty in a very pale lavender tone for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Elegant feminine watercolor background for a morning wellness post, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with fresh eucalyptus and tender young green leaves arranged in the corners and along the left and right edges, a small subtle watercolor of a ceramic rice bowl and a cup of tea with gentle morning sunlight near one corner, thin fine gold lines and soft sparkles, calm, clean, refreshing and refined atmosphere for adult women, large bright airy empty space in the center for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
+  "palette": "morning",
   "images": [
-    "posts/20261121-night-1.jpg",
-    "posts/20261121-night-2.jpg",
-    "posts/20261121-night-3.jpg",
-    "posts/20261121-night-4.jpg",
-    "posts/20261121-night-5.jpg"
+    "posts/20261122-morning-1.jpg",
+    "posts/20261122-morning-2.jpg",
+    "posts/20261122-morning-3.jpg",
+    "posts/20261122-morning-4.jpg",
+    "posts/20261122-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "18142355971727481",
-  "fb_post_id": "1411087672077869_122121992463506532"
+  "published": false
 }
