@@ -1,59 +1,56 @@
 {
   "date": "2026-11-22",
-  "slot": "morning",
-  "theme": "小雪の朝、ゆっくり噛む朝ごはん",
-  "caption": "今朝の朝ごはん、何回噛んで食べましたか？\n\nおはようございます。\n今日は二十四節気の「小雪」。\n寒さが深まり、からだも少しずつ冬モードに入っていく頃ですね。\n\nそんな季節にこそおすすめしたいのが、「ゆっくり噛む朝ごはん」です。\n\n忙しい平日はつい流し込むように食べてしまいがちですが、よく噛むことは、胃腸をいたわり、口まわりをほぐし、心を落ち着けるきっかけにもなります。\n内側からのキレイを意識したい方にも、取り入れやすい習慣です。\n\n「毎食がんばらなきゃ」と思わなくて大丈夫ですよ。\nまずは日曜の朝、最初のひと口だけでも。\n自分のために味わう時間は、それだけで小さなセルフケアになります🍃\n\n今日からできるひと工夫を、画像にまとめました。\nスワイプしてご覧くださいね。\n\nからだのことで気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #朝習慣 #朝ごはん #よく噛む #内側からキレイ #セルフケア #冷え対策 #ゆらぎ世代 #メディセル #SalondeMoco",
+  "slot": "night",
+  "theme": "不調を家族に言葉で伝える夜",
+  "caption": "「これくらいで言うのは甘えかな」と、飲み込んでいませんか？\n\n週末の終わり、日曜の夜。\n明日からまたがんばる前に、少しだけ自分の心に目を向けてみませんか。\n\n生理のつらさや、ゆらぎ世代の不調。\nいちばん身近な家族にこそ、言いにくいものですよね。\n照れくささや「わかってもらえないかも」という気持ちから、ひとりでがんばってしまう方はとても多いんです。\n\nでも、からだのことは「話していいこと」。\nほんのひと言伝えるだけで、気持ちがふっと軽くなることもありますよ。\n\n今日は、伝えるときの小さなコツと、そのまま使えるひと言の例をまとめました。\n画像をスワイプしてご覧くださいね。保存して、必要なときに見返していただけたらうれしいです🌙\n\nつらい症状が続くときは、無理をせず婦人科などの医療機関にもご相談くださいね。\n\nSalon de mocoでは、言葉にしにくいお悩みも、ゆっくりお聞きしています。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #生理痛 #PMS #更年期 #ゆらぎ世代 #女性の悩み #自分をいたわる #メディセル #Medicell #筋膜ケア #salondemoco",
   "cover": {
-    "lead": "小雪の日曜の朝に",
-    "headline": "朝ごはん、\n【ゆっくり】\n噛んでいますか？"
+    "lead": "日曜の夜に、そっと",
+    "headline": "その不調、\n【伝えて】\nいいんです"
   },
   "slides": [
     {
-      "title": "ゆっくり噛むと\n【うれしいこと】",
+      "title": "こんな気持ち、\n【ありませんか】？",
       "numbered": false,
       "items": [
-        "食べすぎを防ぎやすく、満足感につながる",
-        "胃腸への負担をやわらげやすい",
-        "唾液で口の中がうるおいやすい",
-        "口まわりがほぐれ、表情もやわらかに",
-        "ほっとひと息、心が落ち着きやすい"
+        "「つらい」と言うと甘えだと思われそう",
+        "生理や更年期の話は、家族でも照れくさい",
+        "説明しても、わかってもらえない気がする",
+        "結局、ひとりでがんばってしまう"
       ]
     },
     {
-      "title": "今朝からできる\n【ひと工夫】",
-      "numbered": true,
+      "title": "伝えるときの\n【小さなコツ】",
+      "numbered": false,
       "items": [
-        "ひと口を、いつもより少し小さめに",
-        "口に入れたら、いったんお箸を置く",
-        "根菜やナッツなど、噛みごたえを一品",
-        "窓の外を眺めながら、味わう時間に"
+        "気持ちが落ち着いている時間に、短く話す",
+        "「今日は〇〇がつらい」と具体的に伝える",
+        "「こうしてくれると助かる」とお願いを添える",
+        "言葉にしにくいときは、メモやLINEでも大丈夫"
       ]
     },
     {
-      "title": "【がんばりすぎない】\nコツ",
+      "title": "そのまま使える\n【ひと言】の例",
       "numbered": false,
       "items": [
-        "毎食でなく、朝ごはんだけでOK",
-        "忙しい日は、最初のひと口だけ意識",
-        "冷える朝は温かい汁物を添えて",
-        "できた日は、自分をほめてあげて"
+        "「今日は生理でつらいから、少し横になるね」",
+        "「最近眠りが浅くて、早めに休ませてね」",
+        "「夕飯、今日はお惣菜でもいいかな？」",
+        "「話を聞いてくれるだけで、うれしいな」"
       ]
     }
   ],
   "closing": {
-    "lead": "からだの声に耳をすませて",
-    "headline": "気になることは\n【お気軽に】\nDMくださいね"
+    "lead": "ひとりで抱えないで",
+    "headline": "ここでは\n【恥ずかしく】\nないですよ"
   },
-  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh tender green leaves arranged in the corners and along the left and right edges, a small ceramic bowl of warm soup and a wooden spoon subtly placed in a lower corner suggesting a calm morning breakfast, soft morning light, thin elegant gold lines and gentle sparkles, fresh, clean and refined atmosphere, the center is bright, airy and mostly empty with plenty of light pale space for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos, no watermark",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender sprigs, wisteria and lilac flowers gently placed in the corners and along the left and right edges, a soft folded lilac silk cloth and a small warm candle glow at the bottom edge, thin delicate gold lines and subtle sparkles, calm and cozy evening relaxation mood, clean and refined, the center left bright, airy and mostly empty with plenty of pale space for overlay text, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261122-morning-1.jpg",
-    "posts/20261122-morning-2.jpg",
-    "posts/20261122-morning-3.jpg",
-    "posts/20261122-morning-4.jpg",
-    "posts/20261122-morning-5.jpg"
+    "posts/20261122-night-1.jpg",
+    "posts/20261122-night-2.jpg",
+    "posts/20261122-night-3.jpg",
+    "posts/20261122-night-4.jpg",
+    "posts/20261122-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18649939474017699",
-  "fb_post_id": "1411087672077869_122122149399506532"
+  "published": false
 }
