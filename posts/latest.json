@@ -1,50 +1,50 @@
 {
   "date": "2026-11-22",
   "slot": "morning",
-  "theme": "日曜の朝、よく噛む朝ごはん習慣",
-  "caption": "「朝ごはん、気づけば数分で食べ終わっていませんか？」\n\n平日の朝は時間との勝負ですよね。\nでも今日は日曜日。明日は勤労感謝の日で、少しゆったりできる方も多いのではないでしょうか。\n\nそんな朝におすすめしたいのが、「よく噛んで食べる」小さな習慣です。\nゆっくり噛むことで、食事の時間そのものがほっとひと息つける時間に。\nおなかが満たされた感覚を得やすく、食べすぎ防止や、内側からのキレイを意識するきっかけにもなります。\n\n噛むコツや、噛みごたえのある食材を画像にまとめました。\nスワイプしてご覧くださいね。\n\n完璧でなくて大丈夫です。\n「最初のひと口だけ、ゆっくり味わう」から始めてみてください🌿\n\nからだのこと、ゆらぎのこと、人に言いにくいお悩みも、Salon de mocoでは「話していいこと」です。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #ビューティーケア #メディセル #筋膜ケア #朝習慣 #朝ごはん #よく噛む #内側からキレイ #セルフケア #ゆらぎ世代 #大人女子",
+  "theme": "小雪の朝、ゆっくり噛む朝ごはん",
+  "caption": "今朝の朝ごはん、何回噛んで食べましたか？\n\nおはようございます。\n今日は二十四節気の「小雪」。\n寒さが深まり、からだも少しずつ冬モードに入っていく頃ですね。\n\nそんな季節にこそおすすめしたいのが、「ゆっくり噛む朝ごはん」です。\n\n忙しい平日はつい流し込むように食べてしまいがちですが、よく噛むことは、胃腸をいたわり、口まわりをほぐし、心を落ち着けるきっかけにもなります。\n内側からのキレイを意識したい方にも、取り入れやすい習慣です。\n\n「毎食がんばらなきゃ」と思わなくて大丈夫ですよ。\nまずは日曜の朝、最初のひと口だけでも。\n自分のために味わう時間は、それだけで小さなセルフケアになります🍃\n\n今日からできるひと工夫を、画像にまとめました。\nスワイプしてご覧くださいね。\n\nからだのことで気になることがあれば、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #朝習慣 #朝ごはん #よく噛む #内側からキレイ #セルフケア #冷え対策 #ゆらぎ世代 #メディセル #SalondeMoco",
   "cover": {
-    "lead": "日曜の朝のセルフケア",
-    "headline": "朝ごはん、\n【ゆっくり噛んで】\nいますか？"
+    "lead": "小雪の日曜の朝に",
+    "headline": "朝ごはん、\n【ゆっくり】\n噛んでいますか？"
   },
   "slides": [
-    {
-      "title": "今日からできる\n【よく噛む】コツ",
-      "numbered": true,
-      "items": [
-        "最初のひと口は目を閉じて味わう",
-        "ひと口ごとに箸をそっと置く",
-        "口に入れる量を少なめにする",
-        "テレビやスマホは少しだけお休み"
-      ]
-    },
-    {
-      "title": "噛みごたえのある\n【朝ごはん食材】",
-      "numbered": false,
-      "items": [
-        "玄米や雑穀入りのごはん",
-        "根菜たっぷりのお味噌汁",
-        "全粒粉パンやライ麦パン",
-        "ナッツや小魚をひとつまみ",
-        "りんごは皮ごと少し厚めに"
-      ]
-    },
     {
       "title": "ゆっくり噛むと\n【うれしいこと】",
       "numbered": false,
       "items": [
-        "満たされた感覚を得やすい",
-        "食べすぎを防ぐきっかけに",
-        "口元を動かして表情もほぐれやすい",
-        "朝の気持ちに余白が生まれる"
+        "食べすぎを防ぎやすく、満足感につながる",
+        "胃腸への負担をやわらげやすい",
+        "唾液で口の中がうるおいやすい",
+        "口まわりがほぐれ、表情もやわらかに",
+        "ほっとひと息、心が落ち着きやすい"
+      ]
+    },
+    {
+      "title": "今朝からできる\n【ひと工夫】",
+      "numbered": true,
+      "items": [
+        "ひと口を、いつもより少し小さめに",
+        "口に入れたら、いったんお箸を置く",
+        "根菜やナッツなど、噛みごたえを一品",
+        "窓の外を眺めながら、味わう時間に"
+      ]
+    },
+    {
+      "title": "【がんばりすぎない】\nコツ",
+      "numbered": false,
+      "items": [
+        "毎食でなく、朝ごはんだけでOK",
+        "忙しい日は、最初のひと口だけ意識",
+        "冷える朝は温かい汁物を添えて",
+        "できた日は、自分をほめてあげて"
       ]
     }
   ],
   "closing": {
-    "lead": "ひとりで抱えないで",
-    "headline": "お気軽に\n【ご相談】\nくださいね"
+    "lead": "からだの声に耳をすませて",
+    "headline": "気になることは\n【お気軽に】\nDMくださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for a morning wellness post, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with fresh eucalyptus and tender young green leaves arranged in the corners and along the left and right edges, a small subtle watercolor of a ceramic rice bowl and a cup of tea with gentle morning sunlight near one corner, thin fine gold lines and soft sparkles, calm, clean, refreshing and refined atmosphere for adult women, large bright airy empty space in the center for text overlay, no people's bodies, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine watercolor background design for adult women, soft pale pastel green to mint background, delicate white chamomile and lily of the valley flowers with eucalyptus and fresh tender green leaves arranged in the corners and along the left and right edges, a small ceramic bowl of warm soup and a wooden spoon subtly placed in a lower corner suggesting a calm morning breakfast, soft morning light, thin elegant gold lines and gentle sparkles, fresh, clean and refined atmosphere, the center is bright, airy and mostly empty with plenty of light pale space for text overlay, no people's bodies shown, no text, no letters, no numbers, no logos, no watermark",
   "palette": "morning",
   "images": [
     "posts/20261122-morning-1.jpg",
