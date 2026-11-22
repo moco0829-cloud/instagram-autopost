@@ -1199,5 +1199,19 @@
     ],
     "media_id": "18142355971727481",
     "fb_post_id": "1411087672077869_122121992463506532"
+  },
+  {
+    "date": "2026-11-22",
+    "slot": "morning",
+    "theme": "小雪の朝、ゆっくり噛む朝ごはん",
+    "images": [
+      "posts/20261122-morning-1.jpg",
+      "posts/20261122-morning-2.jpg",
+      "posts/20261122-morning-3.jpg",
+      "posts/20261122-morning-4.jpg",
+      "posts/20261122-morning-5.jpg"
+    ],
+    "media_id": "18649939474017699",
+    "fb_post_id": "1411087672077869_122122149399506532"
   }
 ]
