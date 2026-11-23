@@ -507,6 +507,14 @@ def ig_request(method: str, path: str, **params) -> dict:
     params["access_token"] = env("IG_ACCESS_TOKEN")
     response = requests.request(method, f"{IG_API}/{path}", params=params, timeout=60)
     if not response.ok:
+        try:
+            error = response.json().get("error", {})
+        except ValueError:
+            error = {}
+        if error.get("code") == 4 or error.get("error_subcode") == 2207051:
+            # Instagram に操作を制限された（action is blocked）。同じ枠で投稿し直すと制限が強まるので、
+            # 印を残して、workflow がこの枠を「失敗」として記録し、残りの回が作り直さないようにする
+            (ROOT / ".ig_blocked").write_text(response.text, encoding="utf-8")
         sys.exit(f"Instagram API エラー ({response.status_code}): {response.text}")
     return response.json()
 
@@ -628,4 +636,11 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit as error:
+        # GitHub Actions では、止まった理由を Annotations にも出す（ログインしなくても見られるように）
+        if isinstance(error.code, str) and os.environ.get("GITHUB_ACTIONS"):
+            message = error.code.replace("%", "%25").replace(chr(13), "").replace(chr(10), "%0A")
+            print(f"::error::{message}", flush=True)
+        raise

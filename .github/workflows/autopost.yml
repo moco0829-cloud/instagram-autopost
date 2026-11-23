@@ -163,3 +163,19 @@ jobs:
           git add history.json posts/latest.json
           git commit -m "history: $(jq -r '.media_id' posts/latest.json)"
           git push
+
+      - name: 制限されたときは失敗を記録（同じ枠で作り直して投稿し直さないため）
+        # Instagram に「操作の制限」で断られたときだけ。一時的な不調のときは記録せず、残りの回が作り直して投稿する
+        if: ${{ failure() && steps.push.outcome == 'success' && !inputs.dry_run && hashFiles('.ig_blocked') != '' }}
+        run: |
+          python3 - <<'PY'
+          import json
+          latest = json.load(open("posts/latest.json", encoding="utf-8"))
+          history = json.load(open("history.json", encoding="utf-8"))
+          history.append({k: latest[k] for k in ("date", "slot", "theme", "images")} | {"failed": True})
+          json.dump(history, open("history.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+          PY
+          git add history.json
+          git commit -m "failed (blocked): $(jq -r '.date + " " + .slot + " " + .theme' posts/latest.json)"
+          git pull --rebase
+          git push
