@@ -1241,5 +1241,19 @@
     ],
     "media_id": "17957955555038270",
     "fb_post_id": "1411087672077869_122122398921506532"
+  },
+  {
+    "date": "2026-11-25",
+    "slot": "morning",
+    "theme": "朝の光で整えるゆらぎ世代の習慣",
+    "images": [
+      "posts/20261125-morning-1.jpg",
+      "posts/20261125-morning-2.jpg",
+      "posts/20261125-morning-3.jpg",
+      "posts/20261125-morning-4.jpg",
+      "posts/20261125-morning-5.jpg"
+    ],
+    "media_id": "18162786358506854",
+    "fb_post_id": "1411087672077869_122122919097506532"
   }
 ]
