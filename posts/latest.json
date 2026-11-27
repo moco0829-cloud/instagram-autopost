@@ -1,47 +1,56 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "slot": "morning",
-  "theme": "朝の鎖骨まわりほぐしでめぐりケア",
-  "caption": "朝の鏡で、なんとなく顔まわりが重たく見える日はありませんか？\n\n寒さが増すこの季節は、肩がすくみやすく、首から鎖骨のあたりもこわばりがちです。\nそんな朝におすすめしたいのが、鎖骨まわりをやさしくさする1分習慣です🌿\n\n力はほとんどいりません。\n肌をなでるくらいのやさしさで、内側から外側へ。\nあとは肩をゆっくりまわして、深呼吸をするだけ。\n首まわりがすっきり軽く感じる方も多いですよ。\n\n着替えやスキンケアのついでにできるので、忙しい金曜日の朝にもぴったりです。\n詳しいやり方は、画像をスワイプしてご覧くださいね。\n\nSalon de mocoでは、メディセル（Medicell）を使った筋膜ケアで、肩や首まわりのこわばりにもやさしく寄り添っています。\n\n「なんだか重たい」「自分ではほぐしきれない」\nそんなお悩みも、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #鎖骨ほぐし #朝習慣 #セルフケア #めぐりケア #筋膜ケア #メディセル #Medicell #大人の美容 #ボディケア",
+  "theme": "週末の朝、足裏ほぐしで冷えケア",
+  "caption": "朝、床に足をついた瞬間「ひやっ」としていませんか？\n\nおはようございます。Salon de mocoです。\n寒さが深まるこの季節、足先の冷えや夕方の脚の重だるさを感じる方も多いですよね。\n\n足裏は、からだを一日中支えてくれている頑張り屋さん。\nだからこそ、週末の朝くらいはやさしくいたわってあげたいところです。\n\n椅子に座ったまま、1分ほどでできる「足裏ほぐし」をまとめました。\n靴下の上からでも大丈夫なので、朝ごはんの前やコーヒーを淹れる間にもどうぞ。\nぽかぽかと足元が軽くなるのを感じる方も多いですよ🌿\n\n画像をスワイプしてご覧くださいね。\n保存しておくと、冷える朝にさっと見返せます。\n\nサロンでは、メディセル（Medicell）による筋膜ケアで、めぐりを整えるお手伝いをしています。\n冷えやむくみのお悩みも、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #冷え対策 #足裏マッサージ #朝習慣 #セルフケア #めぐりケア #メディセル #筋膜ケア #大人女性 #salondemoco",
   "cover": {
-    "lead": "朝1分のめぐり習慣",
-    "headline": "【鎖骨まわり】、\nやさしく\nほぐしませんか？"
+    "lead": "週末の朝に、1分だけ",
+    "headline": "冷えた【足裏】、\nほぐして\nみませんか？"
   },
   "slides": [
     {
-      "title": "朝1分\n【鎖骨まわり】ほぐし",
+      "title": "朝の【足裏ほぐし】\n3ステップ",
       "numbered": true,
       "items": [
-        "鎖骨の上のくぼみに、指先をそっと添えます",
-        "内側から外側へ、なでるように3回さすります",
-        "肩を後ろへ、ゆっくり大きく3回まわします",
-        "首を左右にゆっくり傾けて、深呼吸をひとつ"
+        "椅子に座り、足裏全体をグーで軽く押す",
+        "土踏まずを親指で、心地よい強さで押す",
+        "足指を1本ずつ回して、やさしくひらく",
+        "最後に足首をゆっくり回して仕上げ"
+      ]
+    },
+    {
+      "title": "こんな方に\n【おすすめ】です",
+      "numbered": false,
+      "items": [
+        "朝、足先がひんやりしやすい",
+        "夕方になると脚が重だるい",
+        "立ち仕事や座りっぱなしが多い",
+        "冬は腰まわりもこわばりがち"
       ]
     },
     {
       "title": "心地よく続ける\n【ポイント】",
       "numbered": false,
       "items": [
-        "力は入れず、肌をなでるくらいのやさしさでOK",
-        "保湿クリームを使うと、すべりがなめらかに",
-        "着替えやスキンケアのついでに取り入れて",
-        "痛みや違和感がある日は、無理せずお休みを"
+        "痛気持ちいい程度でやさしく",
+        "靴下の上からでも大丈夫",
+        "終わったら白湯や水をひと口",
+        "つらい日は無理せずお休みしてOK"
       ]
     }
   ],
   "closing": {
-    "lead": "今日もあなたらしく",
-    "headline": "気になることは\n【DM】で\nどうぞ"
+    "lead": "足元から、自分をいたわる",
+    "headline": "冷えのお悩みも\n【お気軽に】\nご相談ください"
   },
-  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint gradient, delicate white chamomile and lily of the valley flowers with eucalyptus and soft young green leaves arranged in the four corners and along the left and right edges, thin gold lines and gentle sparkles, fresh morning light feeling, clean and calm atmosphere, the center left bright, airy and mostly empty with plenty of light negative space for overlaying text later, no people, no body parts, no text, no letters, no numbers, no logos",
+  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint color base, delicate white chamomile and lily of the valley flowers with eucalyptus and tender young green leaves arranged only in the corners and along the left and right edges, a soft cozy knit fabric and gentle morning sunlight hinting at warmth, thin gold lines and subtle sparkles, fresh, clean and calm mood, large bright empty space in the center with very light color for overlaying text, no people's bodies, no text, no letters, no numbers, no logos",
   "palette": "morning",
   "images": [
-    "posts/20261127-morning-1.jpg",
-    "posts/20261127-morning-2.jpg",
-    "posts/20261127-morning-3.jpg",
-    "posts/20261127-morning-4.jpg"
+    "posts/20261128-morning-1.jpg",
+    "posts/20261128-morning-2.jpg",
+    "posts/20261128-morning-3.jpg",
+    "posts/20261128-morning-4.jpg",
+    "posts/20261128-morning-5.jpg"
   ],
-  "published": true,
-  "media_id": "17947991880089612",
-  "fb_post_id": "1411087672077869_122123410113506532"
+  "published": false
 }
