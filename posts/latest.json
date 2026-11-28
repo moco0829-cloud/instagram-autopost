@@ -1,58 +1,56 @@
 {
   "date": "2026-11-28",
-  "slot": "morning",
-  "theme": "週末の朝、足裏ほぐしで冷えケア",
-  "caption": "朝、床に足をついた瞬間「ひやっ」としていませんか？\n\nおはようございます。Salon de mocoです。\n寒さが深まるこの季節、足先の冷えや夕方の脚の重だるさを感じる方も多いですよね。\n\n足裏は、からだを一日中支えてくれている頑張り屋さん。\nだからこそ、週末の朝くらいはやさしくいたわってあげたいところです。\n\n椅子に座ったまま、1分ほどでできる「足裏ほぐし」をまとめました。\n靴下の上からでも大丈夫なので、朝ごはんの前やコーヒーを淹れる間にもどうぞ。\nぽかぽかと足元が軽くなるのを感じる方も多いですよ🌿\n\n画像をスワイプしてご覧くださいね。\n保存しておくと、冷える朝にさっと見返せます。\n\nサロンでは、メディセル（Medicell）による筋膜ケアで、めぐりを整えるお手伝いをしています。\n冷えやむくみのお悩みも、ひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #ボディケア #冷え対策 #足裏マッサージ #朝習慣 #セルフケア #めぐりケア #メディセル #筋膜ケア #大人女性 #salondemoco",
+  "slot": "night",
+  "theme": "週末の夜、デリケートゾーンのやさしい洗い方",
+  "caption": "毎日のことだからこそ、誰にも聞けない「洗い方」のお話です。\n\n週末の夜、いつもより少しゆっくりお風呂に入れる方も多いのではないでしょうか。\n\nデリケートゾーンの洗い方は、学ぶ機会がほとんどありません。\n「これで合っているのかな」と思いながら、なんとなく続けている方も多いんです。\nあなただけではないので、大丈夫ですよ。\n\nこの部分はとても繊細です。\nゴシゴシ洗ったり、熱いお湯で長く流したりすると、乾燥やムズムズを感じやすくなることもあります。\n大切なのは「落としすぎない」「こすらない」の2つです。\n\n今日の画像では、\n・やさしい洗い方の4ステップ\n・ついやりがちなこと\n・洗ったあとのいたわり方\nをまとめました。\n画像をスワイプしてご覧くださいね。保存して、お風呂の前に見返すのもおすすめです🌙\n\nかゆみや違和感が続くときは、我慢せず婦人科で相談してみてください。\n\n言いにくいお悩みも、ここでは「話していいこと」です。\nひとりで抱えず、お気軽にDMでご相談くださいね。\n\n#成田市 #成田サロン #成田市サロン #フェムケア #フェムテック #デリケートゾーンケア #デリケートゾーン #バスタイム #セルフケア #自分をいたわる #大人女子 #ゆらぎ世代 #メディセル #Salondemoco",
   "cover": {
-    "lead": "週末の朝に、1分だけ",
-    "headline": "冷えた【足裏】、\nほぐして\nみませんか？"
+    "lead": "週末の夜のバスタイムに",
+    "headline": "その洗い方、\n【やさしく】\nできていますか？"
   },
   "slides": [
     {
-      "title": "朝の【足裏ほぐし】\n3ステップ",
+      "title": "やさしい洗い方\n【4つのステップ】",
       "numbered": true,
       "items": [
-        "椅子に座り、足裏全体をグーで軽く押す",
-        "土踏まずを親指で、心地よい強さで押す",
-        "足指を1本ずつ回して、やさしくひらく",
-        "最後に足首をゆっくり回して仕上げ"
+        "ぬるめのお湯で、まずはさっと流す",
+        "専用ソープをしっかり泡立てる",
+        "手のひらで泡をのせ、なでるように",
+        "やさしい水圧で、泡を残さず流す"
       ]
     },
     {
-      "title": "こんな方に\n【おすすめ】です",
+      "title": "見直したい\n【ついやりがち】",
       "numbered": false,
       "items": [
-        "朝、足先がひんやりしやすい",
-        "夕方になると脚が重だるい",
-        "立ち仕事や座りっぱなしが多い",
-        "冬は腰まわりもこわばりがち"
+        "ボディ用石けんでゴシゴシ洗う",
+        "熱いお湯で長く流しすぎる",
+        "1日に何度も洗いすぎる",
+        "タオルでこすって拭く"
       ]
     },
     {
-      "title": "心地よく続ける\n【ポイント】",
+      "title": "洗ったあとの\n【いたわり時間】",
       "numbered": false,
       "items": [
-        "痛気持ちいい程度でやさしく",
-        "靴下の上からでも大丈夫",
-        "終わったら白湯や水をひと口",
-        "つらい日は無理せずお休みしてOK"
+        "やわらかいタオルで押さえて拭く",
+        "乾燥が気になるときは専用の保湿を",
+        "夜は通気性のよい綿の下着で",
+        "かゆみや違和感が続くときは婦人科へ"
       ]
     }
   ],
   "closing": {
-    "lead": "足元から、自分をいたわる",
-    "headline": "冷えのお悩みも\n【お気軽に】\nご相談ください"
+    "lead": "話していいことです",
+    "headline": "ひとりで抱えず\n【DM】で\nご相談くださいね"
   },
-  "image_prompt": "Elegant feminine watercolor background for adult women, soft pale pastel green to mint color base, delicate white chamomile and lily of the valley flowers with eucalyptus and tender young green leaves arranged only in the corners and along the left and right edges, a soft cozy knit fabric and gentle morning sunlight hinting at warmth, thin gold lines and subtle sparkles, fresh, clean and calm mood, large bright empty space in the center with very light color for overlaying text, no people's bodies, no text, no letters, no numbers, no logos",
-  "palette": "morning",
+  "image_prompt": "Elegant feminine background design for adult women, soft pale lavender to lilac gradient, watercolor lavender sprigs, wisteria and lilac flowers placed in the corners and along the left and right edges, a soft folded white towel and a delicate glass bottle with gentle bubbles near one edge suggesting a calm evening bath time, thin fine gold lines and gentle sparkles, relaxing night atmosphere, clean and calm, the center left bright, light and mostly empty for overlaying text, no people, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
   "images": [
-    "posts/20261128-morning-1.jpg",
-    "posts/20261128-morning-2.jpg",
-    "posts/20261128-morning-3.jpg",
-    "posts/20261128-morning-4.jpg",
-    "posts/20261128-morning-5.jpg"
+    "posts/20261128-night-1.jpg",
+    "posts/20261128-night-2.jpg",
+    "posts/20261128-night-3.jpg",
+    "posts/20261128-night-4.jpg",
+    "posts/20261128-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17888250216511906",
-  "fb_post_id": "1411087672077869_122123709327506532"
+  "published": false
 }
